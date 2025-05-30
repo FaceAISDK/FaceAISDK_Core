@@ -17,11 +17,10 @@ s.summary = "识别花花草草类型 测试验证 0010"
 # 007 SDK 中的SubModl 重新命名 tf_model.tflite，本工程下面还是Resources_module
 # 008 SDK 中的SubModl 重新命名 tf_model.tflite，本工程下面还是Resources_module ，但是podspec不上传了
 # 0010 从新生存了framework
+# 0011 从VK Imac。迁移到 AIR
+# 12 和11 一样
 
-s.version = "0.0.10"
-
-
-# 不支持模拟器 跳过检验
+s.version = "0.0.13"
 
 
 # 3
