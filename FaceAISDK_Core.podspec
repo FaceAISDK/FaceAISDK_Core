@@ -14,8 +14,10 @@ s.summary = "识别花花草草类型 测试验证"
 # 上传 pod trunk push FaceAISDK_Core.podspec --skip-import-validation
 # 更新 pod install --repo-update
 
-# SDK 中的SubModl 重新命名 tf_model.tflite，本工程下面还是Resources
-s.version = "0.0.7"
+# 007 SDK 中的SubModl 重新命名 tf_model.tflite，本工程下面还是Resources_module
+# 008 SDK 中的SubModl 重新命名 tf_model.tflite，本工程下面还是Resources_module ，但是podspec不上传了
+
+s.version = "0.0.8"
 
 
 # 不支持模拟器 跳过检验
@@ -50,9 +52,8 @@ s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
 
 s.ios.vendored_frameworks   = 'BuildOut/*.framework'
 
-# 资源文件目前是个头疼的问题
-
-s.resources = ['Resources/subModel.bundle','Model.bundle']
+# 008 注释了不上传了
+# s.resources = ['Resources/subModel.bundle','Model.bundle']
 
 # 10
 s.swift_version = "5.9.2"
