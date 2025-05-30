@@ -12,7 +12,7 @@ s.summary = "识别花花草草类型 测试验证"
 #  33 版本修改Resources 中的submodel 名字，希望能成功啊
 
 # pod trunk push FaceAISDK_Core.podspec --skip-import-validation
-s.version = "0.0.2"
+s.version = "0.0.3"
 
 
 # 不支持模拟器 跳过检验
@@ -49,7 +49,7 @@ s.ios.vendored_frameworks   = 'BuildOut/*.framework'
 
 # 资源文件目前是个头疼的问题
 
-s.resources = ['Resources/subModel.bundle']
+s.resources = ['Resources/subModel.bundle','Model.bundle']
 
 # 10
 s.swift_version = "5.9.2"
