@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  FaceAISDK_Core
+//  TestSDK
 //
 //  Created by anylife on 2025/5/30.
 //
@@ -13,7 +13,7 @@ struct ContentView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("CI CD 发布验证，无功能!")
+            Text("Hello, world!")
         }
         .padding()
     }
