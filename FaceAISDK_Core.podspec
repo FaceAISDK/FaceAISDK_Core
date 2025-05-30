@@ -5,7 +5,7 @@ s.platform = :ios
 s.ios.deployment_target = '16.0'
 s.name = "FaceAISDK_Core"
 
-s.summary = "识别花花草草类型 测试验证"
+s.summary = "识别花花草草类型 测试验证 0010"
 
 #s.summary = "FaceAISDK 可以不用联网单机实现人脸录入，人脸识别和活体检验；Framework SDK for add face, face recognition, and liveness detection"
 
@@ -16,8 +16,9 @@ s.summary = "识别花花草草类型 测试验证"
 
 # 007 SDK 中的SubModl 重新命名 tf_model.tflite，本工程下面还是Resources_module
 # 008 SDK 中的SubModl 重新命名 tf_model.tflite，本工程下面还是Resources_module ，但是podspec不上传了
+# 0010 从新生存了framework
 
-s.version = "0.0.9"
+s.version = "0.0.10"
 
 
 # 不支持模拟器 跳过检验

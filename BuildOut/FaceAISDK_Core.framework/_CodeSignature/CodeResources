@@ -6,7 +6,7 @@
 	<dict>
 		<key>FaceAISDK_Core.podspec</key>
 		<data>
-		ckqpnCg0tkYuNSZQMHS7VIU0VzM=
+		wOLPsRItcKSXjs2jMpujh4YRVSY=
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/BCLjoy_200.emd</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		eJ42E9HCVaMQrGXzAbatbg/bgNI=
+		TCBbYzjYIDz/atKR86bBCh+8E1A=
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -86,7 +86,7 @@
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		mFzKDfh/65d1ntHyV1rzFEVOEHg=
+		47qJ5UltoK4ZzClNvo1qGYhGX8c=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -119,11 +119,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ckqpnCg0tkYuNSZQMHS7VIU0VzM=
+			wOLPsRItcKSXjs2jMpujh4YRVSY=
 			</data>
 			<key>hash2</key>
 			<data>
-			86/VasOQi3ELvJe2ATkvwA97BEh6pHX6eIgNIHI/fOY=
+			w068k4Nkv51A+1sm3rhVjT7c7RWdl7ZuubT83On2CrE=
 			</data>
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/BCLjoy_200.emd</key>
@@ -295,11 +295,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			eJ42E9HCVaMQrGXzAbatbg/bgNI=
+			TCBbYzjYIDz/atKR86bBCh+8E1A=
 			</data>
 			<key>hash2</key>
 			<data>
-			lvizYIM8vWEhotYh0WKQgKk8lTWQlpYPOa6Ca5yqwsU=
+			BVwpxPCrskvoyd1eQx4yWjWA5a0wuA6aJaibRda6YoE=
 			</data>
 		</dict>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.abi.json</key>
@@ -328,11 +328,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			mFzKDfh/65d1ntHyV1rzFEVOEHg=
+			47qJ5UltoK4ZzClNvo1qGYhGX8c=
 			</data>
 			<key>hash2</key>
 			<data>
-			v7DMR5SFLFiIFCevFkzxSLz4TDuAwGysoqQ/5+aj4nY=
+			0y8YuYMxHWzUG3qFXTbUfjKxEZQ9ITZGALZYKkNE+rc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
