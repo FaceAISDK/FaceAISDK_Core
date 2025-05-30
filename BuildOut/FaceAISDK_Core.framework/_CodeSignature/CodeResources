@@ -6,7 +6,7 @@
 	<dict>
 		<key>FaceAISDK_Core.podspec</key>
 		<data>
-		Ch/88wsEBzX6NiADTLTZJ50hX5g=
+		ckqpnCg0tkYuNSZQMHS7VIU0VzM=
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/BCLjoy_200.emd</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		x63LAXAv761bHXZkD3e89Id+0UU=
+		eJ42E9HCVaMQrGXzAbatbg/bgNI=
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -86,7 +86,7 @@
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		8sqmT66pYpaXe1bnXF4ae/v317s=
+		mFzKDfh/65d1ntHyV1rzFEVOEHg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -108,7 +108,7 @@
 		<data>
 		PFHYbs0V3eUFDWQyYQcwEetuqEk=
 		</data>
-		<key>subModel.bundle/resource_module.tflite</key>
+		<key>subModel.bundle/tf_model.tflite</key>
 		<data>
 		yigskb0+/bZchBUyVY4jaq/lkr4=
 		</data>
@@ -119,11 +119,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Ch/88wsEBzX6NiADTLTZJ50hX5g=
+			ckqpnCg0tkYuNSZQMHS7VIU0VzM=
 			</data>
 			<key>hash2</key>
 			<data>
-			1lA4apZTc4M3SSyt4UAnc3+netwndEia9MutHl7eUdE=
+			86/VasOQi3ELvJe2ATkvwA97BEh6pHX6eIgNIHI/fOY=
 			</data>
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/BCLjoy_200.emd</key>
@@ -295,11 +295,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			x63LAXAv761bHXZkD3e89Id+0UU=
+			eJ42E9HCVaMQrGXzAbatbg/bgNI=
 			</data>
 			<key>hash2</key>
 			<data>
-			mwtL8qWkFRkzu/wcXRVeXUEJpl1syRLDjMP9OfMNakA=
+			lvizYIM8vWEhotYh0WKQgKk8lTWQlpYPOa6Ca5yqwsU=
 			</data>
 		</dict>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.abi.json</key>
@@ -328,11 +328,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			8sqmT66pYpaXe1bnXF4ae/v317s=
+			mFzKDfh/65d1ntHyV1rzFEVOEHg=
 			</data>
 			<key>hash2</key>
 			<data>
-			3yMbE0aNdU1WpWtl8F22c40IvJDVzpuEr4KdEm/SlIE=
+			v7DMR5SFLFiIFCevFkzxSLz4TDuAwGysoqQ/5+aj4nY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -390,7 +390,7 @@
 			A7LHCDOjMaKx79Ef8WjtAqjq39Xn0fvzDuzHUJpK6kc=
 			</data>
 		</dict>
-		<key>subModel.bundle/resource_module.tflite</key>
+		<key>subModel.bundle/tf_model.tflite</key>
 		<dict>
 			<key>hash</key>
 			<data>

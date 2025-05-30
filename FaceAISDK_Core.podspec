@@ -13,7 +13,9 @@ s.summary = "识别花花草草类型 测试验证"
 
 # 上传 pod trunk push FaceAISDK_Core.podspec --skip-import-validation
 # 更新 pod install --repo-update
-s.version = "0.0.6"
+
+# SDK 中的SubModl 重新命名 tf_model.tflite，本工程下面还是Resources
+s.version = "0.0.7"
 
 
 # 不支持模拟器 跳过检验

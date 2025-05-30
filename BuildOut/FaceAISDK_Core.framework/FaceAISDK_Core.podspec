@@ -12,6 +12,7 @@ s.summary = "识别花花草草类型 测试验证"
 #  33 版本修改Resources 中的submodel 名字，希望能成功啊
 
 # pod trunk push FaceAISDK_Core.podspec --skip-import-validation
+# pod install --repo-update
 s.version = "0.0.2"
 
 
