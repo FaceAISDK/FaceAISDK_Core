@@ -13,6 +13,7 @@ s.summary = "识别花花草草类型 测试验证"
 
 # 上传 pod trunk push FaceAISDK_Core.podspec --skip-import-validation
 # 更新 pod install --repo-update
+
 s.version = "0.0.5"
 
 
