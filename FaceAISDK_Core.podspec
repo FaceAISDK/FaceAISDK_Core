@@ -13,8 +13,7 @@ s.summary = "识别花花草草类型 测试验证"
 
 # 上传 pod trunk push FaceAISDK_Core.podspec --skip-import-validation
 # 更新 pod install --repo-update
-
-s.version = "0.0.5"
+s.version = "0.0.6"
 
 
 # 不支持模拟器 跳过检验
@@ -51,7 +50,7 @@ s.ios.vendored_frameworks   = 'BuildOut/*.framework'
 
 # 资源文件目前是个头疼的问题
 
-# s.resources = ['subModel.bundle','Model.bundle']
+s.resources = ['Resources/subModel.bundle','Model.bundle']
 
 # 10
 s.swift_version = "5.9.2"
