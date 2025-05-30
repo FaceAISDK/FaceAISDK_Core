@@ -20,7 +20,10 @@ s.summary = "识别花花草草类型 测试验证 0010"
 # 0011 从VK Imac。迁移到 AIR
 # 12 和11 一样
 
+
+# 不同的电脑Swift 版本不一样 啊
 s.version = "0.0.14"
+s.swift_version = "5.9.2"
 
 
 # 3
@@ -55,8 +58,6 @@ s.ios.vendored_frameworks   = 'BuildOut/*.framework'
 # 009 上传
 s.resources = ['Resources/subModel.bundle','Model.bundle']
 
-# 10
-s.swift_version = "5.9.2"
 
 end
 
