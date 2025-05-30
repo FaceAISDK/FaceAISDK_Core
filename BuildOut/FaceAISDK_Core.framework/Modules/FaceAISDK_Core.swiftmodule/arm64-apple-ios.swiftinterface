@@ -1,7 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)
-// swift-module-flags: -target arm64-apple-ios16.6 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name FaceAISDK_Core
-// swift-module-flags-ignorable: -enable-bare-slash-regex
+// swift-compiler-version: Apple Swift version 6.1 effective-5.10 (swiftlang-6.1.0.110.21 clang-1700.0.13.3)
+// swift-module-flags: -target arm64-apple-ios16.6 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name FaceAISDK_Core
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface -interface-compiler-version 6.1
 import AVFoundation
 import Combine
 import CoreVideo
@@ -65,10 +65,10 @@ import _SwiftConcurrencyShims
   public typealias ObjectWillChangePublisher = Combine.ObservableObjectPublisher
   @objc deinit
 }
-public struct CameraPreview : SwiftUI.UIViewControllerRepresentable {
-  public init(session: AVFoundation.AVCaptureSession, cameraSize: CoreFoundation.CGFloat)
-  @_Concurrency.MainActor(unsafe) public func makeUIViewController(context: FaceAISDK_Core.CameraPreview.Context) -> UIKit.UIViewController
-  @_Concurrency.MainActor(unsafe) public func updateUIViewController(_ uiViewController: UIKit.UIViewController, context: FaceAISDK_Core.CameraPreview.Context)
+@_Concurrency.MainActor @preconcurrency public struct CameraPreview : SwiftUI.UIViewControllerRepresentable {
+  @_Concurrency.MainActor @preconcurrency public init(session: AVFoundation.AVCaptureSession, cameraSize: CoreFoundation.CGFloat)
+  @_Concurrency.MainActor @preconcurrency public func makeUIViewController(context: FaceAISDK_Core.CameraPreview.Context) -> UIKit.UIViewController
+  @_Concurrency.MainActor @preconcurrency public func updateUIViewController(_ uiViewController: UIKit.UIViewController, context: FaceAISDK_Core.CameraPreview.Context)
   public typealias Body = Swift.Never
   public typealias Coordinator = Swift.Void
   public typealias UIViewControllerType = UIKit.UIViewController
@@ -78,12 +78,8 @@ public struct CameraPreview : SwiftUI.UIViewControllerRepresentable {
   public static func getEmbedding(from faceImage: UIKit.UIImage, using interpreter: TensorFlowLite.Interpreter?) -> [Swift.Float]?
   public static func getEmbeddings2(from image1: UIKit.UIImage, and image2: UIKit.UIImage, using interpreter: TensorFlowLite.Interpreter?) -> ([Swift.Float], [Swift.Float])?
   public static func loadImageFromDocuments(fileName: Swift.String) -> UIKit.UIImage?
-  #if compiler(>=5.3) && $AsyncAwait
   public static func faceAlign(image: UIKit.UIImage, landmarks: [CoreFoundation.CGPoint]) async -> UIKit.UIImage
-  #endif
-  #if compiler(>=5.3) && $AsyncAwait
   public static func getFaceLandmarks(from image: UIKit.UIImage) async -> [CoreFoundation.CGPoint]?
-  #endif
   @objc deinit
 }
 @_hasMissingDesignatedInitializers final public class TFLiteManager {
@@ -157,3 +153,4 @@ public struct CameraPreview : SwiftUI.UIViewControllerRepresentable {
   public typealias ObjectWillChangePublisher = Combine.ObservableObjectPublisher
   @objc deinit
 }
+extension FaceAISDK_Core.CameraPreview : Swift.Sendable {}

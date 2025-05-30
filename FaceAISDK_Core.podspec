@@ -22,8 +22,8 @@ s.summary = "识别花花草草类型 测试验证 0010"
 
 
 # 不同的电脑Swift 版本不一样 啊
-s.version = "0.0.14"
-s.swift_version = "5.9.2"
+s.version = "0.0.15"
+s.swift_version = "6.1"
 
 
 # 3
