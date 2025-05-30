@@ -14,7 +14,6 @@
 		7C73FE292DE99C17005437F4 /* AddFaceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C73FE262DE99C16005437F4 /* AddFaceView.swift */; };
 		7C73FE2A2DE99C17005437F4 /* FaceAINaviView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C73FE272DE99C16005437F4 /* FaceAINaviView.swift */; };
 		7C73FE2B2DE99C17005437F4 /* VerifyFaceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C73FE282DE99C17005437F4 /* VerifyFaceView.swift */; };
-		7C73FE312DE9AA01005437F4 /* MFN.tflite in Resources */ = {isa = PBXBuildFile; fileRef = 7C73FE302DE9A9D3005437F4 /* MFN.tflite */; };
 		C665E144E337F4BEEAF75EF7 /* Pods_TestSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 728D2F1605763EAE4FD039A0 /* Pods_TestSDK.framework */; };
 /* End PBXBuildFile section */
 
@@ -30,7 +29,6 @@
 		7C73FE272DE99C16005437F4 /* FaceAINaviView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FaceAINaviView.swift; sourceTree = "<group>"; };
 		7C73FE282DE99C17005437F4 /* VerifyFaceView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VerifyFaceView.swift; sourceTree = "<group>"; };
 		7C73FE2C2DE9A136005437F4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
-		7C73FE302DE9A9D3005437F4 /* MFN.tflite */ = {isa = PBXFileReference; lastKnownFileType = file; path = MFN.tflite; sourceTree = "<group>"; };
 		DDCC5A15D35EC7A4998720D3 /* Pods-TestSDK.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TestSDK.release.xcconfig"; path = "Target Support Files/Pods-TestSDK/Pods-TestSDK.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -66,7 +64,6 @@
 		7C73FE0C2DE99AC3005437F4 = {
 			isa = PBXGroup;
 			children = (
-				7C73FE302DE9A9D3005437F4 /* MFN.tflite */,
 				7C73FE172DE99AC3005437F4 /* TestSDK */,
 				7C73FE162DE99AC3005437F4 /* Products */,
 				68BB13BD33F0D6DF104FB371 /* Pods */,
@@ -168,7 +165,6 @@
 			files = (
 				7C73FE202DE99AC5005437F4 /* Preview Assets.xcassets in Resources */,
 				7C73FE1D2DE99AC5005437F4 /* Assets.xcassets in Resources */,
-				7C73FE312DE9AA01005437F4 /* MFN.tflite in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

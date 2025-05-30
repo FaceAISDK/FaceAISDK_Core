@@ -27,7 +27,7 @@ struct TestSDKApp: App {
         // 测试子 Bundle 加载 tf_model
         if let sunModelData = TFLiteManager.loadModelFromSubBundle(
             subBundleName: "subModel",
-            modelName: "resource_module2"
+            modelName: "resource_module"
         ) {
             print("✅ Test SDK App 子 Bundle resource_module模型加载成功，大小: \(sunModelData.count) 字节")
         }

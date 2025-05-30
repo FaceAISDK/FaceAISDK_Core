@@ -52,8 +52,8 @@ s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
 
 s.ios.vendored_frameworks   = 'BuildOut/*.framework'
 
-# 008 注释了不上传了
-# s.resources = ['Resources/subModel.bundle','Model.bundle']
+# 009 上传
+s.resources = ['Resources/subModel.bundle','Model.bundle']
 
 # 10
 s.swift_version = "5.9.2"
