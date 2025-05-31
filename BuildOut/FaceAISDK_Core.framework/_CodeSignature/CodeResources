@@ -62,7 +62,7 @@
 		</data>
 		<key>Headers/FaceAISDK_Core-Swift.h</key>
 		<data>
-		Kl9d9umFSWDfOvI7jJhIKSkJHck=
+		JZxGrEdA7coGq8XZN3zMFxklO5A=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		2Y6cFlu0p+0Bf3febi2r4WOnJbY=
+		LxPTiWQJMfX0j2gMsAjzntErYx0=
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -86,7 +86,7 @@
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		VW500DR68ZM/UFZ26obh/E8zcP0=
+		ANw7ApEhbiwKDXIe+ygsPl3p17g=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -273,11 +273,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Kl9d9umFSWDfOvI7jJhIKSkJHck=
+			JZxGrEdA7coGq8XZN3zMFxklO5A=
 			</data>
 			<key>hash2</key>
 			<data>
-			iGYUDNYH3UrmC622J8Cyy5WcdLxv9TL6T4BUPlGWQJY=
+			DL11h7snYZNGchf/vNWfcc5FAFLiKvLwEVHjLAbo2WU=
 			</data>
 		</dict>
 		<key>LICENSE</key>
@@ -295,11 +295,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2Y6cFlu0p+0Bf3febi2r4WOnJbY=
+			LxPTiWQJMfX0j2gMsAjzntErYx0=
 			</data>
 			<key>hash2</key>
 			<data>
-			KyKd1fMsLKLh+udZVH0Bq04N0HxRLAAkzUETWMPhHXA=
+			s8H56m27fI6K/EZ17+xxPEeDn8Dh3MureFZByixLO6k=
 			</data>
 		</dict>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.abi.json</key>
@@ -328,11 +328,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			VW500DR68ZM/UFZ26obh/E8zcP0=
+			ANw7ApEhbiwKDXIe+ygsPl3p17g=
 			</data>
 			<key>hash2</key>
 			<data>
-			2j+7QblToeK+3g2vDPNmuS+ee3fTbOE7O1Sc6idgYT8=
+			rCMQmYJ57zEbX0QHdmBmJcKQjcCx04UKbfOWapgkPd4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

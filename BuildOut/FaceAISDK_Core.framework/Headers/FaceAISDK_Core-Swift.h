@@ -319,9 +319,9 @@ SWIFT_CLASS("_TtC14FaceAISDK_Core11AddFaceCore")
 /// 处理人脸校验逻辑  ，去除基础的依赖
 SWIFT_CLASS("_TtC14FaceAISDK_Core14VerifyFaceCore")
 @interface VerifyFaceCore : NSObject <AVCaptureVideoDataOutputSampleBufferDelegate>
-- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 /// 分析每帧数据，能不能简化一下写法
 - (void)captureOutput:(AVCaptureOutput * _Nonnull)output didOutputSampleBuffer:(CMSampleBufferRef _Nonnull)sampleBuffer fromConnection:(AVCaptureConnection * _Nonnull)connection;
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
 #endif
