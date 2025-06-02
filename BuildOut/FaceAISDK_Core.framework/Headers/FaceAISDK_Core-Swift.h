@@ -316,10 +316,9 @@ SWIFT_CLASS("_TtC14FaceAISDK_Core12AddFaceModel")
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
-/// 处理人脸校验逻辑  ，去除基础的依赖
+/// 人脸识别，动作活体
 SWIFT_CLASS("_TtC14FaceAISDK_Core15VerifyFaceModel")
 @interface VerifyFaceModel : NSObject <AVCaptureVideoDataOutputSampleBufferDelegate>
-/// 分析每帧数据，能不能简化一下写法
 - (void)captureOutput:(AVCaptureOutput * _Nonnull)output didOutputSampleBuffer:(CMSampleBufferRef _Nonnull)sampleBuffer fromConnection:(AVCaptureConnection * _Nonnull)connection;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
