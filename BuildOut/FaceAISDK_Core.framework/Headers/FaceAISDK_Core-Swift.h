@@ -308,10 +308,10 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 
 @class AVCaptureOutput;
 @class AVCaptureConnection;
-/// ContentViewModel is a class that handles the logic of the app.
+/// 添加人脸照片，提示人脸角度摆正
 SWIFT_CLASS("_TtC14FaceAISDK_Core11AddFaceCore")
 @interface AddFaceCore : NSObject <AVCaptureVideoDataOutputSampleBufferDelegate>
-/// 分析每帧数据，能不能简化一下写法
+/// 分析帧数据
 - (void)captureOutput:(AVCaptureOutput * _Nonnull)output didOutputSampleBuffer:(CMSampleBufferRef _Nonnull)sampleBuffer fromConnection:(AVCaptureConnection * _Nonnull)connection;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
