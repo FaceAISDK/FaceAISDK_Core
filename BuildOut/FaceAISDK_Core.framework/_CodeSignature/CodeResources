@@ -82,11 +82,15 @@
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		Wi8hkl9bmhwCw0vJQU2qQhks/84=
+		HGTKbJtEmhV/daqBlpdkC3IF+n8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		2X2WKKbIVDJeW0AYasK1dKtRnbw=
+		</data>
+		<key>README.md</key>
+		<data>
+		34UY6dNIBSYuFzpEBecCn6KS9ZA=
 		</data>
 		<key>TensorFlowLite.bundle/Info.plist</key>
 		<data>
@@ -313,11 +317,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Wi8hkl9bmhwCw0vJQU2qQhks/84=
+			HGTKbJtEmhV/daqBlpdkC3IF+n8=
 			</data>
 			<key>hash2</key>
 			<data>
-			lkrQc0KsDrXER+alN2Zi7xZa4prcVsNdxeSrBaKVkaE=
+			LamUYFvcu8zb7cU4SfwM46iwYZoW4JIqfu41OuTzALU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -329,6 +333,17 @@
 			<key>hash2</key>
 			<data>
 			fDpcUHkE/sTIXSCO4Lmppmv3oKaKvr+RMRKEKmAg6iY=
+			</data>
+		</dict>
+		<key>README.md</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			34UY6dNIBSYuFzpEBecCn6KS9ZA=
+			</data>
+			<key>hash2</key>
+			<data>
+			2biiUwFoNeq0EjTma6cVn4GUJRYHv0/D+kWWv416Sao=
 			</data>
 		</dict>
 		<key>TensorFlowLite.bundle/Info.plist</key>
