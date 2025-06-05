@@ -52,7 +52,7 @@ s.ios.vendored_frameworks   = 'BuildOut/*.framework'
 s.resources = ['Resources/subModel.bundle']
 
 # 10
-# s.swift_version = "5.9.2"
+s.swift_version = "5.9.2"
 
 end
 

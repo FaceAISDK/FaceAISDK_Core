@@ -20,6 +20,7 @@ s.version = "0.0.70"
 s.swift_version = "5.9.2"
 
 
+
 # 3
 s.license = { :type => "FaceAISDK License", :file => "LICENSE" }
 
