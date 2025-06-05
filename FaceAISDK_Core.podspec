@@ -14,16 +14,10 @@ s.summary = "识别花花草草类型 测试验证 0010"
 # 上传 pod trunk push FaceAISDK_Core.podspec --skip-import-validation
 # 更新 pod install --repo-update
 
-# 007 SDK 中的SubModl 重新命名 tf_model.tflite，本工程下面还是Resources_module
-# 008 SDK 中的SubModl 重新命名 tf_model.tflite，本工程下面还是Resources_module ，但是podspec不上传了
-# 0010 从新生存了framework
-# 0011 从VK Imac。迁移到 AIR
-# 12 和11 一样
 
-
-# 不同的电脑Swift 版本不一样 啊
-s.version = "0.0.73"
-s.swift_version = "6.1"
+# 不同的电脑Swift 版本不一样 .70 使用AIR 编译但是swift 为 5.9.2
+s.version = "0.0.70"
+s.swift_version = "5.9.2"
 
 
 # 3
