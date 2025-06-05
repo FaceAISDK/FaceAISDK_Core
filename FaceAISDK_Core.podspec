@@ -9,13 +9,13 @@ s.summary = "识别花花草草类型 测试验证 0010"
 
 #s.summary = "FaceAISDK 可以不用联网单机实现人脸录入，人脸识别和活体检验；Framework SDK for add face, face recognition, and liveness detection"
 
-#  33 版本修改Resources 中的submodel 名字，希望能成功啊
 
 # 上传 pod trunk push FaceAISDK_Core.podspec --skip-import-validation
 # 更新 pod install --repo-update
+# 69 使用Xcode 15 打包，Debug 包
 
 # 不同的电脑Swift 版本不一样 啊
-s.version = "0.0.72"
+s.version = "0.0.69"
 s.swift_version = "5.92"
 
 
