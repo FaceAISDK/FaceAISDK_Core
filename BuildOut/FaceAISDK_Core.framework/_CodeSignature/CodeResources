@@ -74,23 +74,23 @@
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		TtqM1pY9tvYHAVYM6rwxFENFH/g=
+		wHi0a3yglV4pW1gRG3VWCyAKTpI=
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		wrQ99A3It+/5MRKaNwy2gAOMhzs=
+		t4EHQ7qQucDvBet2bO8vtb3Pxq0=
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		N0tLwAuLlYZlLz1yNW7JWpLcDFM=
+		PHuhCSllgdVayyT3TezWA4GfUvE=
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		wrQ99A3It+/5MRKaNwy2gAOMhzs=
+		t4EHQ7qQucDvBet2bO8vtb3Pxq0=
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		tJBKXQfTp6TrGj+3w53wj4Jdsdw=
+		smYCmYFNFSsr3HJtpmVGFxeitMk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -303,55 +303,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TtqM1pY9tvYHAVYM6rwxFENFH/g=
+			wHi0a3yglV4pW1gRG3VWCyAKTpI=
 			</data>
 			<key>hash2</key>
 			<data>
-			OqbmB0GYgQ0vz5odsmTsJY7LDuSl7I0av58FazP4WRo=
+			gYlVNTFXaHS+Hn/ap7sAOemdqR/tUB4jtwEc2MSkXOE=
 			</data>
 		</dict>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wrQ99A3It+/5MRKaNwy2gAOMhzs=
+			t4EHQ7qQucDvBet2bO8vtb3Pxq0=
 			</data>
 			<key>hash2</key>
 			<data>
-			mAGt/a4ogClTrawvcRyIzbMDiPP795kklhJJebFJNdc=
+			Kig7SsqCkCnv1SKaOri38X9AYGDAkXG44A0dt8fwTMk=
 			</data>
 		</dict>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			N0tLwAuLlYZlLz1yNW7JWpLcDFM=
+			PHuhCSllgdVayyT3TezWA4GfUvE=
 			</data>
 			<key>hash2</key>
 			<data>
-			AOJ7spD7lWfxgw+ZpodYgseidgMGVBh7L2O0D3iIScU=
+			asPMb2s+JDw2kwueVwdGTmcL6kgSSWGe7IFePiR8bPM=
 			</data>
 		</dict>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wrQ99A3It+/5MRKaNwy2gAOMhzs=
+			t4EHQ7qQucDvBet2bO8vtb3Pxq0=
 			</data>
 			<key>hash2</key>
 			<data>
-			mAGt/a4ogClTrawvcRyIzbMDiPP795kklhJJebFJNdc=
+			Kig7SsqCkCnv1SKaOri38X9AYGDAkXG44A0dt8fwTMk=
 			</data>
 		</dict>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tJBKXQfTp6TrGj+3w53wj4Jdsdw=
+			smYCmYFNFSsr3HJtpmVGFxeitMk=
 			</data>
 			<key>hash2</key>
 			<data>
-			N8FGuO0f5vL2I4neiuZc6QagLcLD2ijEdJ7KxSx5TWY=
+			FEl9UeyHVz2nmiwspIe38qw0CkAUkBsyXkg7IbG/CeM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
