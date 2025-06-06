@@ -12,7 +12,7 @@ s.summary = "FaceAISDK 可以不用联网单机实现人脸录入，人脸识别
 # 69 使用Xcode 15 打包，Debug 包
 
 # 不同的电脑Swift 版本不一样 啊 
-s.version = "0.0.68.imacDebug"
+s.version = "0.0.68.imacXCFrameWork"
 s.swift_version = "5.92"
 
 
@@ -41,7 +41,7 @@ s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
 
 # 8
 
-s.ios.vendored_frameworks  = 'BuildOut/*.framework'
+s.ios.vendored_frameworks  = 'BuildOut/*.xcframework'
 
 # 009 上传
 s.resources = ['Resources/subModel.bundle','Model.bundle']

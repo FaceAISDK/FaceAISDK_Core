@@ -7,17 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7C69C05A2DF2D383000CF422 /* FaceAISDK_Core.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7C69C0592DF2D383000CF422 /* FaceAISDK_Core.xcframework */; };
 		7C73FDF82DE99438005437F4 /* FaceAISDK_CoreApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C73FDF72DE99438005437F4 /* FaceAISDK_CoreApp.swift */; };
 		7C73FDFA2DE99438005437F4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C73FDF92DE99438005437F4 /* ContentView.swift */; };
 		7C73FDFC2DE9943A005437F4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7C73FDFB2DE9943A005437F4 /* Assets.xcassets */; };
 		7C73FDFF2DE9943A005437F4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7C73FDFE2DE9943A005437F4 /* Preview Assets.xcassets */; };
 		7C73FE082DE995A4005437F4 /* FaceAISDK_Core.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 7C73FE052DE995A4005437F4 /* FaceAISDK_Core.podspec */; };
 		7C73FE092DE995A4005437F4 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 7C73FE072DE995A4005437F4 /* LICENSE */; };
-		7C73FE0B2DE99638005437F4 /* FaceAISDK_Core.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7C73FE0A2DE99638005437F4 /* FaceAISDK_Core.framework */; };
 		7C73FE3C2DE9B2E3005437F4 /* subModel.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 7C73FE3B2DE9B2E3005437F4 /* subModel.bundle */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7C69C0592DF2D383000CF422 /* FaceAISDK_Core.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = FaceAISDK_Core.xcframework; sourceTree = "<group>"; };
 		7C73FDF42DE99438005437F4 /* FaceAISDK_Core.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FaceAISDK_Core.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7C73FDF72DE99438005437F4 /* FaceAISDK_CoreApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FaceAISDK_CoreApp.swift; sourceTree = "<group>"; };
 		7C73FDF92DE99438005437F4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -25,7 +26,6 @@
 		7C73FDFE2DE9943A005437F4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		7C73FE052DE995A4005437F4 /* FaceAISDK_Core.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = FaceAISDK_Core.podspec; sourceTree = "<group>"; };
 		7C73FE072DE995A4005437F4 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
-		7C73FE0A2DE99638005437F4 /* FaceAISDK_Core.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FaceAISDK_Core.framework; sourceTree = "<group>"; };
 		7C73FE3B2DE9B2E3005437F4 /* subModel.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = subModel.bundle; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -34,7 +34,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7C73FE0B2DE99638005437F4 /* FaceAISDK_Core.framework in Frameworks */,
+				7C69C05A2DF2D383000CF422 /* FaceAISDK_Core.xcframework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -83,7 +83,7 @@
 		7C73FE062DE995A4005437F4 /* BuildOut */ = {
 			isa = PBXGroup;
 			children = (
-				7C73FE0A2DE99638005437F4 /* FaceAISDK_Core.framework */,
+				7C69C0592DF2D383000CF422 /* FaceAISDK_Core.xcframework */,
 			);
 			path = BuildOut;
 			sourceTree = "<group>";
