@@ -11,8 +11,11 @@ s.summary = "FaceAISDK 可以不用联网单机实现人脸录入，人脸识别
 # 更新 pod install --repo-update
 # 69 使用Xcode 15 打包，Debug 包
 
-# 不同的电脑Swift 版本不一样 啊 
+# 不同的电脑Swift 版本不一样 啊
+
 s.version = "0.0.68.imacNoOption"
+
+
 s.swift_version = "5.92"
 
 
