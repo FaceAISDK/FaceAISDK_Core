@@ -1,7 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)
-// swift-module-flags: -target arm64-apple-ios16.6 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name FaceAISDK_Core
-// swift-module-flags-ignorable: -enable-bare-slash-regex
+// swift-compiler-version: Apple Swift version 6.1 effective-5.10 (swiftlang-6.1.0.110.21 clang-1700.0.13.3)
+// swift-module-flags: -target arm64-apple-ios16.6 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name FaceAISDK_Core
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface -interface-compiler-version 6.1
 import AVFoundation
 import Combine
 import CoreVideo
@@ -19,8 +19,6 @@ import VisionKit
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
-public struct VerifyResultCode {
-}
 @objc @_inheritsConvenienceInitializers public class AddFaceModel : ObjectiveC.NSObject, Foundation.ObservableObject, AVFoundation.AVCaptureVideoDataOutputSampleBufferDelegate {
   @Combine.Published @_projectedValueProperty($canAddFace) public var canAddFace: UIKit.UIImage {
     get
@@ -76,7 +74,7 @@ public struct VerifyResultCode {
   @objc public func captureOutput(_ output: AVFoundation.AVCaptureOutput, didOutput sampleBuffer: CoreMedia.CMSampleBuffer, from connection: AVFoundation.AVCaptureConnection)
   public func reInit()
   @objc override dynamic public init()
-  public func confirmSaveFaceiMacVk(fileName: Swift.String) -> Swift.String?
+  public func confirmSaveFaceAir(fileName: Swift.String) -> Swift.String?
   public typealias ObjectWillChangePublisher = Combine.ObservableObjectPublisher
   @objc deinit
 }
@@ -132,11 +130,12 @@ public struct FaceVerifyResult : Swift.Equatable {
   public var similarity: Swift.Float
   public static func == (a: FaceAISDK_Core.FaceVerifyResult, b: FaceAISDK_Core.FaceVerifyResult) -> Swift.Bool
 }
-public struct FaceCameraPreview : SwiftUI.UIViewControllerRepresentable {
-  public init(session: AVFoundation.AVCaptureSession, cameraSize: CoreFoundation.CGFloat)
-  @_Concurrency.MainActor(unsafe) public func makeUIViewController(context: FaceAISDK_Core.FaceCameraPreview.Context) -> UIKit.UIViewController
-  @_Concurrency.MainActor(unsafe) public func updateUIViewController(_ uiViewController: UIKit.UIViewController, context: FaceAISDK_Core.FaceCameraPreview.Context)
+@_Concurrency.MainActor @preconcurrency public struct FaceCameraPreview : SwiftUI.UIViewControllerRepresentable {
+  @_Concurrency.MainActor @preconcurrency public init(session: AVFoundation.AVCaptureSession, cameraSize: CoreFoundation.CGFloat)
+  @_Concurrency.MainActor @preconcurrency public func makeUIViewController(context: FaceAISDK_Core.FaceCameraPreview.Context) -> UIKit.UIViewController
+  @_Concurrency.MainActor @preconcurrency public func updateUIViewController(_ uiViewController: UIKit.UIViewController, context: FaceAISDK_Core.FaceCameraPreview.Context)
   public typealias Body = Swift.Never
   public typealias Coordinator = Swift.Void
   public typealias UIViewControllerType = UIKit.UIViewController
 }
+extension FaceAISDK_Core.FaceCameraPreview : Swift.Sendable {}
