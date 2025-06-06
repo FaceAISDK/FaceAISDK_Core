@@ -12,20 +12,14 @@ s.summary = "FaceAISDK 可以不用联网单机实现人脸录入，人脸识别
 # 69 使用Xcode 15 打包，Debug 包
 
 # 不同的电脑Swift 版本不一样 啊 
-s.version = "0.0.68.imacXCFrameWork"
+s.version = "0.0.68.imacNoOption"
 s.swift_version = "5.92"
 
 
 # 3
 s.license = { :type => "FaceAISDK License", :file => "LICENSE" }
-
-# 4 - Replace with your name and e-mail address
 s.author = { "FaceAISDK_Core" => "FaceAISDK.Service@gmail.com" }
-
-# 5 - Replace this URL with your own GitHub page's URL (from the address bar)
 s.homepage = "https://github.com/AnyLifeZLB/FaceAISDK_Core"
-
-# 6 - Replace this URL with your own Git URL from "Quick Setup"
 s.source = { :git => "https://github.com/AnyLifeZLB/FaceAISDK_Core.git",
              :tag => "#{s.version}" }
 
@@ -40,8 +34,7 @@ s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
 
 
 # 8
-
-s.ios.vendored_frameworks  = 'BuildOut/*.xcframework'
+s.ios.vendored_frameworks  = 'BuildOut/*.framework'
 
 # 009 上传
 s.resources = ['Resources/subModel.bundle','Model.bundle']
