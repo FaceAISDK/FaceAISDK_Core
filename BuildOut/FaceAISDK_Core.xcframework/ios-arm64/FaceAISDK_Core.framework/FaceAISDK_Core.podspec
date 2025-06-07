@@ -5,9 +5,7 @@ s.platform = :ios
 s.ios.deployment_target = '16.0'
 s.name = "FaceAISDK_Core"
 
-s.summary = "识别花花草草类型 测试验证"
-
-#s.summary = "FaceAISDK 可以不用联网单机实现人脸录入，人脸识别和活体检验；Framework SDK for add face, face recognition, and liveness detection"
+s.summary = "FaceAISDK 可以不用联网单机实现人脸录入，人脸识别和活体检验；Framework SDK for add face, face recognition, and liveness detection"
 
 # 这是备份，没有用的
 # pod trunk push FaceAISDK_Core.podspec --skip-import-validation

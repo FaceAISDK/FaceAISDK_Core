@@ -12,7 +12,6 @@ import MLKitFaceDetection
 import MLKitVision
 import Swift
 import SwiftUI
-import TensorFlowLite
 import UIKit
 import Vision
 import VisionKit
@@ -78,6 +77,12 @@ import _SwiftConcurrencyShims
   public typealias ObjectWillChangePublisher = Combine.ObservableObjectPublisher
   @objc deinit
 }
+public struct FaceVerifyResult : Swift.Equatable {
+  public var code: Swift.Int
+  public var tips: Swift.String
+  public var similarity: Swift.Float
+  public static func == (a: FaceAISDK_Core.FaceVerifyResult, b: FaceAISDK_Core.FaceVerifyResult) -> Swift.Bool
+}
 @objc @_inheritsConvenienceInitializers public class VerifyFaceModel : ObjectiveC.NSObject, Foundation.ObservableObject, AVFoundation.AVCaptureVideoDataOutputSampleBufferDelegate {
   public static let defaultTips: Swift.String
   @Combine.Published @_projectedValueProperty($verifyFaceTips) public var verifyFaceTips: Swift.String {
@@ -123,12 +128,6 @@ import _SwiftConcurrencyShims
   @objc override dynamic public init()
   public typealias ObjectWillChangePublisher = Combine.ObservableObjectPublisher
   @objc deinit
-}
-public struct FaceVerifyResult : Swift.Equatable {
-  public var code: Swift.Int
-  public var tips: Swift.String
-  public var similarity: Swift.Float
-  public static func == (a: FaceAISDK_Core.FaceVerifyResult, b: FaceAISDK_Core.FaceVerifyResult) -> Swift.Bool
 }
 @_Concurrency.MainActor @preconcurrency public struct FaceCameraPreview : SwiftUI.UIViewControllerRepresentable {
   @_Concurrency.MainActor @preconcurrency public init(session: AVFoundation.AVCaptureSession, cameraSize: CoreFoundation.CGFloat)
