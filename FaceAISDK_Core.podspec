@@ -9,23 +9,16 @@ s.summary = "FaceAISDK 可以不用联网单机实现人脸录入，人脸识别
 
 # 上传 pod trunk push FaceAISDK_Core.podspec --skip-import-validation
 # 更新 pod install --repo-update
-# 69 使用Xcode 15 打包，Debug 包
 
-# 不同的电脑Swift 版本不一样 啊 
+
 s.version = "0.0.90.airXC"
 s.swift_version = "5.92"
 
 
 # 3
 s.license = { :type => "FaceAISDK License", :file => "LICENSE" }
-
-# 4 - Replace with your name and e-mail address
 s.author = { "FaceAISDK_Core" => "FaceAISDK.Service@gmail.com" }
-
-# 5 - Replace this URL with your own GitHub page's URL (from the address bar)
 s.homepage = "https://github.com/AnyLifeZLB/FaceAISDK_Core"
-
-# 6 - Replace this URL with your own Git URL from "Quick Setup"
 s.source = { :git => "https://github.com/AnyLifeZLB/FaceAISDK_Core.git",
              :tag => "#{s.version}" }
 

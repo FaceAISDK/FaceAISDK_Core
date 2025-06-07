@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+<<<<<<< HEAD
+=======
+		7C69C05E2DF31A4E000CF422 /* FaceAISDK_Core.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7C69C05D2DF31A4E000CF422 /* FaceAISDK_Core.framework */; };
+>>>>>>> refs/remotes/origin/main
 		7C73FDF82DE99438005437F4 /* FaceAISDK_CoreApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C73FDF72DE99438005437F4 /* FaceAISDK_CoreApp.swift */; };
 		7C73FDFA2DE99438005437F4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C73FDF92DE99438005437F4 /* ContentView.swift */; };
 		7C73FDFC2DE9943A005437F4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7C73FDFB2DE9943A005437F4 /* Assets.xcassets */; };
@@ -18,6 +22,10 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+<<<<<<< HEAD
+=======
+		7C69C05D2DF31A4E000CF422 /* FaceAISDK_Core.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FaceAISDK_Core.framework; sourceTree = "<group>"; };
+>>>>>>> refs/remotes/origin/main
 		7C73FDF42DE99438005437F4 /* FaceAISDK_Core.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FaceAISDK_Core.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7C73FDF72DE99438005437F4 /* FaceAISDK_CoreApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FaceAISDK_CoreApp.swift; sourceTree = "<group>"; };
 		7C73FDF92DE99438005437F4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -34,7 +42,11 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+<<<<<<< HEAD
 				CFBA4E5C2DF4391A0097F236 /* FaceAISDK_Core.framework in Frameworks */,
+=======
+				7C69C05E2DF31A4E000CF422 /* FaceAISDK_Core.framework in Frameworks */,
+>>>>>>> refs/remotes/origin/main
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -83,7 +95,11 @@
 		7C73FE062DE995A4005437F4 /* BuildOut */ = {
 			isa = PBXGroup;
 			children = (
+<<<<<<< HEAD
 				CFBA4E5B2DF4391A0097F236 /* FaceAISDK_Core.framework */,
+=======
+				7C69C05D2DF31A4E000CF422 /* FaceAISDK_Core.framework */,
+>>>>>>> refs/remotes/origin/main
 			);
 			path = BuildOut;
 			sourceTree = "<group>";
