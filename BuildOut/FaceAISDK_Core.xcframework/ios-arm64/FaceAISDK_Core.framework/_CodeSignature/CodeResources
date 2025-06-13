@@ -6,7 +6,7 @@
 	<dict>
 		<key>FaceAISDK_Core.podspec</key>
 		<data>
-		32yvGZTt76G4s4WWu/0zmCJS1Js=
+		2jzzJUVRfhg5Ap7YtTyFRRRCD1I=
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/BCLjoy_200.emd</key>
 		<data>
@@ -74,11 +74,11 @@
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		nPshzrjucqvMhY6M6lbqRLU3OLg=
+		Smla2GcvZV5k7bpIeaXx8HvfJ3k=
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		RKVEn+sLjdUNhDZCAstDhHeZUFM=
+		P7dN8hRBMsQfc2VrogkZUnjMvi8=
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -86,11 +86,11 @@
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		RKVEn+sLjdUNhDZCAstDhHeZUFM=
+		P7dN8hRBMsQfc2VrogkZUnjMvi8=
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		Dsg1lDszg7uW2rPcbV0tJIGqvzs=
+		XCOtw/OpIvZCKLnmcr087GXO+/4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -116,10 +116,28 @@
 		<data>
 		PFHYbs0V3eUFDWQyYQcwEetuqEk=
 		</data>
+		<key>en.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			cBpnI5B7kMpwmLrNsNX55J3siRA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>subModel.bundle/tf_model.tflite</key>
 		<data>
 		yigskb0+/bZchBUyVY4jaq/lkr4=
 		</data>
+		<key>zh-Hans.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gb0vAyJCYMOMxyqwyxN9RJMqg0I=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -127,11 +145,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			32yvGZTt76G4s4WWu/0zmCJS1Js=
+			2jzzJUVRfhg5Ap7YtTyFRRRCD1I=
 			</data>
 			<key>hash2</key>
 			<data>
-			8DvKoFcacxP3k7cP4W6yvfHydImHDT7JZgqqjy/e9kI=
+			JlUiXsT7eqHDVUcyyIVktILCaDdLydcOQuH+QY0AGrc=
 			</data>
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/BCLjoy_200.emd</key>
@@ -303,22 +321,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			nPshzrjucqvMhY6M6lbqRLU3OLg=
+			Smla2GcvZV5k7bpIeaXx8HvfJ3k=
 			</data>
 			<key>hash2</key>
 			<data>
-			utuXakzspgNafcvSyZ3sZbpxs6aoWp/nDJk4k5qNoCA=
+			KEmp86Zh9/Y9wTKcpI/DzZggmn5wj/sP+aReBym99sQ=
 			</data>
 		</dict>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			RKVEn+sLjdUNhDZCAstDhHeZUFM=
+			P7dN8hRBMsQfc2VrogkZUnjMvi8=
 			</data>
 			<key>hash2</key>
 			<data>
-			XqQSqNf+B/M6xcRCKAc8meA3rFWH/26otV4+95tuPiw=
+			4KKzaz1btO8qPdIVDL0TETyEiN0GoPwOnQ6xnXZwd9M=
 			</data>
 		</dict>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -336,22 +354,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RKVEn+sLjdUNhDZCAstDhHeZUFM=
+			P7dN8hRBMsQfc2VrogkZUnjMvi8=
 			</data>
 			<key>hash2</key>
 			<data>
-			XqQSqNf+B/M6xcRCKAc8meA3rFWH/26otV4+95tuPiw=
+			4KKzaz1btO8qPdIVDL0TETyEiN0GoPwOnQ6xnXZwd9M=
 			</data>
 		</dict>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Dsg1lDszg7uW2rPcbV0tJIGqvzs=
+			XCOtw/OpIvZCKLnmcr087GXO+/4=
 			</data>
 			<key>hash2</key>
 			<data>
-			3WIbabHwTZ1ldZ14TovFrew4gGUnvLfBfx9km958Jww=
+			fpYleW0+NwKqz+VgBSATo99a/NwVP0IEhE+ss1uhk8s=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -420,6 +438,19 @@
 			A7LHCDOjMaKx79Ef8WjtAqjq39Xn0fvzDuzHUJpK6kc=
 			</data>
 		</dict>
+		<key>en.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			cBpnI5B7kMpwmLrNsNX55J3siRA=
+			</data>
+			<key>hash2</key>
+			<data>
+			7T1ETO1oB84hHBF9Qy4T8yjbthLlwLd41i5IKep5mcc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>subModel.bundle/tf_model.tflite</key>
 		<dict>
 			<key>hash</key>
@@ -430,6 +461,19 @@
 			<data>
 			2LpAwBJ/uMqZF+j93Hm7vaBjZXvJKkltNNoLyKdgRDs=
 			</data>
+		</dict>
+		<key>zh-Hans.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gb0vAyJCYMOMxyqwyxN9RJMqg0I=
+			</data>
+			<key>hash2</key>
+			<data>
+			MV4pTkkPi16pVX0Qg0uYU8StEFSXME6DIbZMsJaul5I=
+			</data>
+			<key>optional</key>
+			<true/>
 		</dict>
 	</dict>
 	<key>rules</key>

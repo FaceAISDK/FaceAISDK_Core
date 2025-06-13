@@ -1225,466 +1225,6 @@
       },
       {
         "kind": "Import",
-        "name": "AVFoundation",
-        "printedName": "AVFoundation",
-        "declKind": "Import",
-        "moduleName": "FaceAISDK_Core"
-      },
-      {
-        "kind": "Import",
-        "name": "CoreVideo",
-        "printedName": "CoreVideo",
-        "declKind": "Import",
-        "moduleName": "FaceAISDK_Core"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "FaceAISDK_Core"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "FaceAISDK_Core",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "FaceAISDK_Core"
-      },
-      {
-        "kind": "Import",
-        "name": "Vision",
-        "printedName": "Vision",
-        "declKind": "Import",
-        "moduleName": "FaceAISDK_Core"
-      },
-      {
-        "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
-        "declKind": "Import",
-        "moduleName": "FaceAISDK_Core"
-      },
-      {
-        "kind": "Import",
-        "name": "CoreVideo",
-        "printedName": "CoreVideo",
-        "declKind": "Import",
-        "moduleName": "FaceAISDK_Core"
-      },
-      {
-        "kind": "Import",
-        "name": "MLImage",
-        "printedName": "MLImage",
-        "declKind": "Import",
-        "moduleName": "FaceAISDK_Core"
-      },
-      {
-        "kind": "Import",
-        "name": "AVFoundation",
-        "printedName": "AVFoundation",
-        "declKind": "Import",
-        "moduleName": "FaceAISDK_Core"
-      },
-      {
-        "kind": "Import",
-        "name": "TensorFlowLite",
-        "printedName": "TensorFlowLite",
-        "declKind": "Import",
-        "moduleName": "FaceAISDK_Core",
-        "declAttributes": [
-          "AccessControl"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "MLKitCommon",
-        "printedName": "MLKitCommon",
-        "declKind": "Import",
-        "moduleName": "FaceAISDK_Core"
-      },
-      {
-        "kind": "Import",
-        "name": "MLKitFaceDetection",
-        "printedName": "MLKitFaceDetection",
-        "declKind": "Import",
-        "moduleName": "FaceAISDK_Core"
-      },
-      {
-        "kind": "Import",
-        "name": "MLKitVision",
-        "printedName": "MLKitVision",
-        "declKind": "Import",
-        "moduleName": "FaceAISDK_Core"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "FaceAISDK_Core"
-      },
-      {
-        "kind": "Import",
-        "name": "Combine",
-        "printedName": "Combine",
-        "declKind": "Import",
-        "moduleName": "FaceAISDK_Core"
-      },
-      {
-        "kind": "TypeDecl",
-        "name": "FaceVerifyResult",
-        "printedName": "FaceVerifyResult",
-        "children": [
-          {
-            "kind": "Var",
-            "name": "code",
-            "printedName": "code",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Int",
-                "printedName": "Swift.Int",
-                "usr": "s:Si"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:14FaceAISDK_Core0A12VerifyResultV4codeSivp",
-            "mangledName": "$s14FaceAISDK_Core0A12VerifyResultV4codeSivp",
-            "moduleName": "FaceAISDK_Core",
-            "declAttributes": [
-              "HasInitialValue",
-              "HasStorage",
-              "AccessControl"
-            ],
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Int",
-                    "printedName": "Swift.Int",
-                    "usr": "s:Si"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:14FaceAISDK_Core0A12VerifyResultV4codeSivg",
-                "mangledName": "$s14FaceAISDK_Core0A12VerifyResultV4codeSivg",
-                "moduleName": "FaceAISDK_Core",
-                "implicit": true,
-                "accessorKind": "get"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Set",
-                "printedName": "Set()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Int",
-                    "printedName": "Swift.Int",
-                    "usr": "s:Si"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:14FaceAISDK_Core0A12VerifyResultV4codeSivs",
-                "mangledName": "$s14FaceAISDK_Core0A12VerifyResultV4codeSivs",
-                "moduleName": "FaceAISDK_Core",
-                "implicit": true,
-                "accessorKind": "set"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Modify",
-                "printedName": "Modify()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:14FaceAISDK_Core0A12VerifyResultV4codeSivM",
-                "mangledName": "$s14FaceAISDK_Core0A12VerifyResultV4codeSivM",
-                "moduleName": "FaceAISDK_Core",
-                "implicit": true,
-                "accessorKind": "_modify"
-              }
-            ]
-          },
-          {
-            "kind": "Var",
-            "name": "tips",
-            "printedName": "tips",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:14FaceAISDK_Core0A12VerifyResultV4tipsSSvp",
-            "mangledName": "$s14FaceAISDK_Core0A12VerifyResultV4tipsSSvp",
-            "moduleName": "FaceAISDK_Core",
-            "declAttributes": [
-              "HasInitialValue",
-              "HasStorage",
-              "AccessControl"
-            ],
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:14FaceAISDK_Core0A12VerifyResultV4tipsSSvg",
-                "mangledName": "$s14FaceAISDK_Core0A12VerifyResultV4tipsSSvg",
-                "moduleName": "FaceAISDK_Core",
-                "implicit": true,
-                "accessorKind": "get"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Set",
-                "printedName": "Set()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:14FaceAISDK_Core0A12VerifyResultV4tipsSSvs",
-                "mangledName": "$s14FaceAISDK_Core0A12VerifyResultV4tipsSSvs",
-                "moduleName": "FaceAISDK_Core",
-                "implicit": true,
-                "accessorKind": "set"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Modify",
-                "printedName": "Modify()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:14FaceAISDK_Core0A12VerifyResultV4tipsSSvM",
-                "mangledName": "$s14FaceAISDK_Core0A12VerifyResultV4tipsSSvM",
-                "moduleName": "FaceAISDK_Core",
-                "implicit": true,
-                "accessorKind": "_modify"
-              }
-            ]
-          },
-          {
-            "kind": "Var",
-            "name": "similarity",
-            "printedName": "similarity",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Float",
-                "printedName": "Swift.Float",
-                "usr": "s:Sf"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:14FaceAISDK_Core0A12VerifyResultV10similaritySfvp",
-            "mangledName": "$s14FaceAISDK_Core0A12VerifyResultV10similaritySfvp",
-            "moduleName": "FaceAISDK_Core",
-            "declAttributes": [
-              "HasInitialValue",
-              "HasStorage",
-              "AccessControl"
-            ],
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Float",
-                    "printedName": "Swift.Float",
-                    "usr": "s:Sf"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:14FaceAISDK_Core0A12VerifyResultV10similaritySfvg",
-                "mangledName": "$s14FaceAISDK_Core0A12VerifyResultV10similaritySfvg",
-                "moduleName": "FaceAISDK_Core",
-                "implicit": true,
-                "accessorKind": "get"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Set",
-                "printedName": "Set()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Float",
-                    "printedName": "Swift.Float",
-                    "usr": "s:Sf"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:14FaceAISDK_Core0A12VerifyResultV10similaritySfvs",
-                "mangledName": "$s14FaceAISDK_Core0A12VerifyResultV10similaritySfvs",
-                "moduleName": "FaceAISDK_Core",
-                "implicit": true,
-                "accessorKind": "set"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Modify",
-                "printedName": "Modify()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:14FaceAISDK_Core0A12VerifyResultV10similaritySfvM",
-                "mangledName": "$s14FaceAISDK_Core0A12VerifyResultV10similaritySfvM",
-                "moduleName": "FaceAISDK_Core",
-                "implicit": true,
-                "accessorKind": "_modify"
-              }
-            ]
-          },
-          {
-            "kind": "Function",
-            "name": "==",
-            "printedName": "==(_:_:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Bool",
-                "printedName": "Swift.Bool",
-                "usr": "s:Sb"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "FaceVerifyResult",
-                "printedName": "FaceAISDK_Core.FaceVerifyResult",
-                "usr": "s:14FaceAISDK_Core0A12VerifyResultV"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "FaceVerifyResult",
-                "printedName": "FaceAISDK_Core.FaceVerifyResult",
-                "usr": "s:14FaceAISDK_Core0A12VerifyResultV"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:14FaceAISDK_Core0A12VerifyResultV2eeoiySbAC_ACtFZ",
-            "mangledName": "$s14FaceAISDK_Core0A12VerifyResultV2eeoiySbAC_ACtFZ",
-            "moduleName": "FaceAISDK_Core",
-            "static": true,
-            "implicit": true,
-            "funcSelfKind": "NonMutating"
-          }
-        ],
-        "declKind": "Struct",
-        "usr": "s:14FaceAISDK_Core0A12VerifyResultV",
-        "mangledName": "$s14FaceAISDK_Core0A12VerifyResultV",
-        "moduleName": "FaceAISDK_Core",
-        "declAttributes": [
-          "AccessControl",
-          "RawDocComment"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
-          }
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "MLKitFaceDetection",
-        "printedName": "MLKitFaceDetection",
-        "declKind": "Import",
-        "moduleName": "FaceAISDK_Core"
-      },
-      {
-        "kind": "Import",
-        "name": "MLKitVision",
-        "printedName": "MLKitVision",
-        "declKind": "Import",
-        "moduleName": "FaceAISDK_Core"
-      },
-      {
-        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -2722,17 +2262,345 @@
       },
       {
         "kind": "Import",
-        "name": "VisionKit",
-        "printedName": "VisionKit",
+        "name": "Foundation",
+        "printedName": "Foundation",
         "declKind": "Import",
         "moduleName": "FaceAISDK_Core"
       },
       {
         "kind": "Import",
-        "name": "MLKitCommon",
-        "printedName": "MLKitCommon",
+        "name": "Combine",
+        "printedName": "Combine",
         "declKind": "Import",
         "moduleName": "FaceAISDK_Core"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "FaceVerifyResult",
+        "printedName": "FaceVerifyResult",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "code",
+            "printedName": "code",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14FaceAISDK_Core0A12VerifyResultV4codeSivp",
+            "mangledName": "$s14FaceAISDK_Core0A12VerifyResultV4codeSivp",
+            "moduleName": "FaceAISDK_Core",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14FaceAISDK_Core0A12VerifyResultV4codeSivg",
+                "mangledName": "$s14FaceAISDK_Core0A12VerifyResultV4codeSivg",
+                "moduleName": "FaceAISDK_Core",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14FaceAISDK_Core0A12VerifyResultV4codeSivs",
+                "mangledName": "$s14FaceAISDK_Core0A12VerifyResultV4codeSivs",
+                "moduleName": "FaceAISDK_Core",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14FaceAISDK_Core0A12VerifyResultV4codeSivM",
+                "mangledName": "$s14FaceAISDK_Core0A12VerifyResultV4codeSivM",
+                "moduleName": "FaceAISDK_Core",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "tips",
+            "printedName": "tips",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14FaceAISDK_Core0A12VerifyResultV4tipsSSvp",
+            "mangledName": "$s14FaceAISDK_Core0A12VerifyResultV4tipsSSvp",
+            "moduleName": "FaceAISDK_Core",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14FaceAISDK_Core0A12VerifyResultV4tipsSSvg",
+                "mangledName": "$s14FaceAISDK_Core0A12VerifyResultV4tipsSSvg",
+                "moduleName": "FaceAISDK_Core",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14FaceAISDK_Core0A12VerifyResultV4tipsSSvs",
+                "mangledName": "$s14FaceAISDK_Core0A12VerifyResultV4tipsSSvs",
+                "moduleName": "FaceAISDK_Core",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14FaceAISDK_Core0A12VerifyResultV4tipsSSvM",
+                "mangledName": "$s14FaceAISDK_Core0A12VerifyResultV4tipsSSvM",
+                "moduleName": "FaceAISDK_Core",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "similarity",
+            "printedName": "similarity",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Float",
+                "printedName": "Swift.Float",
+                "usr": "s:Sf"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14FaceAISDK_Core0A12VerifyResultV10similaritySfvp",
+            "mangledName": "$s14FaceAISDK_Core0A12VerifyResultV10similaritySfvp",
+            "moduleName": "FaceAISDK_Core",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Float",
+                    "printedName": "Swift.Float",
+                    "usr": "s:Sf"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14FaceAISDK_Core0A12VerifyResultV10similaritySfvg",
+                "mangledName": "$s14FaceAISDK_Core0A12VerifyResultV10similaritySfvg",
+                "moduleName": "FaceAISDK_Core",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Float",
+                    "printedName": "Swift.Float",
+                    "usr": "s:Sf"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14FaceAISDK_Core0A12VerifyResultV10similaritySfvs",
+                "mangledName": "$s14FaceAISDK_Core0A12VerifyResultV10similaritySfvs",
+                "moduleName": "FaceAISDK_Core",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14FaceAISDK_Core0A12VerifyResultV10similaritySfvM",
+                "mangledName": "$s14FaceAISDK_Core0A12VerifyResultV10similaritySfvM",
+                "moduleName": "FaceAISDK_Core",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "==",
+            "printedName": "==(_:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "FaceVerifyResult",
+                "printedName": "FaceAISDK_Core.FaceVerifyResult",
+                "usr": "s:14FaceAISDK_Core0A12VerifyResultV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "FaceVerifyResult",
+                "printedName": "FaceAISDK_Core.FaceVerifyResult",
+                "usr": "s:14FaceAISDK_Core0A12VerifyResultV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14FaceAISDK_Core0A12VerifyResultV2eeoiySbAC_ACtFZ",
+            "mangledName": "$s14FaceAISDK_Core0A12VerifyResultV2eeoiySbAC_ACtFZ",
+            "moduleName": "FaceAISDK_Core",
+            "static": true,
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:14FaceAISDK_Core0A12VerifyResultV",
+        "mangledName": "$s14FaceAISDK_Core0A12VerifyResultV",
+        "moduleName": "FaceAISDK_Core",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          }
+        ]
       },
       {
         "kind": "Import",
@@ -2745,20 +2613,6 @@
         "kind": "Import",
         "name": "MLKitVision",
         "printedName": "MLKitVision",
-        "declKind": "Import",
-        "moduleName": "FaceAISDK_Core"
-      },
-      {
-        "kind": "Import",
-        "name": "Vision",
-        "printedName": "Vision",
-        "declKind": "Import",
-        "moduleName": "FaceAISDK_Core"
-      },
-      {
-        "kind": "Import",
-        "name": "MLImage",
-        "printedName": "MLImage",
         "declKind": "Import",
         "moduleName": "FaceAISDK_Core"
       },
@@ -2985,6 +2839,152 @@
             "mangledName": "$ss8SendableP"
           }
         ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "FaceAISDK_Core",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "FaceAISDK_Core"
+      },
+      {
+        "kind": "Import",
+        "name": "Vision",
+        "printedName": "Vision",
+        "declKind": "Import",
+        "moduleName": "FaceAISDK_Core"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "FaceAISDK_Core"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreVideo",
+        "printedName": "CoreVideo",
+        "declKind": "Import",
+        "moduleName": "FaceAISDK_Core"
+      },
+      {
+        "kind": "Import",
+        "name": "MLImage",
+        "printedName": "MLImage",
+        "declKind": "Import",
+        "moduleName": "FaceAISDK_Core"
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "FaceAISDK_Core"
+      },
+      {
+        "kind": "Import",
+        "name": "TensorFlowLite",
+        "printedName": "TensorFlowLite",
+        "declKind": "Import",
+        "moduleName": "FaceAISDK_Core",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "MLKitCommon",
+        "printedName": "MLKitCommon",
+        "declKind": "Import",
+        "moduleName": "FaceAISDK_Core"
+      },
+      {
+        "kind": "Import",
+        "name": "MLKitFaceDetection",
+        "printedName": "MLKitFaceDetection",
+        "declKind": "Import",
+        "moduleName": "FaceAISDK_Core"
+      },
+      {
+        "kind": "Import",
+        "name": "MLKitVision",
+        "printedName": "MLKitVision",
+        "declKind": "Import",
+        "moduleName": "FaceAISDK_Core"
+      },
+      {
+        "kind": "Import",
+        "name": "VisionKit",
+        "printedName": "VisionKit",
+        "declKind": "Import",
+        "moduleName": "FaceAISDK_Core"
+      },
+      {
+        "kind": "Import",
+        "name": "MLKitCommon",
+        "printedName": "MLKitCommon",
+        "declKind": "Import",
+        "moduleName": "FaceAISDK_Core"
+      },
+      {
+        "kind": "Import",
+        "name": "MLKitFaceDetection",
+        "printedName": "MLKitFaceDetection",
+        "declKind": "Import",
+        "moduleName": "FaceAISDK_Core"
+      },
+      {
+        "kind": "Import",
+        "name": "MLKitVision",
+        "printedName": "MLKitVision",
+        "declKind": "Import",
+        "moduleName": "FaceAISDK_Core"
+      },
+      {
+        "kind": "Import",
+        "name": "Vision",
+        "printedName": "Vision",
+        "declKind": "Import",
+        "moduleName": "FaceAISDK_Core"
+      },
+      {
+        "kind": "Import",
+        "name": "MLImage",
+        "printedName": "MLImage",
+        "declKind": "Import",
+        "moduleName": "FaceAISDK_Core"
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "FaceAISDK_Core"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreVideo",
+        "printedName": "CoreVideo",
+        "declKind": "Import",
+        "moduleName": "FaceAISDK_Core"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "FaceAISDK_Core"
       }
     ],
     "json_format_version": 8
@@ -3001,92 +3001,43 @@
       "filePath": "\/Users\/anylife\/code\/iOS\/FaceAISDKWorkspace\/FaceAISDK_Core\/FaceAISDK_Core\/FaceAdd\/AddFaceModel.swift",
       "kind": "StringLiteral",
       "offset": 549,
-      "length": 38,
-      "value": "\"确保光线充足，人脸无遮挡\""
+      "length": 26,
+      "value": "\"确保光线柔和充足\""
     },
     {
       "filePath": "\/Users\/anylife\/code\/iOS\/FaceAISDKWorkspace\/FaceAISDK_Core\/FaceAISDK_Core\/FaceAdd\/AddFaceModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 639,
+      "offset": 627,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/anylife\/code\/iOS\/FaceAISDKWorkspace\/FaceAISDK_Core\/FaceAISDK_Core\/FaceAdd\/AddFaceModel.swift",
       "kind": "StringLiteral",
-      "offset": 777,
+      "offset": 765,
       "length": 22,
       "value": "\"FaceAI Session Queue\""
     },
     {
       "filePath": "\/Users\/anylife\/code\/iOS\/FaceAISDKWorkspace\/FaceAISDK_Core\/FaceAISDK_Core\/FaceAdd\/AddFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 951,
+      "offset": 939,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/anylife\/code\/iOS\/FaceAISDKWorkspace\/FaceAISDK_Core\/FaceAISDK_Core\/FaceAdd\/AddFaceModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 1088,
+      "offset": 1076,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/anylife\/code\/iOS\/FaceAISDKWorkspace\/FaceAISDK_Core\/FaceAISDK_Core\/FaceAdd\/AddFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 1133,
+      "offset": 1121,
       "length": 1,
       "value": "0"
-    },
-    {
-      "filePath": "\/Users\/anylife\/code\/iOS\/FaceAISDKWorkspace\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/FaceVerifyResult.swift",
-      "kind": "StringLiteral",
-      "offset": 257,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/anylife\/code\/iOS\/FaceAISDKWorkspace\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/FaceVerifyResult.swift",
-      "kind": "FloatLiteral",
-      "offset": 294,
-      "length": 3,
-      "value": "0.0"
-    },
-    {
-      "filePath": "\/Users\/anylife\/code\/iOS\/FaceAISDKWorkspace\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/MotionAliveType.swift",
-      "kind": "IntegerLiteral",
-      "offset": 133,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/anylife\/code\/iOS\/FaceAISDKWorkspace\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/MotionAliveType.swift",
-      "kind": "IntegerLiteral",
-      "offset": 158,
-      "length": 1,
-      "value": "2"
-    },
-    {
-      "filePath": "\/Users\/anylife\/code\/iOS\/FaceAISDKWorkspace\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/MotionAliveType.swift",
-      "kind": "IntegerLiteral",
-      "offset": 183,
-      "length": 1,
-      "value": "3"
-    },
-    {
-      "filePath": "\/Users\/anylife\/code\/iOS\/FaceAISDKWorkspace\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/MotionAliveType.swift",
-      "kind": "IntegerLiteral",
-      "offset": 213,
-      "length": 1,
-      "value": "4"
-    },
-    {
-      "filePath": "\/Users\/anylife\/code\/iOS\/FaceAISDKWorkspace\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/MotionAliveType.swift",
-      "kind": "IntegerLiteral",
-      "offset": 241,
-      "length": 1,
-      "value": "5"
     },
     {
       "filePath": "\/Users\/anylife\/code\/iOS\/FaceAISDKWorkspace\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
@@ -3227,6 +3178,55 @@
       "offset": 518,
       "length": 1,
       "value": "2"
+    },
+    {
+      "filePath": "\/Users\/anylife\/code\/iOS\/FaceAISDKWorkspace\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/FaceVerifyResult.swift",
+      "kind": "StringLiteral",
+      "offset": 257,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/anylife\/code\/iOS\/FaceAISDKWorkspace\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/FaceVerifyResult.swift",
+      "kind": "FloatLiteral",
+      "offset": 294,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/anylife\/code\/iOS\/FaceAISDKWorkspace\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/MotionAliveType.swift",
+      "kind": "IntegerLiteral",
+      "offset": 133,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/anylife\/code\/iOS\/FaceAISDKWorkspace\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/MotionAliveType.swift",
+      "kind": "IntegerLiteral",
+      "offset": 158,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/anylife\/code\/iOS\/FaceAISDKWorkspace\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/MotionAliveType.swift",
+      "kind": "IntegerLiteral",
+      "offset": 183,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/anylife\/code\/iOS\/FaceAISDKWorkspace\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/MotionAliveType.swift",
+      "kind": "IntegerLiteral",
+      "offset": 213,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/anylife\/code\/iOS\/FaceAISDKWorkspace\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/MotionAliveType.swift",
+      "kind": "IntegerLiteral",
+      "offset": 241,
+      "length": 1,
+      "value": "5"
     }
   ]
 }

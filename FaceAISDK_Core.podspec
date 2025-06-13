@@ -9,7 +9,7 @@ s.summary = "FaceAISDK 可以不用联网单机实现人脸录入，人脸识别
 # 上传 pod trunk push FaceAISDK_Core.podspec --skip-import-validation
 # 更新 pod install --repo-update
 
-s.version = "0.0.91.airXC"
+s.version = "0.1.0.airXC"
 s.swift_version = "5.92"
 
 
