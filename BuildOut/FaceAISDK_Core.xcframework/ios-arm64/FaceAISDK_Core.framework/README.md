@@ -1,4 +1,6 @@
 ## SDK 设置
+首先CD 到Product 目录然后命令 xcodebuild -create-xcframework -framework Release-iphoneos/FaceAISDK_Core.framework -output FaceAISDK_Core.xcframework
+
 
 BUILD_LIBRARY_FOR_DISTRIBUTION YES 为了发布
 - 1. 配置SDK为静态库。 built setting 中搜索Mach-o 设置为static lib

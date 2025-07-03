@@ -4,7 +4,7 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>FaceAISDK_Core.podspecCopy</key>
+		<key>FaceAISDK_Core.podspec</key>
 		<data>
 		43Vt7wmJijU1tVagZNvr3LpuTVE=
 		</data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/Info.plist</key>
 		<data>
-		3lr0SppY2kIyfPNMV4WztYAOVzk=
+		kN/wVib+hu67FO6KU86iZHmfEzU=
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/LMprec_600.emd</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		7zDicVV7FKMBXotNfwGneFmGuVI=
+		nV0PV2W2/b7JwalJEv2Oxdrmnoo=
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -90,7 +90,7 @@
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		TX5hdIBnzpOTuJEuKCsTXK/9pmY=
+		UaydgMJwixv3RcygnRl996InHeY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -98,7 +98,7 @@
 		</data>
 		<key>README.md</key>
 		<data>
-		34UY6dNIBSYuFzpEBecCn6KS9ZA=
+		i7QqebytyT+aQDYrNoewV7idfAQ=
 		</data>
 		<key>TensorFlowLite.bundle/Info.plist</key>
 		<data>
@@ -141,7 +141,7 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>FaceAISDK_Core.podspecCopy</key>
+		<key>FaceAISDK_Core.podspec</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -189,11 +189,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3lr0SppY2kIyfPNMV4WztYAOVzk=
+			kN/wVib+hu67FO6KU86iZHmfEzU=
 			</data>
 			<key>hash2</key>
 			<data>
-			nWk3gta3Jsha5DD3yx2vC/5OnApcrC9klVqC19BZSOE=
+			owdK0NHE81unMaCSsYVb+3hO8C9pV7NYyRUSPuiTMBE=
 			</data>
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/LMprec_600.emd</key>
@@ -321,11 +321,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7zDicVV7FKMBXotNfwGneFmGuVI=
+			nV0PV2W2/b7JwalJEv2Oxdrmnoo=
 			</data>
 			<key>hash2</key>
 			<data>
-			sjC1hUZRoakIhf4kCDH/2aSSAe5u9V5tBfhjPcHjwvs=
+			10A4PeU06Z1RKnjZTeCc684CdyA64l037h1yDqtcEwo=
 			</data>
 		</dict>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -365,11 +365,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TX5hdIBnzpOTuJEuKCsTXK/9pmY=
+			UaydgMJwixv3RcygnRl996InHeY=
 			</data>
 			<key>hash2</key>
 			<data>
-			eSVs1TtqSW2xHG/oTAxtE4p2pUIOXn9du1X1qqGn68o=
+			TseHxhpW5oQ2x0rqqLt9WNYQ3ysWoBdRUe9OpRabqrQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -387,11 +387,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			34UY6dNIBSYuFzpEBecCn6KS9ZA=
+			i7QqebytyT+aQDYrNoewV7idfAQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			2biiUwFoNeq0EjTma6cVn4GUJRYHv0/D+kWWv416Sao=
+			09Jrp3t25gAhO+X6+ZScabP8jeBPHUTbksv79DJH58I=
 			</data>
 		</dict>
 		<key>TensorFlowLite.bundle/Info.plist</key>
