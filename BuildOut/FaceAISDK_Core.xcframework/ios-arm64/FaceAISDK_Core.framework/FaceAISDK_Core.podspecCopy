@@ -7,10 +7,8 @@ s.name = "FaceAISDK_Core"
 
 s.summary = "FaceAISDK 可以不用联网单机实现人脸录入，人脸识别和活体检验；Framework SDK for add face, face recognition, and liveness detection"
 
-# CD 到Product 目录
-# 命令 xcodebuild -create-xcframework \
-           -framework Release-iphoneos/FaceAISDK_Core.framework \
-           -output FaceAISDK_Core.xcframework
+# 首先CD 到Product 目录
+# 然后命令 xcodebuild -create-xcframework -framework Release-iphoneos/FaceAISDK_Core.framework -output FaceAISDK_Core.xcframework
            
 # pod trunk push FaceAISDK_Core.podspec --skip-import-validation
 # pod install --repo-update
