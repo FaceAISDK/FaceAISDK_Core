@@ -18,20 +18,6 @@ import VisionKit
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
-@_Concurrency.MainActor @preconcurrency public struct FaceAICameraView : SwiftUI.UIViewControllerRepresentable {
-  @_Concurrency.MainActor @preconcurrency public init(session: AVFoundation.AVCaptureSession, cameraSize: CoreFoundation.CGFloat)
-  @_Concurrency.MainActor @preconcurrency public func makeUIViewController(context: FaceAISDK_Core.FaceAICameraView.Context) -> UIKit.UIViewController
-  @_Concurrency.MainActor @preconcurrency public func updateUIViewController(_ uiViewController: UIKit.UIViewController, context: FaceAISDK_Core.FaceAICameraView.Context)
-  public typealias Body = Swift.Never
-  public typealias Coordinator = Swift.Void
-  public typealias UIViewControllerType = UIKit.UIViewController
-}
-@_hasMissingDesignatedInitializers public class FaceImageManger {
-  public static func saveBase64ToFile(base64String: Swift.String, filename: Swift.String) -> Swift.String?
-  public static func deleteFaceImage(faceID: Swift.String) -> Swift.Bool
-  public static func isFaceImageExist(faceID: Swift.String) -> Swift.Bool
-  @objc deinit
-}
 @objc @_inheritsConvenienceInitializers public class VerifyFaceModel : ObjectiveC.NSObject, Foundation.ObservableObject, AVFoundation.AVCaptureVideoDataOutputSampleBufferDelegate {
   public static let defaultTips: Swift.String
   @Combine.Published @_projectedValueProperty($verifyFaceTips) public var verifyFaceTips: Swift.String {
@@ -83,6 +69,20 @@ public struct FaceVerifyResult : Swift.Equatable {
   public var tips: Swift.String
   public var similarity: Swift.Float
   public static func == (a: FaceAISDK_Core.FaceVerifyResult, b: FaceAISDK_Core.FaceVerifyResult) -> Swift.Bool
+}
+@_hasMissingDesignatedInitializers public class FaceImageManger {
+  public static func saveBase64ToFile(base64String: Swift.String, filename: Swift.String) -> Swift.String?
+  public static func deleteFaceImage(faceID: Swift.String) -> Swift.Bool
+  public static func isFaceImageExist(faceID: Swift.String) -> Swift.Bool
+  @objc deinit
+}
+@_Concurrency.MainActor @preconcurrency public struct FaceAICameraView : SwiftUI.UIViewControllerRepresentable {
+  @_Concurrency.MainActor @preconcurrency public init(session: AVFoundation.AVCaptureSession, cameraSize: CoreFoundation.CGFloat)
+  @_Concurrency.MainActor @preconcurrency public func makeUIViewController(context: FaceAISDK_Core.FaceAICameraView.Context) -> UIKit.UIViewController
+  @_Concurrency.MainActor @preconcurrency public func updateUIViewController(_ uiViewController: UIKit.UIViewController, context: FaceAISDK_Core.FaceAICameraView.Context)
+  public typealias Body = Swift.Never
+  public typealias Coordinator = Swift.Void
+  public typealias UIViewControllerType = UIKit.UIViewController
 }
 @objc @_inheritsConvenienceInitializers public class AddFaceModel : ObjectiveC.NSObject, Foundation.ObservableObject, AVFoundation.AVCaptureVideoDataOutputSampleBufferDelegate {
   @Combine.Published @_projectedValueProperty($canAddFace) public var canAddFace: UIKit.UIImage {
