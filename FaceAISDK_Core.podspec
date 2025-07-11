@@ -9,7 +9,7 @@ s.summary = "FaceAISDK 可以不用联网单机实现人脸录入，人脸识别
 # 上传 pod trunk push FaceAISDK_Core.podspec --skip-import-validation
 # 更新 pod install --repo-update
 
-s.version = "0.4.0"
+s.version = "2025.07.07"
 s.swift_version = "6.1"
 
 
