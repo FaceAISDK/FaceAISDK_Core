@@ -22,7 +22,7 @@
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/Info.plist</key>
 		<data>
-		kN/wVib+hu67FO6KU86iZHmfEzU=
+		1I++R1anNJ2xIqexVqwlbnSYa5Q=
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/LMprec_600.emd</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Headers/FaceAISDK_Core-Swift.h</key>
 		<data>
-		8E/4bEbchOpqCXqYlb8e4zhZIA4=
+		f8R3g74ipV1kQRgyca/0T21bpN8=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -74,23 +74,23 @@
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		M5tyUON4Yr5DgO9PeOSkr5E2fbY=
+		PgfOFm8Wb0mP8ua+vg0isXEdrIE=
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		dK0oilROm6r+9zo+T46dpKuE3Ow=
+		J2ohHWvc94HACGidMdA3zZDTPa4=
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		8afUhgToUdeLewKiuHM3vskzdac=
+		1t9kGZN2t5PPsvqggUCkkWaSNRE=
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		dK0oilROm6r+9zo+T46dpKuE3Ow=
+		J2ohHWvc94HACGidMdA3zZDTPa4=
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		bMyk5hWkbuVnMH2det6gKMYQaV0=
+		UCSZOxNPBG7UbOSWCl2kM0X5FYk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -98,11 +98,11 @@
 		</data>
 		<key>README.md</key>
 		<data>
-		i7QqebytyT+aQDYrNoewV7idfAQ=
+		XKhBViZj9WCt/GCwO+rEFJw5hqM=
 		</data>
 		<key>TensorFlowLite.bundle/Info.plist</key>
 		<data>
-		rdr+2w8G4+1cysS1ikP2u4QyXwI=
+		oyX/StpRUDYvI5fse+lqA//KyNc=
 		</data>
 		<key>TensorFlowLite.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -110,7 +110,7 @@
 		</data>
 		<key>TensorFlowLiteC.bundle/Info.plist</key>
 		<data>
-		v4spH6qZ5YcE0pg3sjsnfjPiBdk=
+		YpHfLKU5nlUWPM5j2Qi9WPHY+9o=
 		</data>
 		<key>TensorFlowLiteC.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -189,11 +189,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			kN/wVib+hu67FO6KU86iZHmfEzU=
+			1I++R1anNJ2xIqexVqwlbnSYa5Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			owdK0NHE81unMaCSsYVb+3hO8C9pV7NYyRUSPuiTMBE=
+			02rT5mrjpSn/7NxoLSSTw/LPFGVO6puvhZk0tJIl8AM=
 			</data>
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/LMprec_600.emd</key>
@@ -299,11 +299,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			8E/4bEbchOpqCXqYlb8e4zhZIA4=
+			f8R3g74ipV1kQRgyca/0T21bpN8=
 			</data>
 			<key>hash2</key>
 			<data>
-			4jZsqYFPfXNsu60dQj5oLLOTkWMaEh/3oduZ3fzgZgU=
+			drQ61jpqLYzF1ugnefAQvBlUiV30C53iHoiJqHtubT0=
 			</data>
 		</dict>
 		<key>LICENSE</key>
@@ -321,55 +321,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			M5tyUON4Yr5DgO9PeOSkr5E2fbY=
+			PgfOFm8Wb0mP8ua+vg0isXEdrIE=
 			</data>
 			<key>hash2</key>
 			<data>
-			3dR658af2DsHm6QVwJrOcwgzi9U8pCQzjKkHGjnHMQg=
+			K20ONESL+axRttycF3cLaSz1Omt6zLGPo4vDvnJXSd4=
 			</data>
 		</dict>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			dK0oilROm6r+9zo+T46dpKuE3Ow=
+			J2ohHWvc94HACGidMdA3zZDTPa4=
 			</data>
 			<key>hash2</key>
 			<data>
-			IKgCtehGVjH8LKeKcWD86o/OB++IgqQXdG78uvzh5c4=
+			oRPXl1yQmOYVrc6rnCv9zTWpsRc0OLxqxEla9SMPs4c=
 			</data>
 		</dict>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			8afUhgToUdeLewKiuHM3vskzdac=
+			1t9kGZN2t5PPsvqggUCkkWaSNRE=
 			</data>
 			<key>hash2</key>
 			<data>
-			/kn7MqbJvXVu8MVCg6oMnudECA93g4a4d95xNgQ5ClM=
+			wQ837LhGlu0/tA0z5elt0y44Nu8HPYB2LqE75vSFsEw=
 			</data>
 		</dict>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			dK0oilROm6r+9zo+T46dpKuE3Ow=
+			J2ohHWvc94HACGidMdA3zZDTPa4=
 			</data>
 			<key>hash2</key>
 			<data>
-			IKgCtehGVjH8LKeKcWD86o/OB++IgqQXdG78uvzh5c4=
+			oRPXl1yQmOYVrc6rnCv9zTWpsRc0OLxqxEla9SMPs4c=
 			</data>
 		</dict>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bMyk5hWkbuVnMH2det6gKMYQaV0=
+			UCSZOxNPBG7UbOSWCl2kM0X5FYk=
 			</data>
 			<key>hash2</key>
 			<data>
-			7AWQScZu16+YvCym9UobEH9qBSBma8Ef6Z/hR8C4P5A=
+			PJFFYgJrr0MT6nL479Z8TMefelXGV/bn8P+M0a6PyxE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -387,22 +387,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			i7QqebytyT+aQDYrNoewV7idfAQ=
+			XKhBViZj9WCt/GCwO+rEFJw5hqM=
 			</data>
 			<key>hash2</key>
 			<data>
-			09Jrp3t25gAhO+X6+ZScabP8jeBPHUTbksv79DJH58I=
+			feWObYXlytnwIVSmJjGsr7f74MrnlyAb2Lx0vZcTHKY=
 			</data>
 		</dict>
 		<key>TensorFlowLite.bundle/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			rdr+2w8G4+1cysS1ikP2u4QyXwI=
+			oyX/StpRUDYvI5fse+lqA//KyNc=
 			</data>
 			<key>hash2</key>
 			<data>
-			Lg4SLKJNY27NuCuSg9s3+/viPKeu6URktH1esyRxgns=
+			3FZFaAsDZiURTHJ9e5Q24cFY5eoy0hsLTDjDCwiy+hA=
 			</data>
 		</dict>
 		<key>TensorFlowLite.bundle/PrivacyInfo.xcprivacy</key>
@@ -420,11 +420,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			v4spH6qZ5YcE0pg3sjsnfjPiBdk=
+			YpHfLKU5nlUWPM5j2Qi9WPHY+9o=
 			</data>
 			<key>hash2</key>
 			<data>
-			wFtUxQizmE4qLdvQ4z+A5B/6InyzmFI7xE0CcUv7XzY=
+			otMa22HkiAPg3vkeybVPQFQUG+T89uG5i+7z0TDcstk=
 			</data>
 		</dict>
 		<key>TensorFlowLiteC.bundle/PrivacyInfo.xcprivacy</key>
