@@ -11,7 +11,7 @@ s.summary = "FaceAISDK 不用联网单机实现人脸录入，人脸识别和活
 # 上传 pod trunk push FaceAISDK_Core.podspec --skip-import-validation
 # 更新 pod install --repo-update
 
-s.version = "2025.07.11"
+s.version = "2025.07.20"
 s.swift_version = "6.1"
 
 
@@ -22,8 +22,8 @@ s.homepage = "https://github.com/AnyLifeZLB/FaceAISDK_Core"
 s.source = { :git => "https://github.com/AnyLifeZLB/FaceAISDK_Core.git",
              :tag => "#{s.version}" }
 
-s.dependency 'GoogleMLKit/FaceDetection', '9.0.0'
-s.dependency 'TensorFlowLiteSwift', '0.0.1-nightly.20250619'
+s.dependency 'GoogleMLKit/FaceDetection'
+s.dependency 'TensorFlowLiteSwift'
 
 s.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
 s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
