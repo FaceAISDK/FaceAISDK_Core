@@ -237,17 +237,13 @@
       },
       {
         "kind": "Import",
-        "name": "MLKitCommon",
-        "printedName": "MLKitCommon",
-        "declKind": "Import",
-        "moduleName": "FaceAISDK_Core"
-      },
-      {
-        "kind": "Import",
         "name": "MLKitFaceDetection",
         "printedName": "MLKitFaceDetection",
         "declKind": "Import",
-        "moduleName": "FaceAISDK_Core"
+        "moduleName": "FaceAISDK_Core",
+        "declAttributes": [
+          "RawDocComment"
+        ]
       },
       {
         "kind": "Import",
@@ -469,13 +465,6 @@
         "kind": "Import",
         "name": "TensorFlowLite",
         "printedName": "TensorFlowLite",
-        "declKind": "Import",
-        "moduleName": "FaceAISDK_Core"
-      },
-      {
-        "kind": "Import",
-        "name": "MLKitCommon",
-        "printedName": "MLKitCommon",
         "declKind": "Import",
         "moduleName": "FaceAISDK_Core"
       },

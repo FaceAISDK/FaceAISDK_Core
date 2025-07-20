@@ -7,7 +7,6 @@ import Combine
 import CoreVideo
 import Foundation
 import MLImage
-import MLKitCommon
 import MLKitFaceDetection
 import MLKitVision
 import Swift
