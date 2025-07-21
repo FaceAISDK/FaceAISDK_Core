@@ -14,6 +14,7 @@
 		7C73FE082DE995A4005437F4 /* FaceAISDK_Core.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 7C73FE052DE995A4005437F4 /* FaceAISDK_Core.podspec */; };
 		7C73FE092DE995A4005437F4 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 7C73FE072DE995A4005437F4 /* LICENSE */; };
 		7C73FE3C2DE9B2E3005437F4 /* subModel.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 7C73FE3B2DE9B2E3005437F4 /* subModel.bundle */; };
+		CF3FB8D72E2E32E000B616F0 /* Package.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF3FB8D62E2E32DA00B616F0 /* Package.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +26,8 @@
 		7C73FE052DE995A4005437F4 /* FaceAISDK_Core.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = FaceAISDK_Core.podspec; sourceTree = "<group>"; };
 		7C73FE072DE995A4005437F4 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		7C73FE3B2DE9B2E3005437F4 /* subModel.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = subModel.bundle; sourceTree = "<group>"; };
-		CF2E7E7E2E2E1D4B00608756 /* FaceAISDK_Core.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = FaceAISDK_Core.xcframework; sourceTree = "<group>"; };
+		CF3FB8D62E2E32DA00B616F0 /* Package.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Package.swift; sourceTree = "<group>"; };
+		CF3FB9102E2E48A800B616F0 /* FaceAISDK_Core.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = FaceAISDK_Core.xcframework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +46,7 @@
 			children = (
 				7C73FE062DE995A4005437F4 /* BuildOut */,
 				7C73FE052DE995A4005437F4 /* FaceAISDK_Core.podspec */,
+				CF3FB8D62E2E32DA00B616F0 /* Package.swift */,
 				7C73FE072DE995A4005437F4 /* LICENSE */,
 				7C73FE3A2DE9B2E3005437F4 /* Resources */,
 				7C73FDF62DE99438005437F4 /* FaceAISDK_Core */,
@@ -81,7 +84,7 @@
 		7C73FE062DE995A4005437F4 /* BuildOut */ = {
 			isa = PBXGroup;
 			children = (
-				CF2E7E7E2E2E1D4B00608756 /* FaceAISDK_Core.xcframework */,
+				CF3FB9102E2E48A800B616F0 /* FaceAISDK_Core.xcframework */,
 			);
 			path = BuildOut;
 			sourceTree = "<group>";
@@ -167,6 +170,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CF3FB8D72E2E32E000B616F0 /* Package.swift in Sources */,
 				7C73FDFA2DE99438005437F4 /* ContentView.swift in Sources */,
 				7C73FDF82DE99438005437F4 /* FaceAISDK_CoreApp.swift in Sources */,
 			);
