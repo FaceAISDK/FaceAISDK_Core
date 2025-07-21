@@ -3161,56 +3161,56 @@
     {
       "filePath": "\/Users\/anylife\/code\/iOS\/FaceAISDKWorkspace\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "StringLiteral",
-      "offset": 1160,
+      "offset": 1214,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/anylife\/code\/iOS\/FaceAISDKWorkspace\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "FloatLiteral",
-      "offset": 1201,
+      "offset": 1255,
       "length": 4,
       "value": "0.85"
     },
     {
       "filePath": "\/Users\/anylife\/code\/iOS\/FaceAISDKWorkspace\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 1279,
+      "offset": 1333,
       "length": 3,
       "value": "112"
     },
     {
       "filePath": "\/Users\/anylife\/code\/iOS\/FaceAISDKWorkspace\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 1396,
+      "offset": 1450,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/anylife\/code\/iOS\/FaceAISDKWorkspace\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "Array",
-      "offset": 1491,
+      "offset": 1545,
       "length": 5,
       "value": "[1, 3]"
     },
     {
       "filePath": "\/Users\/anylife\/code\/iOS\/FaceAISDKWorkspace\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 1551,
+      "offset": 1605,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/anylife\/code\/iOS\/FaceAISDKWorkspace\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 1595,
+      "offset": 1649,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/anylife\/code\/iOS\/FaceAISDKWorkspace\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 1669,
+      "offset": 1723,
       "length": 4,
       "value": "1000"
     },
