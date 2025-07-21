@@ -26,7 +26,7 @@ import _SwiftConcurrencyShims
   public typealias Coordinator = Swift.Void
   public typealias UIViewControllerType = UIKit.UIViewController
 }
-@objc @_inheritsConvenienceInitializers public class VerifyFaceModel : ObjectiveC.NSObject, Foundation.ObservableObject, AVFoundation.AVCaptureVideoDataOutputSampleBufferDelegate {
+@objc @_inheritsConvenienceInitializers open class VerifyFaceModel : ObjectiveC.NSObject, Foundation.ObservableObject, AVFoundation.AVCaptureVideoDataOutputSampleBufferDelegate {
   public static let defaultTips: Swift.String
   @Combine.Published @_projectedValueProperty($verifyFaceTips) public var verifyFaceTips: Swift.String {
     get
@@ -65,8 +65,13 @@ import _SwiftConcurrencyShims
     set
   }
   final public let captureSession: AVFoundation.AVCaptureSession
+  public var faceAIOptions: TensorFlowLite.Interpreter.Options
+  public var interpreter: TensorFlowLite.Interpreter!
+  public var modelPath: Swift.String?
   @objc override dynamic public init()
+  public func setInterpreter(faceInterpreter: TensorFlowLite.Interpreter)
   public func stopFaceVerify()
+  open func setupTFModel3()
   public func initFaceAISDK(faceIDParam: Swift.String, threshold: Swift.Float)
   @objc public func captureOutput(_ output: AVFoundation.AVCaptureOutput, didOutput sampleBuffer: CoreMedia.CMSampleBuffer, from connection: AVFoundation.AVCaptureConnection)
   public typealias ObjectWillChangePublisher = Combine.ObservableObjectPublisher
