@@ -11,15 +11,15 @@ s.summary = "FaceAISDK 不用联网单机实现人脸录入，人脸识别和活
 # 上传 pod trunk push FaceAISDK_Core.podspec --skip-import-validation
 # 更新 pod install --repo-update
 
-s.version = "2025.07.206"
+s.version = "2025.07.207"
 s.swift_version = "6.1"
 
 
 # 3
 s.license = { :type => "FaceAISDK License", :file => "LICENSE" }
 s.author = { "FaceAISDK_Core" => "FaceAISDK.Service@gmail.com" }
-s.homepage = "https://github.com/AnyLifeZLB/FaceAISDK_Core"
-s.source = { :git => "https://github.com/AnyLifeZLB/FaceAISDK_Core.git",
+s.homepage = "https://github.com/FaceAISDK/FaceAISDK_Core"
+s.source = { :git => "https://github.com/FaceAISDK/FaceAISDK_Core.git",
              :tag => "#{s.version}" }
 
 s.dependency 'GoogleMLKit/FaceDetection','9.0.0'
