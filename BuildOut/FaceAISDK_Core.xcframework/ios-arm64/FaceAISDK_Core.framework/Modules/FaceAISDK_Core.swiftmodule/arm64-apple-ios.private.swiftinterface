@@ -26,18 +26,6 @@ import _SwiftConcurrencyShims
   public typealias Coordinator = Swift.Void
   public typealias UIViewControllerType = UIKit.UIViewController
 }
-@_hasMissingDesignatedInitializers public class FaceImageManger {
-  public static func saveBase64ToFile(base64String: Swift.String, filename: Swift.String) -> Swift.String?
-  public static func deleteFaceImage(faceID: Swift.String) -> Swift.Bool
-  public static func isFaceImageExist(faceID: Swift.String) -> Swift.Bool
-  @objc deinit
-}
-public struct FaceVerifyResult : Swift.Equatable {
-  public var code: Swift.Int
-  public var tips: Swift.String
-  public var similarity: Swift.Float
-  public static func == (a: FaceAISDK_Core.FaceVerifyResult, b: FaceAISDK_Core.FaceVerifyResult) -> Swift.Bool
-}
 @objc @_inheritsConvenienceInitializers public class VerifyFaceModel : ObjectiveC.NSObject, Foundation.ObservableObject, AVFoundation.AVCaptureVideoDataOutputSampleBufferDelegate {
   public static let defaultTips: Swift.String
   @Combine.Published @_projectedValueProperty($verifyFaceTips) public var verifyFaceTips: Swift.String {
@@ -82,6 +70,18 @@ public struct FaceVerifyResult : Swift.Equatable {
   public func initFaceAISDK(faceIDParam: Swift.String, threshold: Swift.Float)
   @objc public func captureOutput(_ output: AVFoundation.AVCaptureOutput, didOutput sampleBuffer: CoreMedia.CMSampleBuffer, from connection: AVFoundation.AVCaptureConnection)
   public typealias ObjectWillChangePublisher = Combine.ObservableObjectPublisher
+  @objc deinit
+}
+public struct FaceVerifyResult : Swift.Equatable {
+  public var code: Swift.Int
+  public var tips: Swift.String
+  public var similarity: Swift.Float
+  public static func == (a: FaceAISDK_Core.FaceVerifyResult, b: FaceAISDK_Core.FaceVerifyResult) -> Swift.Bool
+}
+@_hasMissingDesignatedInitializers public class FaceImageManger {
+  public static func saveBase64ToFile(base64String: Swift.String, filename: Swift.String) -> Swift.String?
+  public static func deleteFaceImage(faceID: Swift.String) -> Swift.Bool
+  public static func isFaceImageExist(faceID: Swift.String) -> Swift.Bool
   @objc deinit
 }
 @objc @_inheritsConvenienceInitializers public class AddFaceModel : ObjectiveC.NSObject, Foundation.ObservableObject, AVFoundation.AVCaptureVideoDataOutputSampleBufferDelegate {
