@@ -38,6 +38,11 @@ public struct FaceVerifyResult : Swift.Equatable {
   public var similarity: Swift.Float
   public static func == (a: FaceAISDK_Core.FaceVerifyResult, b: FaceAISDK_Core.FaceVerifyResult) -> Swift.Bool
 }
+@_hasMissingDesignatedInitializers final public class TFLiteManager {
+  public static func loadModelPathFromSubBundle(subBundleName: Swift.String, modelName: Swift.String) -> Swift.String?
+  public static func loadModelPath(name: Swift.String) -> Swift.String?
+  @objc deinit
+}
 @objc @_inheritsConvenienceInitializers open class VerifyFaceModel : ObjectiveC.NSObject, Foundation.ObservableObject, AVFoundation.AVCaptureVideoDataOutputSampleBufferDelegate {
   public static let defaultTips: Swift.String
   @Combine.Published @_projectedValueProperty($verifyFaceTips) public var verifyFaceTips: Swift.String {
