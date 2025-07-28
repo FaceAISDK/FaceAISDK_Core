@@ -11,9 +11,11 @@ s.summary = "FaceAISDK 不用联网单机实现人脸录入，人脸识别和活
 # 上传 pod trunk push FaceAISDK_Core.podspec --skip-import-validation
 # 更新 pod install --repo-update
 
-s.version = "2025.07.27.1"
+s.version = "2025.07.27.2"
 s.swift_version = "6.1"
+s.swift_optimization_level = "-Onone"
 s.static_framework = true
+
 
 # 3
 s.license = { :type => "FaceAISDK License", :file => "LICENSE" }
