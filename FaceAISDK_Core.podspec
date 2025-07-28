@@ -11,9 +11,9 @@ s.summary = "FaceAISDK 不用联网单机实现人脸录入，人脸识别和活
 # 上传 pod trunk push FaceAISDK_Core.podspec --skip-import-validation
 # 更新 pod install --repo-update
 
-s.version = "2025.07.25.3"
+s.version = "2025.07.27"
 s.swift_version = "6.1"
-
+s.static_framework = true
 
 # 3
 s.license = { :type => "FaceAISDK License", :file => "LICENSE" }
@@ -26,8 +26,11 @@ s.dependency 'GoogleMLKit/FaceDetection','9.0.0'
 s.dependency 'TensorFlowLiteSwift','2.17.0'
 
 
-s.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
-s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
+s.pod_target_xcconfig = {'BUILD_LIBRARY_FOR_DISTRIBUTION' => 'YES',
+'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
+
+s.user_target_xcconfig = {'BUILD_LIBRARY_FOR_DISTRIBUTION' => 'YES',
+'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
 
 s.ios.vendored_frameworks  = 'BuildOut/*.xcframework'
 s.resources = ['Resources/subModel.bundle','Model.bundle']
