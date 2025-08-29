@@ -1,6 +1,6 @@
 // swift-interface-format-version: 1.0
 // swift-compiler-version: Apple Swift version 6.1 effective-5.10 (swiftlang-6.1.0.110.21 clang-1700.0.13.3)
-// swift-module-flags: -target arm64-apple-ios16.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -Onone -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name FaceAISDK_Core
+// swift-module-flags: -target arm64-apple-ios16.6 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -Onone -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name FaceAISDK_Core
 // swift-module-flags-ignorable: -no-verify-emitted-module-interface -interface-compiler-version 6.1
 import AVFoundation
 import Combine
@@ -18,6 +18,21 @@ import VisionKit
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
+@_Concurrency.MainActor @preconcurrency public struct FaceAICameraView : SwiftUI.UIViewControllerRepresentable {
+  @_Concurrency.MainActor @preconcurrency public init(session: AVFoundation.AVCaptureSession, cameraSize: CoreFoundation.CGFloat)
+  @_Concurrency.MainActor @preconcurrency public func makeUIViewController(context: FaceAISDK_Core.FaceAICameraView.Context) -> UIKit.UIViewController
+  @_Concurrency.MainActor @preconcurrency public func updateUIViewController(_ uiViewController: UIKit.UIViewController, context: FaceAISDK_Core.FaceAICameraView.Context)
+  public typealias Body = Swift.Never
+  public typealias Coordinator = Swift.Void
+  public typealias UIViewControllerType = UIKit.UIViewController
+}
+@_hasMissingDesignatedInitializers public class FaceImageManger {
+  public static func imageFromDocumentsToBase64(fileName: Swift.String, compressionQuality: CoreFoundation.CGFloat = 1.0) -> Swift.String?
+  public static func saveBase64ImageToLocal(base64String: Swift.String, fileName: Swift.String = "image") -> Swift.String?
+  public static func deleteFaceImage(faceID: Swift.String) -> Swift.Bool
+  public static func isFaceImageExist(faceID: Swift.String) -> Swift.Bool
+  @objc deinit
+}
 public struct FaceVerifyResult : Swift.Equatable {
   public var code: Swift.Int
   public var tips: Swift.String
@@ -69,29 +84,11 @@ public struct FaceVerifyResult : Swift.Equatable {
     set
   }
   final public let captureSession: AVFoundation.AVCaptureSession
-  open var interpreter: TensorFlowLite.Interpreter!
   @objc override dynamic public init()
-  public func setInterpreter(faceInterpreter: TensorFlowLite.Interpreter)
   public func stopFaceVerify()
-  open func setupTFModel3()
   public func initFaceAISDK(faceIDParam: Swift.String, threshold: Swift.Float = 0.85, onlyLiveness: Swift.Bool = false)
   @objc public func captureOutput(_ output: AVFoundation.AVCaptureOutput, didOutput sampleBuffer: CoreMedia.CMSampleBuffer, from connection: AVFoundation.AVCaptureConnection)
   public typealias ObjectWillChangePublisher = Combine.ObservableObjectPublisher
-  @objc deinit
-}
-@_Concurrency.MainActor @preconcurrency public struct FaceAICameraView : SwiftUI.UIViewControllerRepresentable {
-  @_Concurrency.MainActor @preconcurrency public init(session: AVFoundation.AVCaptureSession, cameraSize: CoreFoundation.CGFloat)
-  @_Concurrency.MainActor @preconcurrency public func makeUIViewController(context: FaceAISDK_Core.FaceAICameraView.Context) -> UIKit.UIViewController
-  @_Concurrency.MainActor @preconcurrency public func updateUIViewController(_ uiViewController: UIKit.UIViewController, context: FaceAISDK_Core.FaceAICameraView.Context)
-  public typealias Body = Swift.Never
-  public typealias Coordinator = Swift.Void
-  public typealias UIViewControllerType = UIKit.UIViewController
-}
-@_hasMissingDesignatedInitializers public class FaceImageManger {
-  public static func imageFromDocumentsToBase64(fileName: Swift.String, compressionQuality: CoreFoundation.CGFloat = 1.0) -> Swift.String?
-  public static func saveBase64ImageToLocal(base64String: Swift.String, fileName: Swift.String = "image") -> Swift.String?
-  public static func deleteFaceImage(faceID: Swift.String) -> Swift.Bool
-  public static func isFaceImageExist(faceID: Swift.String) -> Swift.Bool
   @objc deinit
 }
 @objc @_inheritsConvenienceInitializers public class AddFaceModel : ObjectiveC.NSObject, Foundation.ObservableObject, AVFoundation.AVCaptureVideoDataOutputSampleBufferDelegate {
