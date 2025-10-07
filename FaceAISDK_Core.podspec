@@ -12,7 +12,7 @@ s.summary = "FaceAISDK离线不用联网实现人脸录入，人脸识别和活�
 # 更新 pod install --repo-update
 
 s.version = "2025.09.08"
-s.swift_version = "6.1"
+s.swift_version = "6.0"
 
 
 # 3

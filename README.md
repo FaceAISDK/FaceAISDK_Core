@@ -22,7 +22,7 @@ FaceAISDK是iOS 设备端可离线不需联网的人脸识别、动作活体检�
 
 ## 集成步骤
 
-SDK默认的开发环境为Xcode 16.3 ,实现语言为Swift 6.1，OC&C；UI全部使用SwiftUI实现
+SDK默认的开发环境为Xcode 16.2 ,实现语言为Swift 6.0，OC&C；UI全部使用SwiftUI实现
 
 #### 0. 安装Demo运行的ToastUI 依赖库
 Navigate to your project settings. Find a new tab called “Package Dependencies”. 
@@ -32,7 +32,7 @@ Installation ToastUI https://github.com/quanshousio/ToastUI
 
 #### 1.Podfile 添加依赖
   最新版本一般会在本工程Podfile 中指定，请复制指定版本到你的项目
-  首次依赖 安装SDK及内部依赖 会耗费10分钟左右时间（实际取决于你的网络状态）  
+  首次依赖 安装SDK及内部依赖 会耗费30分钟左右时间（实际取决于你的网络状态）  
   pod update FaceAISDK_Core 安装依赖,请指定版本。
 
   pod 'FaceAISDK_Core', 'Newest Version'  
