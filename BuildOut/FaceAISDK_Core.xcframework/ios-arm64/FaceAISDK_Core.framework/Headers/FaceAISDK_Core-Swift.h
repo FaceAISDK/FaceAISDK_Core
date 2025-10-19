@@ -310,9 +310,9 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 /// 添加人脸照片，提示人脸角度摆正
 SWIFT_CLASS("_TtC14FaceAISDK_Core12AddFaceModel")
 @interface AddFaceModel : NSObject <AVCaptureVideoDataOutputSampleBufferDelegate>
-- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 /// 分析帧数据
 - (void)captureOutput:(AVCaptureOutput * _Nonnull)output didOutputSampleBuffer:(CMSampleBufferRef _Nonnull)sampleBuffer fromConnection:(AVCaptureConnection * _Nonnull)connection;
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
 
@@ -320,8 +320,8 @@ SWIFT_CLASS("_TtC14FaceAISDK_Core12AddFaceModel")
 /// 人脸识别，动作活体
 SWIFT_CLASS("_TtC14FaceAISDK_Core15VerifyFaceModel")
 @interface VerifyFaceModel : NSObject <AVCaptureVideoDataOutputSampleBufferDelegate>
-- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 - (void)captureOutput:(AVCaptureOutput * _Nonnull)output didOutputSampleBuffer:(CMSampleBufferRef _Nonnull)sampleBuffer fromConnection:(AVCaptureConnection * _Nonnull)connection;
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
 #endif
