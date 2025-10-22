@@ -5,6 +5,7 @@
 import AVFoundation
 import Combine
 import CoreVideo
+import Dispatch
 import Foundation
 import MLImage
 import MLKitFaceDetection
@@ -78,6 +79,10 @@ import _SwiftConcurrencyShims
   public static func saveBase64ImageToLocal(base64String: Swift.String, fileName: Swift.String = "image") -> Swift.String?
   public static func deleteFaceImage(faceID: Swift.String) -> Swift.Bool
   public static func isFaceImageExist(faceID: Swift.String) -> Swift.Bool
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers public class FaceAISDK {
+  public static func initSDK()
   @objc deinit
 }
 public struct FaceTipsCode {

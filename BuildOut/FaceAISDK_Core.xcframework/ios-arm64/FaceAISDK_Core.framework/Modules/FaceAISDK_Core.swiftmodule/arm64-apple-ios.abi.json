@@ -1538,6 +1538,67 @@
         ]
       },
       {
+        "kind": "Import",
+        "name": "Dispatch",
+        "printedName": "Dispatch",
+        "declKind": "Import",
+        "moduleName": "FaceAISDK_Core"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "FaceAISDK",
+        "printedName": "FaceAISDK",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "initSDK",
+            "printedName": "initSDK()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14FaceAISDK_Core0aB0C7initSDKyyFZ",
+            "mangledName": "$s14FaceAISDK_Core0aB0C7initSDKyyFZ",
+            "moduleName": "FaceAISDK_Core",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:14FaceAISDK_Core0aB0C",
+        "mangledName": "$s14FaceAISDK_Core0aB0C",
+        "moduleName": "FaceAISDK_Core",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "hasMissingDesignatedInitializers": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
         "kind": "TypeDecl",
         "name": "FaceTipsCode",
         "printedName": "FaceTipsCode",
@@ -4665,7 +4726,7 @@
       "kind": "IntegerLiteral",
       "offset": 1283,
       "length": 1,
-      "value": "3"
+      "value": "4"
     },
     {
       "filePath": "\/Users\/anylife\/code\/iOS\/FaceAISDKWorkspace\/FaceAISDK_Core\/FaceAISDK_Core\/base\/FaceImageManger.swift",
@@ -5034,14 +5095,14 @@
     {
       "filePath": "\/Users\/anylife\/code\/iOS\/FaceAISDKWorkspace\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "FloatLiteral",
-      "offset": 2784,
+      "offset": 2807,
       "length": 4,
       "value": "0.85"
     },
     {
       "filePath": "\/Users\/anylife\/code\/iOS\/FaceAISDKWorkspace\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 2807,
+      "offset": 2830,
       "length": 5,
       "value": "false"
     },
