@@ -282,121 +282,6 @@
         "moduleName": "FaceAISDK_Core"
       },
       {
-        "kind": "TypeDecl",
-        "name": "TFLiteManager",
-        "printedName": "TFLiteManager",
-        "children": [
-          {
-            "kind": "Function",
-            "name": "loadModelPathFromSubBundle",
-            "printedName": "loadModelPathFromSubBundle(subBundleName:modelName:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Swift.String?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ],
-                "usr": "s:Sq"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:14FaceAISDK_Core13TFLiteManagerC26loadModelPathFromSubBundle03subK4Name05modelM0SSSgSS_SStFZ",
-            "mangledName": "$s14FaceAISDK_Core13TFLiteManagerC26loadModelPathFromSubBundle03subK4Name05modelM0SSSgSS_SStFZ",
-            "moduleName": "FaceAISDK_Core",
-            "static": true,
-            "declAttributes": [
-              "Final",
-              "AccessControl",
-              "RawDocComment"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "loadModelPath",
-            "printedName": "loadModelPath(name:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Swift.String?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ],
-                "usr": "s:Sq"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:14FaceAISDK_Core13TFLiteManagerC13loadModelPath4nameSSSgSS_tFZ",
-            "mangledName": "$s14FaceAISDK_Core13TFLiteManagerC13loadModelPath4nameSSSgSS_tFZ",
-            "moduleName": "FaceAISDK_Core",
-            "static": true,
-            "declAttributes": [
-              "Final",
-              "AccessControl",
-              "RawDocComment"
-            ],
-            "funcSelfKind": "NonMutating"
-          }
-        ],
-        "declKind": "Class",
-        "usr": "s:14FaceAISDK_Core13TFLiteManagerC",
-        "mangledName": "$s14FaceAISDK_Core13TFLiteManagerC",
-        "moduleName": "FaceAISDK_Core",
-        "declAttributes": [
-          "AccessControl",
-          "Final",
-          "RawDocComment"
-        ],
-        "hasMissingDesignatedInitializers": true,
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          }
-        ]
-      },
-      {
         "kind": "Import",
         "name": "MLKitFaceDetection",
         "printedName": "MLKitFaceDetection",
@@ -6167,7 +6052,7 @@
     {
       "filePath": "\/Users\/anylife\/code\/iOS\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 2295,
+      "offset": 2296,
       "length": 1,
       "value": "0"
     },
@@ -6190,7 +6075,7 @@
       "kind": "FloatLiteral",
       "offset": 3083,
       "length": 4,
-      "value": "0.85"
+      "value": "0.84"
     },
     {
       "filePath": "\/Users\/anylife\/code\/iOS\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",

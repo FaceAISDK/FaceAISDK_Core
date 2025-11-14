@@ -24,11 +24,6 @@ public struct SDKInterfaceTips : Swift.Equatable {
   public var code: Swift.Int
   public static func == (a: FaceAISDK_Core.SDKInterfaceTips, b: FaceAISDK_Core.SDKInterfaceTips) -> Swift.Bool
 }
-@_hasMissingDesignatedInitializers final public class TFLiteManager {
-  public static func loadModelPathFromSubBundle(subBundleName: Swift.String, modelName: Swift.String) -> Swift.String?
-  public static func loadModelPath(name: Swift.String) -> Swift.String?
-  @objc deinit
-}
 @_Concurrency.MainActor @preconcurrency public struct FaceAICameraView : SwiftUI.UIViewControllerRepresentable {
   @_Concurrency.MainActor @preconcurrency public init(session: AVFoundation.AVCaptureSession, cameraSize: CoreFoundation.CGFloat)
   @_Concurrency.MainActor @preconcurrency public func makeUIViewController(context: FaceAISDK_Core.FaceAICameraView.Context) -> UIKit.UIViewController
@@ -106,7 +101,7 @@ public struct FaceTipsCode {
     set
   }
   final public let captureSession: AVFoundation.AVCaptureSession
-  public func initFaceAISDK(faceIDParam: Swift.String, threshold: Swift.Float = 0.85, onlyLiveness: Swift.Bool = false, motionLiveness: [Swift.Int] = [1,2,3,4,5])
+  public func initFaceAISDK(faceIDParam: Swift.String, threshold: Swift.Float = 0.84, onlyLiveness: Swift.Bool = false, motionLiveness: [Swift.Int] = [1,2,3,4,5])
   @objc public func captureOutput(_ output: AVFoundation.AVCaptureOutput, didOutput sampleBuffer: CoreMedia.CMSampleBuffer, from connection: AVFoundation.AVCaptureConnection)
   public func stopFaceVerify()
   @objc override dynamic public init()
