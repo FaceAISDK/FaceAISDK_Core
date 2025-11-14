@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
 
 s.platform = :ios
 s.ios.deployment_target = '16.0'
-s.name = "FaceAISDK"
+s.name = "FaceAISDK_core"
 
 s.summary = "FaceAISDK离线不用联网实现人脸录入，人脸识别和活体检验；FaceAI SDK can add face, face recognition, and liveness detection on_device offline"
 
@@ -11,7 +11,7 @@ s.summary = "FaceAISDK离线不用联网实现人脸录入，人脸识别和活�
 # 上传 pod trunk push FaceAISDK_Core.podspec --skip-import-validation
 # 更新 pod install --repo-update
 
-s.version = "2025.11.12.core"
+s.version = "2025.11.12.core1"
 s.swift_version = "6.0"
 # s.swift_versions = ['6.0', '6.1', '6.2']
 
