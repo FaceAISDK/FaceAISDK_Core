@@ -14,6 +14,7 @@
 		7C73FE082DE995A4005437F4 /* FaceAISDK_Core.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 7C73FE052DE995A4005437F4 /* FaceAISDK_Core.podspec */; };
 		7C73FE092DE995A4005437F4 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 7C73FE072DE995A4005437F4 /* LICENSE */; };
 		CF3FB9122E2E492900B616F0 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = CF3FB9112E2E492900B616F0 /* README.md */; };
+		CF6769A22EC79BEF00557A99 /* subModel.bundle in Resources */ = {isa = PBXBuildFile; fileRef = CF6769A02EC79BEF00557A99 /* subModel.bundle */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		7C73FE072DE995A4005437F4 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		CF3FB9112E2E492900B616F0 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		CF67699C2EC71A3C00557A99 /* FaceAISDK_Core.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = FaceAISDK_Core.xcframework; sourceTree = "<group>"; };
+		CF6769A02EC79BEF00557A99 /* subModel.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = subModel.bundle; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,6 +45,7 @@
 			isa = PBXGroup;
 			children = (
 				CF3FB9112E2E492900B616F0 /* README.md */,
+				CF6769A12EC79BEF00557A99 /* Resources */,
 				7C73FE062DE995A4005437F4 /* BuildOut */,
 				7C73FE052DE995A4005437F4 /* FaceAISDK_Core.podspec */,
 				7C73FE072DE995A4005437F4 /* LICENSE */,
@@ -84,6 +87,14 @@
 				CF67699C2EC71A3C00557A99 /* FaceAISDK_Core.xcframework */,
 			);
 			path = BuildOut;
+			sourceTree = "<group>";
+		};
+		CF6769A12EC79BEF00557A99 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				CF6769A02EC79BEF00557A99 /* subModel.bundle */,
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -148,6 +159,7 @@
 				7C73FE082DE995A4005437F4 /* FaceAISDK_Core.podspec in Resources */,
 				7C73FDFF2DE9943A005437F4 /* Preview Assets.xcassets in Resources */,
 				7C73FE092DE995A4005437F4 /* LICENSE in Resources */,
+				CF6769A22EC79BEF00557A99 /* subModel.bundle in Resources */,
 				7C73FDFC2DE9943A005437F4 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -309,7 +321,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 16.6;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -344,7 +356,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 16.6;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
