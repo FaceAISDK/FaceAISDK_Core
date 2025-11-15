@@ -4536,8 +4536,8 @@
           },
           {
             "kind": "Function",
-            "name": "confirmSaveFaceAir",
-            "printedName": "confirmSaveFaceAir(fileName:)",
+            "name": "confirmSaveFace",
+            "printedName": "confirmSaveFace(fileName:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -4561,8 +4561,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:14FaceAISDK_Core03AddA13ByCameraModelC011confirmSaveA3Air8fileNameSSSgSS_tF",
-            "mangledName": "$s14FaceAISDK_Core03AddA13ByCameraModelC011confirmSaveA3Air8fileNameSSSgSS_tF",
+            "usr": "s:14FaceAISDK_Core03AddA13ByCameraModelC011confirmSaveA08fileNameSSSgSS_tF",
+            "mangledName": "$s14FaceAISDK_Core03AddA13ByCameraModelC011confirmSaveA08fileNameSSSgSS_tF",
             "moduleName": "FaceAISDK_Core",
             "declAttributes": [
               "AccessControl",
@@ -5429,8 +5429,8 @@
           },
           {
             "kind": "Function",
-            "name": "confirmSaveFaceAir",
-            "printedName": "confirmSaveFaceAir(fileName:)",
+            "name": "confirmSaveFace",
+            "printedName": "confirmSaveFace(fileName:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -5454,8 +5454,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:14FaceAISDK_Core03addA14ByUIImageModelC011confirmSaveA3Air8fileNameSSSgSS_tF",
-            "mangledName": "$s14FaceAISDK_Core03addA14ByUIImageModelC011confirmSaveA3Air8fileNameSSSgSS_tF",
+            "usr": "s:14FaceAISDK_Core03addA14ByUIImageModelC011confirmSaveA08fileNameSSSgSS_tF",
+            "mangledName": "$s14FaceAISDK_Core03addA14ByUIImageModelC011confirmSaveA08fileNameSSSgSS_tF",
             "moduleName": "FaceAISDK_Core",
             "declAttributes": [
               "AccessControl",
