@@ -5622,7 +5622,8 @@
             "static": true,
             "declAttributes": [
               "Final",
-              "AccessControl"
+              "AccessControl",
+              "RawDocComment"
             ],
             "funcSelfKind": "NonMutating"
           }
@@ -5688,7 +5689,7 @@
     {
       "filePath": "\/Users\/anylife\/code\/iOS\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/base\/FaceAIDetector.swift",
       "kind": "BooleanLiteral",
-      "offset": 6521,
+      "offset": 6520,
       "length": 5,
       "value": "false"
     },
@@ -6005,7 +6006,7 @@
       "kind": "FloatLiteral",
       "offset": 1282,
       "length": 4,
-      "value": "0.85"
+      "value": "0.84"
     },
     {
       "filePath": "\/Users\/anylife\/code\/iOS\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
@@ -6122,56 +6123,56 @@
     {
       "filePath": "\/Users\/anylife\/code\/iOS\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/AddFace\/AddFaceByCameraModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 642,
+      "offset": 641,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/anylife\/code\/iOS\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/AddFace\/AddFaceByCameraModel.swift",
       "kind": "StringLiteral",
-      "offset": 780,
+      "offset": 779,
       "length": 22,
       "value": "\"FaceAI Session Queue\""
     },
     {
       "filePath": "\/Users\/anylife\/code\/iOS\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/AddFace\/AddFaceByCameraModel.swift",
       "kind": "StringLiteral",
-      "offset": 859,
+      "offset": 858,
       "length": 25,
       "value": "\"FaceAI Processing Queue\""
     },
     {
       "filePath": "\/Users\/anylife\/code\/iOS\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/AddFace\/AddFaceByCameraModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 1063,
+      "offset": 1062,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/anylife\/code\/iOS\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/AddFace\/AddFaceByCameraModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 1199,
+      "offset": 1198,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/anylife\/code\/iOS\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/AddFace\/AddFaceByCameraModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 1243,
+      "offset": 1242,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/anylife\/code\/iOS\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/AddFace\/AddFaceByCameraModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 1281,
+      "offset": 1280,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/anylife\/code\/iOS\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/AddFace\/AddFaceByCameraModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 1316,
+      "offset": 1315,
       "length": 1,
       "value": "4"
     },
