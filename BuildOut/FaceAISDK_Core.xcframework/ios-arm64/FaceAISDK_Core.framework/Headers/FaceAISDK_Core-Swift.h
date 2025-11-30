@@ -318,6 +318,7 @@ SWIFT_CLASS("_TtC14FaceAISDK_Core20AddFaceByCameraModel")
 
 
 
+
 /// 人脸识别，动作活体
 SWIFT_CLASS("_TtC14FaceAISDK_Core15VerifyFaceModel")
 @interface VerifyFaceModel : NSObject <AVCaptureVideoDataOutputSampleBufferDelegate>
