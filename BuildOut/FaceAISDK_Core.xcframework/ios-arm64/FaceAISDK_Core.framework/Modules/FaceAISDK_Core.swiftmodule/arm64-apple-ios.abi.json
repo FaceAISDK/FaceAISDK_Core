@@ -4240,8 +4240,8 @@
         "children": [
           {
             "kind": "Var",
-            "name": "faceFeature",
-            "printedName": "faceFeature",
+            "name": "faceFeatureBySDKCamera",
+            "printedName": "faceFeatureBySDKCamera",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -4259,8 +4259,8 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:14FaceAISDK_Core03AddA13ByCameraModelC11faceFeatureSSSgvp",
-            "mangledName": "$s14FaceAISDK_Core03AddA13ByCameraModelC11faceFeatureSSSgvp",
+            "usr": "s:14FaceAISDK_Core03AddA13ByCameraModelC011faceFeatureE9SDKCameraSSSgvp",
+            "mangledName": "$s14FaceAISDK_Core03AddA13ByCameraModelC011faceFeatureE9SDKCameraSSSgvp",
             "moduleName": "FaceAISDK_Core",
             "declAttributes": [
               "ProjectedValueProperty",
@@ -4289,8 +4289,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:14FaceAISDK_Core03AddA13ByCameraModelC11faceFeatureSSSgvg",
-                "mangledName": "$s14FaceAISDK_Core03AddA13ByCameraModelC11faceFeatureSSSgvg",
+                "usr": "s:14FaceAISDK_Core03AddA13ByCameraModelC011faceFeatureE9SDKCameraSSSgvg",
+                "mangledName": "$s14FaceAISDK_Core03AddA13ByCameraModelC011faceFeatureE9SDKCameraSSSgvg",
                 "moduleName": "FaceAISDK_Core",
                 "implicit": true,
                 "accessorKind": "get"
@@ -4321,8 +4321,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:14FaceAISDK_Core03AddA13ByCameraModelC11faceFeatureSSSgvs",
-                "mangledName": "$s14FaceAISDK_Core03AddA13ByCameraModelC11faceFeatureSSSgvs",
+                "usr": "s:14FaceAISDK_Core03AddA13ByCameraModelC011faceFeatureE9SDKCameraSSSgvs",
+                "mangledName": "$s14FaceAISDK_Core03AddA13ByCameraModelC011faceFeatureE9SDKCameraSSSgvs",
                 "moduleName": "FaceAISDK_Core",
                 "implicit": true,
                 "intro_Macosx": "10.15",
@@ -4349,8 +4349,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:14FaceAISDK_Core03AddA13ByCameraModelC11faceFeatureSSSgvM",
-                "mangledName": "$s14FaceAISDK_Core03AddA13ByCameraModelC11faceFeatureSSSgvM",
+                "usr": "s:14FaceAISDK_Core03AddA13ByCameraModelC011faceFeatureE9SDKCameraSSSgvM",
+                "mangledName": "$s14FaceAISDK_Core03AddA13ByCameraModelC011faceFeatureE9SDKCameraSSSgvM",
                 "moduleName": "FaceAISDK_Core",
                 "implicit": true,
                 "intro_Macosx": "10.15",
@@ -4369,8 +4369,8 @@
           },
           {
             "kind": "Var",
-            "name": "$faceFeature",
-            "printedName": "$faceFeature",
+            "name": "$faceFeatureBySDKCamera",
+            "printedName": "$faceFeatureBySDKCamera",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -4380,8 +4380,8 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:14FaceAISDK_Core03AddA13ByCameraModelC12$faceFeature7Combine9PublishedV9PublisherVySSSg_Gvp",
-            "mangledName": "$s14FaceAISDK_Core03AddA13ByCameraModelC12$faceFeature7Combine9PublishedV9PublisherVySSSg_Gvp",
+            "usr": "s:14FaceAISDK_Core03AddA13ByCameraModelC012$faceFeatureE9SDKCamera7Combine9PublishedV9PublisherVySSSg_Gvp",
+            "mangledName": "$s14FaceAISDK_Core03AddA13ByCameraModelC012$faceFeatureE9SDKCamera7Combine9PublishedV9PublisherVySSSg_Gvp",
             "moduleName": "FaceAISDK_Core",
             "implicit": true,
             "accessors": [
@@ -4398,8 +4398,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:14FaceAISDK_Core03AddA13ByCameraModelC12$faceFeature7Combine9PublishedV9PublisherVySSSg_Gvg",
-                "mangledName": "$s14FaceAISDK_Core03AddA13ByCameraModelC12$faceFeature7Combine9PublishedV9PublisherVySSSg_Gvg",
+                "usr": "s:14FaceAISDK_Core03AddA13ByCameraModelC012$faceFeatureE9SDKCamera7Combine9PublishedV9PublisherVySSSg_Gvg",
+                "mangledName": "$s14FaceAISDK_Core03AddA13ByCameraModelC012$faceFeatureE9SDKCamera7Combine9PublishedV9PublisherVySSSg_Gvg",
                 "moduleName": "FaceAISDK_Core",
                 "implicit": true,
                 "accessorKind": "get"
@@ -4422,8 +4422,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:14FaceAISDK_Core03AddA13ByCameraModelC12$faceFeature7Combine9PublishedV9PublisherVySSSg_Gvs",
-                "mangledName": "$s14FaceAISDK_Core03AddA13ByCameraModelC12$faceFeature7Combine9PublishedV9PublisherVySSSg_Gvs",
+                "usr": "s:14FaceAISDK_Core03AddA13ByCameraModelC012$faceFeatureE9SDKCamera7Combine9PublishedV9PublisherVySSSg_Gvs",
+                "mangledName": "$s14FaceAISDK_Core03AddA13ByCameraModelC012$faceFeatureE9SDKCamera7Combine9PublishedV9PublisherVySSSg_Gvs",
                 "moduleName": "FaceAISDK_Core",
                 "implicit": true,
                 "intro_Macosx": "11.0",
@@ -4450,8 +4450,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:14FaceAISDK_Core03AddA13ByCameraModelC12$faceFeature7Combine9PublishedV9PublisherVySSSg_GvM",
-                "mangledName": "$s14FaceAISDK_Core03AddA13ByCameraModelC12$faceFeature7Combine9PublishedV9PublisherVySSSg_GvM",
+                "usr": "s:14FaceAISDK_Core03AddA13ByCameraModelC012$faceFeatureE9SDKCamera7Combine9PublishedV9PublisherVySSSg_GvM",
+                "mangledName": "$s14FaceAISDK_Core03AddA13ByCameraModelC012$faceFeatureE9SDKCamera7Combine9PublishedV9PublisherVySSSg_GvM",
                 "moduleName": "FaceAISDK_Core",
                 "implicit": true,
                 "intro_Macosx": "11.0",
@@ -7016,49 +7016,49 @@
     {
       "filePath": "\/Users\/anylife\/code\/iOS\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "IntegerLiteral",
-      "offset": 234,
+      "offset": 181,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/anylife\/code\/iOS\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "IntegerLiteral",
-      "offset": 238,
+      "offset": 185,
       "length": 3,
       "value": "112"
     },
     {
       "filePath": "\/Users\/anylife\/code\/iOS\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "IntegerLiteral",
-      "offset": 244,
+      "offset": 191,
       "length": 3,
       "value": "112"
     },
     {
       "filePath": "\/Users\/anylife\/code\/iOS\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "IntegerLiteral",
-      "offset": 250,
+      "offset": 197,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/anylife\/code\/iOS\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "IntegerLiteral",
-      "offset": 254,
+      "offset": 201,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/anylife\/code\/iOS\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "IntegerLiteral",
-      "offset": 285,
+      "offset": 232,
       "length": 3,
       "value": "192"
     },
     {
       "filePath": "\/Users\/anylife\/code\/iOS\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "StringLiteral",
-      "offset": 311,
+      "offset": 258,
       "length": 14,
       "value": "\"FaceAIEngine\""
     },
@@ -7436,56 +7436,56 @@
     {
       "filePath": "\/Users\/anylife\/code\/iOS\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/AddFace\/AddFaceByCameraModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 700,
+      "offset": 711,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/anylife\/code\/iOS\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/AddFace\/AddFaceByCameraModel.swift",
       "kind": "StringLiteral",
-      "offset": 838,
+      "offset": 849,
       "length": 22,
       "value": "\"FaceAI Session Queue\""
     },
     {
       "filePath": "\/Users\/anylife\/code\/iOS\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/AddFace\/AddFaceByCameraModel.swift",
       "kind": "StringLiteral",
-      "offset": 917,
+      "offset": 928,
       "length": 25,
       "value": "\"FaceAI Processing Queue\""
     },
     {
       "filePath": "\/Users\/anylife\/code\/iOS\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/AddFace\/AddFaceByCameraModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 1121,
+      "offset": 1132,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/anylife\/code\/iOS\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/AddFace\/AddFaceByCameraModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 1257,
+      "offset": 1268,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/anylife\/code\/iOS\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/AddFace\/AddFaceByCameraModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 1301,
+      "offset": 1312,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/anylife\/code\/iOS\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/AddFace\/AddFaceByCameraModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 1339,
+      "offset": 1350,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/anylife\/code\/iOS\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/AddFace\/AddFaceByCameraModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 1374,
+      "offset": 1385,
       "length": 1,
       "value": "4"
     },
