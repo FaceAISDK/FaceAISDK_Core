@@ -10,8 +10,9 @@ s.summary = "FaceAISDK离线不用联网实现人脸录入，人脸识别和活�
 # git push origin version
 # 上传 pod trunk push FaceAISDK_Core.podspec --skip-import-validation
 # 更新 pod install --repo-update
+# 1130是mini ,1201是iMac
 
-s.version = "2025.11.30"
+s.version = "2025.12.01"
 s.swift_version = "6.0"
 # s.swift_versions = ['6.0', '6.1', '6.2']
 
