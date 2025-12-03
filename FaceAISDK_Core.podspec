@@ -26,7 +26,7 @@ s.source = { :git => "https://github.com/FaceAISDK/FaceAISDK_Core.git",
              :tag => "#{s.version}" }
 
 s.dependency 'GoogleMLKit/FaceDetection','9.0.0'
-s.dependency 'TensorFlowLiteSwift','2.17.0'
+s.dependency 'TensorFlowLiteSwift','~> 2.17'
 
 
 # 添加 BUILD_LIBRARY_FOR_DISTRIBUTION 支持
