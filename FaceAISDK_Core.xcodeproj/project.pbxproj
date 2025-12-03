@@ -27,7 +27,6 @@
 		7C73FE072DE995A4005437F4 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		CF3FB9112E2E492900B616F0 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		CF6769A02EC79BEF00557A99 /* subModel.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = subModel.bundle; sourceTree = "<group>"; };
-		CF6769A32EC9E3AB00557A99 /* FaceAISDK_Core.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = FaceAISDK_Core.xcframework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,7 +83,6 @@
 		7C73FE062DE995A4005437F4 /* BuildOut */ = {
 			isa = PBXGroup;
 			children = (
-				CF6769A32EC9E3AB00557A99 /* FaceAISDK_Core.xcframework */,
 			);
 			path = BuildOut;
 			sourceTree = "<group>";
