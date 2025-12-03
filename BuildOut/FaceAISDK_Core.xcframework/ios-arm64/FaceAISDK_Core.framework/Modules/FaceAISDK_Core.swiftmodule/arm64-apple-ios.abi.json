@@ -7733,105 +7733,105 @@
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/TFLiteDecrypter.swift",
       "kind": "StringLiteral",
-      "offset": 795,
+      "offset": 894,
       "length": 18,
       "value": "\"FaceAISDKService\""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/TFLiteDecrypter.swift",
       "kind": "StringLiteral",
-      "offset": 845,
+      "offset": 944,
       "length": 14,
       "value": "\"FaceAISDKMFN\""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/TFLiteDecrypter.swift",
       "kind": "IntegerLiteral",
-      "offset": 889,
+      "offset": 988,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/TFLiteDecrypter.swift",
       "kind": "StringLiteral",
-      "offset": 1915,
+      "offset": 2014,
       "length": 8,
       "value": "\"bundle\""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/TFLiteDecrypter.swift",
       "kind": "StringLiteral",
-      "offset": 2045,
+      "offset": 2144,
       "length": 61,
       "value": "\"Inside Framework: Sub-bundle '\""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/TFLiteDecrypter.swift",
       "kind": "StringLiteral",
-      "offset": 2086,
+      "offset": 2185,
       "length": 1,
       "value": "\".bundle' not found.\""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/TFLiteDecrypter.swift",
       "kind": "StringLiteral",
-      "offset": 2434,
+      "offset": 2533,
       "length": 73,
       "value": "\"File '\""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/TFLiteDecrypter.swift",
       "kind": "StringLiteral",
-      "offset": 2453,
+      "offset": 2552,
       "length": 1,
       "value": "\".\""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/TFLiteDecrypter.swift",
       "kind": "StringLiteral",
-      "offset": 2470,
+      "offset": 2569,
       "length": 38,
       "value": "\"' not found in bundle: \""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/TFLiteDecrypter.swift",
       "kind": "StringLiteral",
-      "offset": 2506,
+      "offset": 2605,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/TFLiteDecrypter.swift",
       "kind": "StringLiteral",
-      "offset": 2919,
+      "offset": 3018,
       "length": 5,
       "value": "\"enc\""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/TFLiteDecrypter.swift",
       "kind": "StringLiteral",
-      "offset": 4261,
+      "offset": 4360,
       "length": 33,
       "value": "\"❌ Decryption Failed: \""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/TFLiteDecrypter.swift",
       "kind": "StringLiteral",
-      "offset": 4293,
+      "offset": 4392,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/TFLiteDecrypter.swift",
       "kind": "IntegerLiteral",
-      "offset": 4684,
+      "offset": 4783,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/TFLiteDecrypter.swift",
       "kind": "BooleanLiteral",
-      "offset": 4727,
+      "offset": 4826,
       "length": 4,
       "value": "true"
     },
