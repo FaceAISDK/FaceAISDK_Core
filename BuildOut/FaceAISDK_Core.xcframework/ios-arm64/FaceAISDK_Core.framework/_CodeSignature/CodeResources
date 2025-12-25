@@ -6,7 +6,7 @@
 	<dict>
 		<key>FaceAISDK_Core.podspec</key>
 		<data>
-		MSdy7EXGF9BO54DWu3etZrDOgXM=
+		7Uc6uAXNGD9zdKQZfQaOAtZ/i7A=
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/BCLjoy_200.emd</key>
 		<data>
@@ -62,11 +62,11 @@
 		</data>
 		<key>Headers/FaceAISDK_Core-Swift.h</key>
 		<data>
-		caOB2FBofsYYFmh3U09Hw5Cullg=
+		SBR4rYkwRd0iblclPTOwMX1EIHk=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		yIhI/TrtPWOFD6qhqJLC2kFa9aw=
+		siiRnCcvJyepL2sTDMYAZXUUEfs=
 		</data>
 		<key>LICENSE</key>
 		<data>
@@ -74,27 +74,27 @@
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		A6elLR3iaUWmNtGToUCBrZZ9Xn0=
+		zbxpUNqQre5PXim8CP9kJyeLFz4=
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		DnIhOI6wEOTDaivjpEvORc+DlWA=
+		Pl2JZcx0M6R5qK1hY5IyJXzVLNM=
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		+gn9QxnXIZouoCOY5cuyybDMJxs=
+		uxsPgKGWo1tkB/nSg+3FsilGPkM=
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		sPLywU9ugh59HuW8LkbpUYjRuqM=
+		IQVdoZxHM1SGd/FYMwNOBLSx3k0=
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		+gn9QxnXIZouoCOY5cuyybDMJxs=
+		uxsPgKGWo1tkB/nSg+3FsilGPkM=
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		kTpmNop2dq97nmLIS4cDQaHxebY=
+		K/38ispa2ZbdM4LH6OvU2k9hC5I=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -135,11 +135,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			MSdy7EXGF9BO54DWu3etZrDOgXM=
+			7Uc6uAXNGD9zdKQZfQaOAtZ/i7A=
 			</data>
 			<key>hash2</key>
 			<data>
-			uWCphSq5GDOgqHtVveQgcLNmHA8hKEYDicZsf87bJD8=
+			emdiPRh49tP7QNRmDaBFo7hWjhp28Z+rgyYtorEAFRw=
 			</data>
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/BCLjoy_200.emd</key>
@@ -289,11 +289,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			caOB2FBofsYYFmh3U09Hw5Cullg=
+			SBR4rYkwRd0iblclPTOwMX1EIHk=
 			</data>
 			<key>hash2</key>
 			<data>
-			OsP/+1xLhPyqujDkaBo0RklYdUYMU/2poGYUtR4ZTI8=
+			HfFW8EpynQ9bTMbjq9sfQU0PJ15BNkaJezmo83Pq1g0=
 			</data>
 		</dict>
 		<key>LICENSE</key>
@@ -311,66 +311,66 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			A6elLR3iaUWmNtGToUCBrZZ9Xn0=
+			zbxpUNqQre5PXim8CP9kJyeLFz4=
 			</data>
 			<key>hash2</key>
 			<data>
-			Fw7fta5OJLRvS2ZI4fiuWFqy2iYjv9vNe60uY4rhoAc=
+			Lg9tapiK+RjnQS7AMTUBaCWfAXFMWTzzfK6XWUkrOOQ=
 			</data>
 		</dict>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			DnIhOI6wEOTDaivjpEvORc+DlWA=
+			Pl2JZcx0M6R5qK1hY5IyJXzVLNM=
 			</data>
 			<key>hash2</key>
 			<data>
-			HMQ4UQyUWc4IyYM375j7JpSYFQaiNOlX9Vl+0c4B8ec=
+			umxYUXFtNVgJ/wN2+W8keOlrr3aeSmc8fSsfIStS4Rw=
 			</data>
 		</dict>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+gn9QxnXIZouoCOY5cuyybDMJxs=
+			uxsPgKGWo1tkB/nSg+3FsilGPkM=
 			</data>
 			<key>hash2</key>
 			<data>
-			QLJJq2HJu+LvUWjNnvcvyQfOaS7JVZuhcrQPj/2GgoI=
+			CQd2vGfvUz8ZHlNzcg1b20xF7/ko1J/5V1WvMrIyvrI=
 			</data>
 		</dict>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			sPLywU9ugh59HuW8LkbpUYjRuqM=
+			IQVdoZxHM1SGd/FYMwNOBLSx3k0=
 			</data>
 			<key>hash2</key>
 			<data>
-			JCLf/nWsKVWYl4yg1tKtA2kdjnSQvbAY9Rf9rqyMt10=
+			zp6wZn3VLSuxWYyg35XAlaNOpDHHtXAgZtnb64LHFV4=
 			</data>
 		</dict>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+gn9QxnXIZouoCOY5cuyybDMJxs=
+			uxsPgKGWo1tkB/nSg+3FsilGPkM=
 			</data>
 			<key>hash2</key>
 			<data>
-			QLJJq2HJu+LvUWjNnvcvyQfOaS7JVZuhcrQPj/2GgoI=
+			CQd2vGfvUz8ZHlNzcg1b20xF7/ko1J/5V1WvMrIyvrI=
 			</data>
 		</dict>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			kTpmNop2dq97nmLIS4cDQaHxebY=
+			K/38ispa2ZbdM4LH6OvU2k9hC5I=
 			</data>
 			<key>hash2</key>
 			<data>
-			Lb6Cg6KHbdGO+UCjMvpCWtb6jcBP/xn1CLeXI/vRhzM=
+			6BUGM1IWS5JTl3dCgwEYiQPeMYs5aidhcaB0LtbSbj0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
