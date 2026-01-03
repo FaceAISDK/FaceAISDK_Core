@@ -11,9 +11,8 @@ s.summary = "FaceAISDK 不用联网单机实现人脸录入，人脸识别和活
 # 上传 pod trunk push FaceAISDK_Core.podspec --skip-import-validation
 # 更新 pod install --repo-update
 
-s.version = "2025.11.28"
+s.version = "2025.12.25"
 
-# s.swift_version = "6.0"
 s.swift_versions = ['6.0', '6.1', '6.2']
 
 # 3
@@ -24,7 +23,7 @@ s.source = { :git => "https://github.com/FaceAISDK/FaceAISDK_Core.git",
              :tag => "#{s.version}" }
 
 s.dependency 'GoogleMLKit/FaceDetection','9.0.0'
-s.dependency 'TensorFlowLiteSwift','2.17.0'
+s.dependency 'TensorFlowLiteSwift','~> 2.17'
 
 
 # 添加 BUILD_LIBRARY_FOR_DISTRIBUTION 支持
