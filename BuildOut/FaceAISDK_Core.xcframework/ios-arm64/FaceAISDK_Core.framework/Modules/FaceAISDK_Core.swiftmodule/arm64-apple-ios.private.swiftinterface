@@ -1,7 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)
-// swift-module-flags: -target arm64-apple-ios16.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name FaceAISDK_Core
-// swift-module-flags-ignorable: -enable-bare-slash-regex
+// swift-compiler-version: Apple Swift version 6.0.3 effective-5.10 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)
+// swift-module-flags: -target arm64-apple-ios16.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name FaceAISDK_Core
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface
 import AVFoundation
 import Combine
 import CoreGraphics
@@ -43,10 +43,10 @@ public class TFLiteDecrypter {
   public func loadModel(modelName: Swift.String, fileExtension: Swift.String = "enc", subBundleName: Swift.String? = nil) throws -> FaceAISDK_Core.ModelWrapper
   @objc deinit
 }
-public struct FaceAICameraView : SwiftUI.UIViewControllerRepresentable {
-  public init(session: AVFoundation.AVCaptureSession, cameraSize: CoreFoundation.CGFloat)
-  @_Concurrency.MainActor(unsafe) public func makeUIViewController(context: FaceAISDK_Core.FaceAICameraView.Context) -> UIKit.UIViewController
-  @_Concurrency.MainActor(unsafe) public func updateUIViewController(_ uiViewController: UIKit.UIViewController, context: FaceAISDK_Core.FaceAICameraView.Context)
+@_Concurrency.MainActor @preconcurrency public struct FaceAICameraView : SwiftUI.UIViewControllerRepresentable {
+  @_Concurrency.MainActor @preconcurrency public init(session: AVFoundation.AVCaptureSession, cameraSize: CoreFoundation.CGFloat)
+  @_Concurrency.MainActor @preconcurrency public func makeUIViewController(context: FaceAISDK_Core.FaceAICameraView.Context) -> UIKit.UIViewController
+  @_Concurrency.MainActor @preconcurrency public func updateUIViewController(_ uiViewController: UIKit.UIViewController, context: FaceAISDK_Core.FaceAICameraView.Context)
   public typealias Body = Swift.Never
   public typealias Coordinator = Swift.Void
   public typealias UIViewControllerType = UIKit.UIViewController
@@ -88,14 +88,14 @@ public struct FaceTipsCode {
   public static let VERIFY_FAILED: Swift.Int
 }
 @objc @_inheritsConvenienceInitializers open class VerifyFaceModel : ObjectiveC.NSObject, Foundation.ObservableObject, AVFoundation.AVCaptureVideoDataOutputSampleBufferDelegate {
-  @Combine.Published @_projectedValueProperty($colorFlash) public var colorFlash: SwiftUI.Color {
+  @Combine.Published @_projectedValueProperty($colorFlash) public var colorFlash: SwiftUICore.Color {
     get
     @available(iOS 13.0, tvOS 13.0, watchOS 6.0, macOS 10.15, *)
     set
     @available(iOS 13.0, tvOS 13.0, watchOS 6.0, macOS 10.15, *)
     _modify
   }
-  public var $colorFlash: Combine.Published<SwiftUI.Color>.Publisher {
+  public var $colorFlash: Combine.Published<SwiftUICore.Color>.Publisher {
     get
     @available(iOS 14.0, tvOS 14.0, watchOS 7.0, macOS 11.0, *)
     set
@@ -281,3 +281,4 @@ public struct VerifyResultCode {
   public static func initSDK()
   @objc deinit
 }
+extension FaceAISDK_Core.FaceAICameraView : Swift.Sendable {}
