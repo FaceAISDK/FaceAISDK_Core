@@ -137,7 +137,7 @@ public struct FaceTipsCode {
     set
   }
   final public let captureSession: AVFoundation.AVCaptureSession
-  public func initFaceAISDK(faceIDFeature: Swift.String, threshold: Swift.Float = 0.84, livenessType: Swift.Int = 3, onlyLiveness: Swift.Bool = false, motionLiveness: Swift.String = "1,2,3,4,5")
+  public func initFaceAISDK(faceIDFeature: Swift.String, threshold: Swift.Float = 0.84, livenessType: Swift.Int = 3, onlyLiveness: Swift.Bool = false, motionLiveness: Swift.String = "1,2,3,4,5", motionLivenessTimeOut: Swift.Int = 5, motionLivenessSteps: Swift.Int = 2)
   @objc public func captureOutput(_ output: AVFoundation.AVCaptureOutput, didOutput sampleBuffer: CoreMedia.CMSampleBuffer, from connection: AVFoundation.AVCaptureConnection)
   public func stopFaceVerify()
   @objc override dynamic public init()
