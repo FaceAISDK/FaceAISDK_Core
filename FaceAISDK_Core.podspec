@@ -11,11 +11,11 @@ s.summary = "FaceAISDK离线不用联网实现人脸录入，人脸识别和活�
 # 上传 pod trunk push FaceAISDK_Core.podspec --skip-import-validation
 # 更新 pod install --repo-update
 
-s.version = "2026.01.02"
+s.version = "2026.01.03"
 
 # s.swift_version = "6.0"
-s.swift_versions = ['5.9',6.0']
-
+# 允许使用 Swift 5.9 到 6.x 的编译器编译
+s.swift_versions = ['5.9', '6.0']
 
 # 3
 s.license = { :type => "FaceAISDK License", :file => "LICENSE" }
