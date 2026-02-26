@@ -13,7 +13,8 @@ struct ContentView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("CI CD 发布验证，无功能!")
+        
+            Text("CI CD 发布验证，无功能!\n请访问https://github.com/FaceAISDK")
         }
         .padding()
     }

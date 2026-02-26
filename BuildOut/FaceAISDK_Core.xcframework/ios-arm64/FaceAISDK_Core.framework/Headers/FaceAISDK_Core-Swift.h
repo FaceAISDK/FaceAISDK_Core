@@ -315,7 +315,7 @@ SWIFT_CLASS("_TtC14FaceAISDK_Core20AddFaceByCameraModel")
 
 
 
-/// 人脸识别，动作活体
+/// 人脸识别，活体检测（动作活体，炫彩活体不能在高亮环境使用）
 SWIFT_CLASS("_TtC14FaceAISDK_Core15VerifyFaceModel")
 @interface VerifyFaceModel : NSObject <AVCaptureVideoDataOutputSampleBufferDelegate>
 - (void)captureOutput:(AVCaptureOutput * _Nonnull)output didOutputSampleBuffer:(CMSampleBufferRef _Nonnull)sampleBuffer fromConnection:(AVCaptureConnection * _Nonnull)connection;
