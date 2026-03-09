@@ -6,7 +6,7 @@
 	<dict>
 		<key>FaceAISDK_Core.podspec</key>
 		<data>
-		7Uc6uAXNGD9zdKQZfQaOAtZ/i7A=
+		7nSJDn2zC75MpiGHPye7zcFx2y0=
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/BCLjoy_200.emd</key>
 		<data>
@@ -64,41 +64,45 @@
 		<data>
 		TMnLb46UBVzttbvFzUthN/vWvgw=
 		</data>
+		<key>Headers/FaceAISDK_Core.h</key>
+		<data>
+		MfnzJGmlgWx9FtMNLtEqKQ0dpBM=
+		</data>
 		<key>Info.plist</key>
 		<data>
-		LA8U/6phQbceAlaq7Ahdh0z08yU=
+		W9wd7O9RS0pFPHkWsijgUx6Dp08=
 		</data>
 		<key>LICENSE</key>
 		<data>
-		Y+CYKUmpRIKaKOtg04HVVjpwXOA=
+		/DA9rc0ToQl2g0RrIrrssWYSb1g=
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		nFv4YXj1TzXsKK5dktK+3gma/n8=
+		GvMZhhbvJb3Rt5lJ2cHhdYU6N3A=
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		AJvv+b1BKIMbdJJqmjV57jU0LDk=
+		R74USj6hshmpEtegCoeo4dcUmB8=
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		BYat/yRkf1G98I1kgmnjjxuofoc=
+		u7G1Blmpya49gdhHd1coVoZFoaM=
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		/WMiEDbfbkkiae7trBzQ92UOGr0=
+		rOwlYio0QffkCneJbYE0QYcN8kw=
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		BYat/yRkf1G98I1kgmnjjxuofoc=
+		u7G1Blmpya49gdhHd1coVoZFoaM=
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		NeXmzvRkMLq216ksX/hMzcY0szU=
+		xZ8tlztykNPNlIakaFXKZsT9vIQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		2X2WKKbIVDJeW0AYasK1dKtRnbw=
+		U6ArW605Jvb8csyvYaouFAlL2jE=
 		</data>
 		<key>README.md</key>
 		<data>
@@ -120,6 +124,26 @@
 		<data>
 		PFHYbs0V3eUFDWQyYQcwEetuqEk=
 		</data>
+		<key>config.json</key>
+		<data>
+		aQYpbGn5KkRBbPy0b04gMCOTYT4=
+		</data>
+		<key>liveness_model_1.bin</key>
+		<data>
+		kvouYDjVhvaLkqszTgQeFizgEsA=
+		</data>
+		<key>liveness_model_1.param</key>
+		<data>
+		soCzh4HYe+qLlYCF2SXBB+qBJJM=
+		</data>
+		<key>liveness_model_2.bin</key>
+		<data>
+		RFSl0g3CiOjUC9+fEXD7pDCvZyw=
+		</data>
+		<key>liveness_model_2.param</key>
+		<data>
+		q6NourlD1JGlg+EAy0ZoBwfMfYU=
+		</data>
 		<key>package.sh</key>
 		<data>
 		MxsHQkoQuDySOHqx5G7qSVIifco=
@@ -135,11 +159,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7Uc6uAXNGD9zdKQZfQaOAtZ/i7A=
+			7nSJDn2zC75MpiGHPye7zcFx2y0=
 			</data>
 			<key>hash2</key>
 			<data>
-			emdiPRh49tP7QNRmDaBFo7hWjhp28Z+rgyYtorEAFRw=
+			y7xJcsxnoCn2DPBLqWXl+I351KRRw9seN24ms3HXxi4=
 			</data>
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/BCLjoy_200.emd</key>
@@ -296,92 +320,103 @@
 			tpm5wPe6cf4wmV45pnZdBKit6NkHpY7Hgqe/17d7FwQ=
 			</data>
 		</dict>
+		<key>Headers/FaceAISDK_Core.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			MfnzJGmlgWx9FtMNLtEqKQ0dpBM=
+			</data>
+			<key>hash2</key>
+			<data>
+			TXSEUtp/IBk7YJpdB0MT+9ndZl09M9mGiNvHryVV5cw=
+			</data>
+		</dict>
 		<key>LICENSE</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Y+CYKUmpRIKaKOtg04HVVjpwXOA=
+			/DA9rc0ToQl2g0RrIrrssWYSb1g=
 			</data>
 			<key>hash2</key>
 			<data>
-			SRxJNP5K7PpHEbu3A4Tw28wBqoxhrk1WujNp1QEYxyc=
+			g+vlOqabG0f7b3j4ObB6l7+E4C9RU99WGQ9B4Pmp0ms=
 			</data>
 		</dict>
 		<key>Modules/FaceAISDK_Core.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			nFv4YXj1TzXsKK5dktK+3gma/n8=
+			GvMZhhbvJb3Rt5lJ2cHhdYU6N3A=
 			</data>
 			<key>hash2</key>
 			<data>
-			I11bZp0s+ZdXzzq71G9oBhcSwp/gjwl9C6NdcrjE+bM=
+			3fKSGJA51Sl/8pSDeRHEcy/GBxSPMRzaT580knunfdE=
 			</data>
 		</dict>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			AJvv+b1BKIMbdJJqmjV57jU0LDk=
+			R74USj6hshmpEtegCoeo4dcUmB8=
 			</data>
 			<key>hash2</key>
 			<data>
-			kr7QsliV2EUvGFRo45+bhP74JlrQNRTTH4LXA02P1c0=
+			DYjLJF9rp5FWlFZQF+m29Lr0mHvkKw0ApOMdpEUMbds=
 			</data>
 		</dict>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			BYat/yRkf1G98I1kgmnjjxuofoc=
+			u7G1Blmpya49gdhHd1coVoZFoaM=
 			</data>
 			<key>hash2</key>
 			<data>
-			COWiUeFcsCvPhaZUd2nKwVIWWe91kvocDFKcqEnkZ5k=
+			Q8hGHmoRYoTdjqvzrELCmZb0BJVewx1hzNKRznbsNN8=
 			</data>
 		</dict>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/WMiEDbfbkkiae7trBzQ92UOGr0=
+			rOwlYio0QffkCneJbYE0QYcN8kw=
 			</data>
 			<key>hash2</key>
 			<data>
-			VMzLbUX6QuXaNwbIWDmN1ydfzPQi3Dscby+Bim+mK+M=
+			0rDCLYM2RAZMNzioA+/u0YDYpKcB3I/3/bOxDwE7QP0=
 			</data>
 		</dict>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			BYat/yRkf1G98I1kgmnjjxuofoc=
+			u7G1Blmpya49gdhHd1coVoZFoaM=
 			</data>
 			<key>hash2</key>
 			<data>
-			COWiUeFcsCvPhaZUd2nKwVIWWe91kvocDFKcqEnkZ5k=
+			Q8hGHmoRYoTdjqvzrELCmZb0BJVewx1hzNKRznbsNN8=
 			</data>
 		</dict>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			NeXmzvRkMLq216ksX/hMzcY0szU=
+			xZ8tlztykNPNlIakaFXKZsT9vIQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			ve7FRUP66MBamBPynM9W+jCh4lQ4KNJBnM/hMya2nhk=
+			CmFf0FhagBSmhOBiKsFa9wwFkKpqecp6ojQWcHPDQm0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2X2WKKbIVDJeW0AYasK1dKtRnbw=
+			U6ArW605Jvb8csyvYaouFAlL2jE=
 			</data>
 			<key>hash2</key>
 			<data>
-			fDpcUHkE/sTIXSCO4Lmppmv3oKaKvr+RMRKEKmAg6iY=
+			AuTDFqgyIew2O83jFaMKzbtvhePe11k/7DzrT1ibnaw=
 			</data>
 		</dict>
 		<key>README.md</key>
@@ -437,6 +472,61 @@
 			<key>hash2</key>
 			<data>
 			A7LHCDOjMaKx79Ef8WjtAqjq39Xn0fvzDuzHUJpK6kc=
+			</data>
+		</dict>
+		<key>config.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			aQYpbGn5KkRBbPy0b04gMCOTYT4=
+			</data>
+			<key>hash2</key>
+			<data>
+			QDG9v3Z/8f6vhUlVdMP0CmsCrhuAg7nx5ZhdcP271zo=
+			</data>
+		</dict>
+		<key>liveness_model_1.bin</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kvouYDjVhvaLkqszTgQeFizgEsA=
+			</data>
+			<key>hash2</key>
+			<data>
+			YLpJZ1wkvDUzzNyZdJk4mVXTyPepJE7O6LzpKe6iNQk=
+			</data>
+		</dict>
+		<key>liveness_model_1.param</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			soCzh4HYe+qLlYCF2SXBB+qBJJM=
+			</data>
+			<key>hash2</key>
+			<data>
+			iNMgImcSa6NzOsS2BoMNEl+gCJRJFzs4szPdFdTO+NI=
+			</data>
+		</dict>
+		<key>liveness_model_2.bin</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			RFSl0g3CiOjUC9+fEXD7pDCvZyw=
+			</data>
+			<key>hash2</key>
+			<data>
+			AzGLkQLhYyHxcb8whgnOBw0cLXFca5ITzd5OB0ikQho=
+			</data>
+		</dict>
+		<key>liveness_model_2.param</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			q6NourlD1JGlg+EAy0ZoBwfMfYU=
+			</data>
+			<key>hash2</key>
+			<data>
+			v7EN7AEDbSUVd55gSwC3MR6aZ9B3eoxDl09elzXNJ7A=
 			</data>
 		</dict>
 		<key>package.sh</key>

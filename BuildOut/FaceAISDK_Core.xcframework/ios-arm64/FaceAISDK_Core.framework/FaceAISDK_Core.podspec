@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
 s.platform = :ios
-s.ios.deployment_target = '16.0'
+s.ios.deployment_target = '15.5'
 s.name = "FaceAISDK_Core"
 
 s.summary = "FaceAISDK 不用联网单机实现人脸录入，人脸识别和活体检验；FaceAI SDK can add face, face recognition, and liveness detection on_device offline"
@@ -11,9 +11,8 @@ s.summary = "FaceAISDK 不用联网单机实现人脸录入，人脸识别和活
 # 上传 pod trunk push FaceAISDK_Core.podspec --skip-import-validation
 # 更新 pod install --repo-update
 
-s.version = "2025.12.03"
-
-s.swift_versions = ['6.0', '6.1', '6.2']
+s.version = "2026.03.04"
+s.swift_versions = ['5.9','6.0', '6.1', '6.2']
 
 # 3
 s.license = { :type => "FaceAISDK License", :file => "LICENSE" }
@@ -24,6 +23,8 @@ s.source = { :git => "https://github.com/FaceAISDK/FaceAISDK_Core.git",
 
 s.dependency 'GoogleMLKit/FaceDetection','9.0.0'
 s.dependency 'TensorFlowLiteSwift','~> 2.17'
+s.vendored_frameworks = 'FaceAISDK_Core/silent/framework/ncnn.framework'
+s.vendored_frameworks = 'FaceAISDK_Core/silent/framework/openmp.framework'
 
 
 # 添加 BUILD_LIBRARY_FOR_DISTRIBUTION 支持
@@ -43,7 +44,13 @@ s.user_target_xcconfig = {
 
 
 s.ios.vendored_frameworks  = 'BuildOut/*.xcframework'
-s.resources = ['Resources/subModel.bundle']
+#s.resources = ['Resources/subModel.bundle']
+
+# 正确写法：合并到一个数组
+s.resources = [
+  'Resources/subModel.bundle',
+  'FaceAISDK_Core/silent/model/**/*'
+]
 
 end
 
