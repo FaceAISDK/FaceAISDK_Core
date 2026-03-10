@@ -11,7 +11,7 @@ s.summary = "FaceAISDK 不用联网单机实现人脸录入，人脸识别和活
 # 上传 pod trunk push FaceAISDK_Core.podspec --skip-import-validation
 # 更新 pod install --repo-update
 
-s.version = "2026.03.06"
+s.version = "2026.03.07"
 s.swift_versions = ['5.9','6.0', '6.1', '6.2']
 
 # 3
@@ -25,7 +25,7 @@ s.dependency 'GoogleMLKit/FaceDetection','9.0.0'
 s.dependency 'TensorFlowLiteSwift','~> 2.17'
 s.vendored_frameworks = 'FaceAISDK_Core/silent/framework/ncnn.framework'
 s.vendored_frameworks = 'FaceAISDK_Core/silent/framework/openmp.framework'
-
+s.libraries = 'c++'
 
 # 添加 BUILD_LIBRARY_FOR_DISTRIBUTION 支持
 s.pod_target_xcconfig = {

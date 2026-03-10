@@ -14,7 +14,6 @@ import GTMSessionFetcher
 import MLImage
 import MLKitFaceDetection
 import MLKitVision
-import SilentLiveEngineModule
 import Swift
 import SwiftUI
 import TensorFlowLite
