@@ -6,7 +6,7 @@
 	<dict>
 		<key>FaceAISDK_Core.podspec</key>
 		<data>
-		eYzayuhY179JW+T5YQCdGTfhCUQ=
+		VGKUHcE0rWJJAGXO4Bn2t7qSdqw=
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/BCLjoy_200.emd</key>
 		<data>
@@ -124,26 +124,6 @@
 		<data>
 		PFHYbs0V3eUFDWQyYQcwEetuqEk=
 		</data>
-		<key>config.json</key>
-		<data>
-		aQYpbGn5KkRBbPy0b04gMCOTYT4=
-		</data>
-		<key>liveness_model_1.bin</key>
-		<data>
-		kvouYDjVhvaLkqszTgQeFizgEsA=
-		</data>
-		<key>liveness_model_1.param</key>
-		<data>
-		soCzh4HYe+qLlYCF2SXBB+qBJJM=
-		</data>
-		<key>liveness_model_2.bin</key>
-		<data>
-		RFSl0g3CiOjUC9+fEXD7pDCvZyw=
-		</data>
-		<key>liveness_model_2.param</key>
-		<data>
-		q6NourlD1JGlg+EAy0ZoBwfMfYU=
-		</data>
 		<key>package.sh</key>
 		<data>
 		MxsHQkoQuDySOHqx5G7qSVIifco=
@@ -152,6 +132,26 @@
 		<data>
 		F9XH3SjEUBOOgq1XzRJwKlCiFLk=
 		</data>
+		<key>subModel.bundle/config.json</key>
+		<data>
+		aQYpbGn5KkRBbPy0b04gMCOTYT4=
+		</data>
+		<key>subModel.bundle/liveness_model_1.bin</key>
+		<data>
+		kvouYDjVhvaLkqszTgQeFizgEsA=
+		</data>
+		<key>subModel.bundle/liveness_model_1.param</key>
+		<data>
+		soCzh4HYe+qLlYCF2SXBB+qBJJM=
+		</data>
+		<key>subModel.bundle/liveness_model_2.bin</key>
+		<data>
+		RFSl0g3CiOjUC9+fEXD7pDCvZyw=
+		</data>
+		<key>subModel.bundle/liveness_model_2.param</key>
+		<data>
+		q6NourlD1JGlg+EAy0ZoBwfMfYU=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -159,11 +159,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			eYzayuhY179JW+T5YQCdGTfhCUQ=
+			VGKUHcE0rWJJAGXO4Bn2t7qSdqw=
 			</data>
 			<key>hash2</key>
 			<data>
-			ai6kLBdHlltxH1GGqmFyXxflwddHRo7P8pMRr6VMl9c=
+			vJkOg/BvIWwgtEY6szmmg9yZF0BiELT8ABUnjDJfztY=
 			</data>
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/BCLjoy_200.emd</key>
@@ -474,61 +474,6 @@
 			A7LHCDOjMaKx79Ef8WjtAqjq39Xn0fvzDuzHUJpK6kc=
 			</data>
 		</dict>
-		<key>config.json</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			aQYpbGn5KkRBbPy0b04gMCOTYT4=
-			</data>
-			<key>hash2</key>
-			<data>
-			QDG9v3Z/8f6vhUlVdMP0CmsCrhuAg7nx5ZhdcP271zo=
-			</data>
-		</dict>
-		<key>liveness_model_1.bin</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			kvouYDjVhvaLkqszTgQeFizgEsA=
-			</data>
-			<key>hash2</key>
-			<data>
-			YLpJZ1wkvDUzzNyZdJk4mVXTyPepJE7O6LzpKe6iNQk=
-			</data>
-		</dict>
-		<key>liveness_model_1.param</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			soCzh4HYe+qLlYCF2SXBB+qBJJM=
-			</data>
-			<key>hash2</key>
-			<data>
-			iNMgImcSa6NzOsS2BoMNEl+gCJRJFzs4szPdFdTO+NI=
-			</data>
-		</dict>
-		<key>liveness_model_2.bin</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			RFSl0g3CiOjUC9+fEXD7pDCvZyw=
-			</data>
-			<key>hash2</key>
-			<data>
-			AzGLkQLhYyHxcb8whgnOBw0cLXFca5ITzd5OB0ikQho=
-			</data>
-		</dict>
-		<key>liveness_model_2.param</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			q6NourlD1JGlg+EAy0ZoBwfMfYU=
-			</data>
-			<key>hash2</key>
-			<data>
-			v7EN7AEDbSUVd55gSwC3MR6aZ9B3eoxDl09elzXNJ7A=
-			</data>
-		</dict>
 		<key>package.sh</key>
 		<dict>
 			<key>hash</key>
@@ -549,6 +494,61 @@
 			<key>hash2</key>
 			<data>
 			rvyfIGbfkNiOxteibyjQPLI4yTAQ1i4YSXfYWAlAdts=
+			</data>
+		</dict>
+		<key>subModel.bundle/config.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			aQYpbGn5KkRBbPy0b04gMCOTYT4=
+			</data>
+			<key>hash2</key>
+			<data>
+			QDG9v3Z/8f6vhUlVdMP0CmsCrhuAg7nx5ZhdcP271zo=
+			</data>
+		</dict>
+		<key>subModel.bundle/liveness_model_1.bin</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kvouYDjVhvaLkqszTgQeFizgEsA=
+			</data>
+			<key>hash2</key>
+			<data>
+			YLpJZ1wkvDUzzNyZdJk4mVXTyPepJE7O6LzpKe6iNQk=
+			</data>
+		</dict>
+		<key>subModel.bundle/liveness_model_1.param</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			soCzh4HYe+qLlYCF2SXBB+qBJJM=
+			</data>
+			<key>hash2</key>
+			<data>
+			iNMgImcSa6NzOsS2BoMNEl+gCJRJFzs4szPdFdTO+NI=
+			</data>
+		</dict>
+		<key>subModel.bundle/liveness_model_2.bin</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			RFSl0g3CiOjUC9+fEXD7pDCvZyw=
+			</data>
+			<key>hash2</key>
+			<data>
+			AzGLkQLhYyHxcb8whgnOBw0cLXFca5ITzd5OB0ikQho=
+			</data>
+		</dict>
+		<key>subModel.bundle/liveness_model_2.param</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			q6NourlD1JGlg+EAy0ZoBwfMfYU=
+			</data>
+			<key>hash2</key>
+			<data>
+			v7EN7AEDbSUVd55gSwC3MR6aZ9B3eoxDl09elzXNJ7A=
 			</data>
 		</dict>
 	</dict>

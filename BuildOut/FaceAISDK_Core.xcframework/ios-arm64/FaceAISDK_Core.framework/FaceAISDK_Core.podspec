@@ -1,57 +1,53 @@
 Pod::Spec.new do |s|
+  s.name         = "FaceAISDK_Core"
+  s.version      = "2026.03.01"
+  s.platform     = :ios, '15.5'
+  s.summary      = "FaceAISDK人脸识别和活体检验，可离线无需网络端侧实现"
+  s.homepage     = "https://github.com/FaceAISDK/FaceAISDK_Core"
+  s.license      = { :type => "FaceAISDK License", :file => "LICENSE" }
+  s.author       = { "FaceAISDK_Core" => "FaceAISDK.Service@gmail.com" }
+  s.source       = { :git => "https://github.com/FaceAISDK/FaceAISDK_Core.git", :tag => "#{s.version}" }
+  
+  
+  # git tag version
+  # git push origin version
+  # 上传 pod trunk push FaceAISDK_Core.podspec --skip-import-validation
+  # 更新 pod install --repo-update
+  
 
-s.platform = :ios
-s.ios.deployment_target = '15.5'
-s.name = "FaceAISDK_Core"
+  s.swift_versions = ['5.9', '6.0', '6.1', '6.2']
+  s.static_framework = true #通常建议作为静态框架
 
-s.summary = "FaceAISDK 不用联网单机实现人脸录入，人脸识别和活体检验；FaceAI SDK can add face, face recognition, and liveness detection on_device offline"
+  # --- 依赖配置 ---
+  s.dependency 'GoogleMLKit/FaceDetection', '9.0.0'
+  s.dependency 'TensorFlowLiteSwift', '~> 2.17'
 
-# git tag version
-# git push origin version
-# 上传 pod trunk push FaceAISDK_Core.podspec --skip-import-validation
-# 更新 pod install --repo-update
+  # --- 框架二进制配置 (核心修复：合并数组) ---
+  s.ios.vendored_frameworks = [
+    'BuildOut/*.xcframework',
+    'FaceAISDK_Core/silent/framework/ncnn.framework',
+    'FaceAISDK_Core/silent/framework/openmp.framework'
+  ]
 
-s.version = "2026.03.07"
-s.swift_versions = ['5.9','6.0', '6.1', '6.2']
+  # --- 资源文件 ---
+  s.resources = ['Resources/subModel.bundle']
 
-# 3
-s.license = { :type => "FaceAISDK License", :file => "LICENSE" }
-s.author = { "FaceAISDK_Core" => "FaceAISDK.Service@gmail.com" }
-s.homepage = "https://github.com/FaceAISDK/FaceAISDK_Core"
-s.source = { :git => "https://github.com/FaceAISDK/FaceAISDK_Core.git",
-             :tag => "#{s.version}" }
-
-s.dependency 'GoogleMLKit/FaceDetection','9.0.0'
-s.dependency 'TensorFlowLiteSwift','~> 2.17'
-s.vendored_frameworks = 'FaceAISDK_Core/silent/framework/ncnn.framework'
-s.vendored_frameworks = 'FaceAISDK_Core/silent/framework/openmp.framework'
-# 4. 必须链接 C++ 标准库，因为你的二进制内部含有 C++ 代码
-s.libraries = 'c++'
-
-# 添加 BUILD_LIBRARY_FOR_DISTRIBUTION 支持
-s.pod_target_xcconfig = {
+  # 合并所有的 xcconfig
+  s.libraries = 'c++' # 链接 C++ 标准库
+  
+  s.pod_target_xcconfig = {
+    'OTHER_LDFLAGS' => '-lc++ -ObjC', # 确保链接器能找到 C++ 符号
+    'FRAMEWORK_SEARCH_PATHS' => '$(inherited) "${PODS_ROOT}/FaceAISDK_Core/FaceAISDK_Core/silent/framework"',
     'BUILD_LIBRARY_FOR_DISTRIBUTION' => 'YES',
     'OTHER_SWIFT_FLAGS' => '-Xfrontend -enable-library-evolution',
     'SKIP_INSTALL' => 'NO',
     'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
-}
-  
-# 静态框架设置（如果需要）
-s.static_framework = true
-s.user_target_xcconfig = {
-  'BUILD_LIBRARY_FOR_DISTRIBUTION' => 'YES',
-  'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
-}
+  }
 
-
-s.ios.vendored_frameworks  = 'BuildOut/*.xcframework'
-#s.resources = ['Resources/subModel.bundle']
-
-# 正确写法：合并到一个数组
-s.resources = [
-  'Resources/subModel.bundle',
-  'FaceAISDK_Core/silent/model/**/*'
-]
+  s.user_target_xcconfig = {
+    'OTHER_LDFLAGS' => '-lc++',
+    'BUILD_LIBRARY_FOR_DISTRIBUTION' => 'YES',
+    'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
+  }
 
 end
-
