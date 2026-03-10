@@ -8,6 +8,7 @@ import CoreGraphics
 import CoreVideo
 import CryptoKit
 import Dispatch
+@_exported import FaceAISDK_Core
 import Foundation
 import GTMSessionFetcher
 import MLImage
@@ -83,6 +84,7 @@ public struct FaceTipsCode {
   public static let COLOR_FLASH_SUCCESS: Swift.Int
   public static let COLOR_FLASH_FAILED: Swift.Int
   public static let COLOR_FLASH_LIGHT_HIGH: Swift.Int
+  public static let SILENT_LIVENESS_FAILED: Swift.Int
   public static let ALL_LIVENESS_SUCCESS: Swift.Int
   public static let VERIFY_SUCCESS: Swift.Int
   public static let VERIFY_FAILED: Swift.Int
@@ -230,6 +232,7 @@ public struct VerifyResultCode {
   public static let COLOR_LIVENESS_FAILED: Swift.Int
   public static let COLOR_LIVENESS_LIGHT_TOO_HIGH: Swift.Int
   public static let ALL_LIVENESS_SUCCESS: Swift.Int
+  public static let SILENT_LIVENESS_FAILED: Swift.Int
   public static let NO_FACE_IMAGE: Swift.Int
   public static let FACE_IMAGE_DISPOSE_ERROR: Swift.Int
   public static let FACE_SDK_ERROR: Swift.Int
