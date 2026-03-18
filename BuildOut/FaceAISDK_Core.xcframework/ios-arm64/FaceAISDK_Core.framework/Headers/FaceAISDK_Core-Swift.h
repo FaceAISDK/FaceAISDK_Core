@@ -312,6 +312,13 @@ SWIFT_CLASS("_TtC14FaceAISDK_Core20AddFaceByCameraModel")
 @end
 
 
+/// 添加人脸照片，提示人脸角度摆正
+SWIFT_CLASS("_TtC14FaceAISDK_Core21AddFaceByUIImageModel")
+@interface AddFaceByUIImageModel : NSObject
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
 
 
 
@@ -319,13 +326,6 @@ SWIFT_CLASS("_TtC14FaceAISDK_Core20AddFaceByCameraModel")
 SWIFT_CLASS("_TtC14FaceAISDK_Core15VerifyFaceModel")
 @interface VerifyFaceModel : NSObject <AVCaptureVideoDataOutputSampleBufferDelegate>
 - (void)captureOutput:(AVCaptureOutput * _Nonnull)output didOutputSampleBuffer:(CMSampleBufferRef _Nonnull)sampleBuffer fromConnection:(AVCaptureConnection * _Nonnull)connection;
-- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
-@end
-
-
-/// 添加人脸照片，提示人脸角度摆正
-SWIFT_CLASS("_TtC14FaceAISDK_Core21addFaceByUIImageModel")
-@interface addFaceByUIImageModel : NSObject
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
