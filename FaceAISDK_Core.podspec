@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "FaceAISDK_Core"
-  s.version      = "2026.03.04.beta2"
+  s.version      = "2026.03.04.beta3"
   s.platform     = :ios, '15.5'
   s.summary      = "FaceAISDK人脸识别和活体检验，可离线无需网络端侧实现"
   s.homepage     = "https://github.com/FaceAISDK/FaceAISDK_Core"
@@ -25,8 +25,8 @@ Pod::Spec.new do |s|
   # --- 框架二进制配置 (核心修复：合并数组) ---
   s.ios.vendored_frameworks = [
     'BuildOut/*.xcframework',
-    'FaceAISDK_Core/silent/framework/ncnn.framework',
-    'FaceAISDK_Core/silent/framework/openmp.framework'
+    'FaceAISDK_Core/Silent/framework/ncnn.framework',
+    'FaceAISDK_Core/Silent/framework/openmp.framework'
   ]
 
   # --- 资源文件 ---
@@ -37,7 +37,7 @@ Pod::Spec.new do |s|
   
   s.pod_target_xcconfig = {
     'OTHER_LDFLAGS' => '-lc++ -ObjC', # 确保链接器能找到 C++ 符号
-    'FRAMEWORK_SEARCH_PATHS' => '$(inherited) "${PODS_ROOT}/FaceAISDK_Core/FaceAISDK_Core/silent/framework"',
+    'FRAMEWORK_SEARCH_PATHS' => '$(inherited) "${PODS_ROOT}/FaceAISDK_Core/FaceAISDK_Core/Silent/framework"',
     'BUILD_LIBRARY_FOR_DISTRIBUTION' => 'YES',
     'OTHER_SWIFT_FLAGS' => '-Xfrontend -enable-library-evolution',
     'SKIP_INSTALL' => 'NO',
@@ -45,7 +45,10 @@ Pod::Spec.new do |s|
   }
 
   s.user_target_xcconfig = {
-    'OTHER_LDFLAGS' => '-lc++',
+      # 强制宿主工程链接 ncnn 和 openmp
+    'OTHER_LDFLAGS' => '$(inherited) -lc++ -framework "ncnn" -framework "openmp"',
+    # 将框架搜索路径暴露给宿主工程
+    'FRAMEWORK_SEARCH_PATHS' => '$(inherited) "${PODS_ROOT}/FaceAISDK_Core/FaceAISDK_Core/Silent/framework"',
     'BUILD_LIBRARY_FOR_DISTRIBUTION' => 'YES',
     'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
   }
