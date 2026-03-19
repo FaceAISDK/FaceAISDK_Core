@@ -150,6 +150,7 @@ public struct FaceVerifyResult : Swift.Equatable {
   public var code: Swift.Int
   public var tips: Swift.String
   public var similarity: Swift.Float
+  public var liveness: Swift.Float
   public var faceImage: UIKit.UIImage?
   public static func == (a: FaceAISDK_Core.FaceVerifyResult, b: FaceAISDK_Core.FaceVerifyResult) -> Swift.Bool
 }
