@@ -316,6 +316,13 @@ SWIFT_CLASS("_TtC14FaceAISDK_Core20AddFaceByCameraModel")
 @end
 
 
+/// 添加人脸照片，提示人脸角度摆正的。。。
+SWIFT_CLASS("_TtC14FaceAISDK_Core19AddFaceByImageModel")
+@interface AddFaceByImageModel : NSObject
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
 
 
 
@@ -327,9 +334,8 @@ SWIFT_CLASS("_TtC14FaceAISDK_Core15VerifyFaceModel")
 @end
 
 
-/// 添加人脸照片，提示人脸角度摆正
-SWIFT_CLASS("_TtC14FaceAISDK_Core21addFaceByUIImageModel")
-@interface addFaceByUIImageModel : NSObject
+SWIFT_CLASS("_TtC14FaceAISDK_Core22VerifyTwoFaceSimiModel")
+@interface VerifyTwoFaceSimiModel : NSObject
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
