@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   
   # git tag version
   # git push origin version
-  # 上传 pod trunk push FaceAISDK_Core.podspec --skip-import-validation
+  # 上传发布（调试不需要）  pod trunk push FaceAISDK_Core.podspec --skip-import-validation
   # 更新 pod install --repo-update
   
 
