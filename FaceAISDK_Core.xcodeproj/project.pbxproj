@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		7C0FE8172EE115F70054ED85 /* FaceAISDK_Core.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7C0FE8162EE115F70054ED85 /* FaceAISDK_Core.xcframework */; };
 		7C73FDF82DE99438005437F4 /* FaceAISDK_CoreApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C73FDF72DE99438005437F4 /* FaceAISDK_CoreApp.swift */; };
 		7C73FDFA2DE99438005437F4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C73FDF92DE99438005437F4 /* ContentView.swift */; };
 		7C73FDFC2DE9943A005437F4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7C73FDFB2DE9943A005437F4 /* Assets.xcassets */; };
@@ -21,7 +20,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		7C0FE8162EE115F70054ED85 /* FaceAISDK_Core.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = FaceAISDK_Core.xcframework; sourceTree = "<group>"; };
 		7C73FDF42DE99438005437F4 /* FaceAISDK_Core.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FaceAISDK_Core.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7C73FDF72DE99438005437F4 /* FaceAISDK_CoreApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FaceAISDK_CoreApp.swift; sourceTree = "<group>"; };
 		7C73FDF92DE99438005437F4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -33,6 +31,7 @@
 		7C7E7CDB2F6B96CD00A9BCD9 /* ncnn.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = ncnn.framework; sourceTree = "<group>"; };
 		CF3FB9112E2E492900B616F0 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		CF6769A02EC79BEF00557A99 /* subModel.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = subModel.bundle; sourceTree = "<group>"; };
+		CFB0BAD82F6E414400EF438F /* FaceAISDK_Core.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = FaceAISDK_Core.xcframework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,7 +40,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				7C7E7CF52F6B96CD00A9BCD9 /* ncnn.framework in Frameworks */,
-				7C0FE8172EE115F70054ED85 /* FaceAISDK_Core.xcframework in Frameworks */,
 				7C7E7CF42F6B96CD00A9BCD9 /* openmp.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -93,7 +91,7 @@
 		7C73FE062DE995A4005437F4 /* BuildOut */ = {
 			isa = PBXGroup;
 			children = (
-				7C0FE8162EE115F70054ED85 /* FaceAISDK_Core.xcframework */,
+				CFB0BAD82F6E414400EF438F /* FaceAISDK_Core.xcframework */,
 			);
 			path = BuildOut;
 			sourceTree = "<group>";
