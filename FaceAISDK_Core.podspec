@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "FaceAISDK_Core"
-  s.version      = "2026.03.17"
+  s.version      = "2026.03.17.beta1"
   s.platform     = :ios, '15.5'
   s.summary      = "FaceAISDK人脸识别和活体检验，可离线无需网络端侧实现"
   s.homepage     = "https://github.com/FaceAISDK/FaceAISDK_Core"
@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
   # --- 框架二进制配置 (核心修复：合并数组) ---
   s.ios.vendored_frameworks = [
     'BuildOut/*.xcframework',
-    'Silent/framework/ncnn.framework',  # 去掉多余的 FaceAISDK_Core/ 前缀
+    'Silent/framework/ncnn.framework',  # 去掉多余的 FaceAISDK_Core前缀
     'Silent/framework/openmp.framework'
   ]
 
