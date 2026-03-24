@@ -78,11 +78,11 @@
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		m8VLsKi+9aY0BLFk5gdcVyWH8PU=
+		nTxF0G9HQ3P2DGKaEzWaJYJ5F4U=
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		9kjkkwclX17PfTWchI5cd+LUkF0=
+		SiE0jWa4BRteNAa8IMsjMTucyhc=
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -346,22 +346,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			m8VLsKi+9aY0BLFk5gdcVyWH8PU=
+			nTxF0G9HQ3P2DGKaEzWaJYJ5F4U=
 			</data>
 			<key>hash2</key>
 			<data>
-			+j1QsSAAVZJI4WGCMQj/rH9DArWrSD170Ss2S5IOS94=
+			xD9YNy7IVjchxqdXSKHsHA5ZZdg4QmwtasRODsQvWT0=
 			</data>
 		</dict>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9kjkkwclX17PfTWchI5cd+LUkF0=
+			SiE0jWa4BRteNAa8IMsjMTucyhc=
 			</data>
 			<key>hash2</key>
 			<data>
-			L+vYHfFrVbHWfh04eOO9cXeoEFPWHE+1PS3ZPmaC8Z8=
+			RQAZNVAXfMkLcF9o6oYBUyPrqEQ1gbfV6k9OMRA5aMk=
 			</data>
 		</dict>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
