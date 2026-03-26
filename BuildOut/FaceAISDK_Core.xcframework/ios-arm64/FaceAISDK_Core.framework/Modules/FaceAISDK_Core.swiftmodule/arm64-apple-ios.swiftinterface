@@ -178,7 +178,7 @@ public struct FaceVerifyResult : Swift.Equatable {
 @_hasMissingDesignatedInitializers public class FaceImageManger {
   public static func faceImageToBase64(fileName: Swift.String, compressionQuality: CoreFoundation.CGFloat = 1.0) -> Swift.String?
   public static func saveBase64ImageToLocal(base64String: Swift.String, fileName: Swift.String = "image") -> Swift.String?
-  public static func saveFaceImage(faceName: Swift.String, faceImage: UIKit.UIImage?, maxResolution: CoreFoundation.CGFloat = 250) -> Swift.Bool
+  public static func saveFaceImage(faceName: Swift.String, faceImage: UIKit.UIImage?) -> Swift.Bool
   public static func deleteFaceImage(faceID: Swift.String) -> Swift.Bool
   public static func isFaceImageExist(faceID: Swift.String) -> Swift.Bool
   @objc deinit
