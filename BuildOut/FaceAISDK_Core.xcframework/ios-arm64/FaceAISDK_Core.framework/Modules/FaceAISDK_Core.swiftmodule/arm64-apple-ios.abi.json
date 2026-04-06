@@ -1335,6 +1335,16 @@
       },
       {
         "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "FaceAISDK_Core",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -9525,42 +9535,42 @@
     {
       "filePath": "\/Users\/anylife\/iosCode\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "FloatLiteral",
-      "offset": 3770,
+      "offset": 3837,
       "length": 4,
       "value": "0.84"
     },
     {
       "filePath": "\/Users\/anylife\/iosCode\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 3826,
+      "offset": 3893,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/anylife\/iosCode\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 3880,
+      "offset": 3947,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/anylife\/iosCode\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "StringLiteral",
-      "offset": 3942,
+      "offset": 4009,
       "length": 11,
       "value": "\"1,2,3,4,5\""
     },
     {
       "filePath": "\/Users\/anylife\/iosCode\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 4014,
+      "offset": 4081,
       "length": 1,
       "value": "6"
     },
     {
       "filePath": "\/Users\/anylife\/iosCode\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 4074,
+      "offset": 4141,
       "length": 1,
       "value": "2"
     },
@@ -9644,28 +9654,28 @@
     {
       "filePath": "\/Users\/anylife\/iosCode\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/AddFace\/AddFaceByCameraModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 1274,
+      "offset": 1204,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/anylife\/iosCode\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/AddFace\/AddFaceByCameraModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 1318,
+      "offset": 1248,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/anylife\/iosCode\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/AddFace\/AddFaceByCameraModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 1356,
+      "offset": 1286,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/anylife\/iosCode\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/AddFace\/AddFaceByCameraModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 1391,
+      "offset": 1321,
       "length": 1,
       "value": "3"
     },
