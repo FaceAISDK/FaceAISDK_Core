@@ -251,7 +251,6 @@ public struct FaceVerifyResult : Swift.Equatable {
   public func initAddFace()
   @objc public func captureOutput(_ output: AVFoundation.AVCaptureOutput, didOutput sampleBuffer: CoreMedia.CMSampleBuffer, from connection: AVFoundation.AVCaptureConnection)
   public func reInit()
-  public func confirmSaveFace(fileName: Swift.String) -> Swift.String?
   @objc override dynamic public init()
   public typealias ObjectWillChangePublisher = Combine.ObservableObjectPublisher
   @objc deinit
