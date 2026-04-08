@@ -312,7 +312,7 @@ SWIFT_CLASS("_TtC14FaceAISDK_Core20AddFaceByCameraModel")
 @end
 
 
-/// 添加人脸照片，提示人脸角度摆正的。。。
+/// 添加人脸照片模型：支持从相册 UIImage 或 Base64 提取人脸特征
 SWIFT_CLASS("_TtC14FaceAISDK_Core19AddFaceByImageModel")
 @interface AddFaceByImageModel : NSObject
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
