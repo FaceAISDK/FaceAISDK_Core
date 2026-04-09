@@ -78,11 +78,11 @@
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		brBQe4UoE76U84drX0jruQzBqa8=
+		7ewUcEBdyxV3Ds/Id0eZWLvoh4w=
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		5fn1aQsqZPzOsL5jeFKtGcQzs5c=
+		ysJsmjkWbcLDN9hM1sm3YJqsEIk=
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -90,7 +90,7 @@
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		vm2pffYpKcK/MQKslHJqwA7YCro=
+		py3pECNN4mEvfU67vxCOCIi7Yys=
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
@@ -98,7 +98,7 @@
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		G0Ih2w2PhionC5mE3AKXZn0/rbM=
+		BMYL8KRzVwL5SLwbwT8biq+/I+U=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -346,22 +346,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			brBQe4UoE76U84drX0jruQzBqa8=
+			7ewUcEBdyxV3Ds/Id0eZWLvoh4w=
 			</data>
 			<key>hash2</key>
 			<data>
-			/y44NNpPMJKrflq0ALlCbNQd7rO7R9r3KHFEFP+FQiw=
+			WPTHxM/nxKHBGJo61HUKt9RCYvSCBOK/RHWM5XXzl1o=
 			</data>
 		</dict>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5fn1aQsqZPzOsL5jeFKtGcQzs5c=
+			ysJsmjkWbcLDN9hM1sm3YJqsEIk=
 			</data>
 			<key>hash2</key>
 			<data>
-			yo+tNWuIpe7eWltK+s5gxTPH+OTD2e8PZHXgF5S5x90=
+			a/LbNkguiw9G7srdf26+hLFzn4GBG9IrZ9avs8w8EFM=
 			</data>
 		</dict>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -379,11 +379,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vm2pffYpKcK/MQKslHJqwA7YCro=
+			py3pECNN4mEvfU67vxCOCIi7Yys=
 			</data>
 			<key>hash2</key>
 			<data>
-			gj0EzAnj0FNHRof4+U+rwyGyhr7r5Vi2tcYoUh8ExA0=
+			2A5cWXpm25ok7TrLbmQJ9t4y8s1N172/LnMpiXwNT4Y=
 			</data>
 		</dict>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.swiftinterface</key>
@@ -401,11 +401,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			G0Ih2w2PhionC5mE3AKXZn0/rbM=
+			BMYL8KRzVwL5SLwbwT8biq+/I+U=
 			</data>
 			<key>hash2</key>
 			<data>
-			oHlmel5nYAkL1Drs7nGduR8cFFP3YuDhlzx1GoA8yls=
+			ZFSAcKJzyYvGtnBH+gKJUy68G0ukF6ngAklVizxeZkc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

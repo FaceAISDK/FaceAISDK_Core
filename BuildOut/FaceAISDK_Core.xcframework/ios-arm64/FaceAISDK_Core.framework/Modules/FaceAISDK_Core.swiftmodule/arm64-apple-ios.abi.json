@@ -610,8 +610,7 @@
             "mangledName": "$s14FaceAISDK_Core15TFLiteDecrypterCACycfc",
             "moduleName": "FaceAISDK_Core",
             "declAttributes": [
-              "AccessControl",
-              "RawDocComment"
+              "AccessControl"
             ],
             "init_kind": "Designated"
           },
@@ -660,8 +659,7 @@
             "mangledName": "$s14FaceAISDK_Core15TFLiteDecrypterC9loadModel9modelName13fileExtension09subBundleI0AA0G7WrapperCSS_S2SSgtKF",
             "moduleName": "FaceAISDK_Core",
             "declAttributes": [
-              "AccessControl",
-              "RawDocComment"
+              "AccessControl"
             ],
             "throwing": true,
             "funcSelfKind": "NonMutating"
@@ -9672,112 +9670,154 @@
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/TFLiteDecrypter.swift",
       "kind": "StringLiteral",
-      "offset": 894,
+      "offset": 731,
       "length": 18,
       "value": "\"FaceAISDKService\""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/TFLiteDecrypter.swift",
       "kind": "StringLiteral",
-      "offset": 944,
+      "offset": 781,
       "length": 14,
       "value": "\"FaceAISDKMFN\""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/TFLiteDecrypter.swift",
       "kind": "IntegerLiteral",
-      "offset": 988,
+      "offset": 825,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/TFLiteDecrypter.swift",
+      "kind": "Array",
+      "offset": 1235,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/TFLiteDecrypter.swift",
       "kind": "StringLiteral",
-      "offset": 2014,
+      "offset": 1540,
       "length": 8,
       "value": "\"bundle\""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/TFLiteDecrypter.swift",
       "kind": "StringLiteral",
-      "offset": 2144,
-      "length": 61,
-      "value": "\"Inside Framework: Sub-bundle '\""
+      "offset": 1725,
+      "length": 56,
+      "value": "\"\""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/TFLiteDecrypter.swift",
       "kind": "StringLiteral",
-      "offset": 2185,
+      "offset": 1750,
       "length": 1,
-      "value": "\".bundle' not found.\""
+      "value": "\"\/\""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/TFLiteDecrypter.swift",
       "kind": "StringLiteral",
-      "offset": 2533,
-      "length": 73,
-      "value": "\"File '\""
+      "offset": 1761,
+      "length": 1,
+      "value": "\".bundle (Not Found)\""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/TFLiteDecrypter.swift",
       "kind": "StringLiteral",
-      "offset": 2552,
+      "offset": 2135,
+      "length": 70,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/TFLiteDecrypter.swift",
+      "kind": "StringLiteral",
+      "offset": 2162,
+      "length": 1,
+      "value": "\"\/\""
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/TFLiteDecrypter.swift",
+      "kind": "StringLiteral",
+      "offset": 2175,
       "length": 1,
       "value": "\".\""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/TFLiteDecrypter.swift",
       "kind": "StringLiteral",
-      "offset": 2569,
-      "length": 38,
-      "value": "\"' not found in bundle: \""
+      "offset": 2192,
+      "length": 1,
+      "value": "\" (Not Found)\""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/TFLiteDecrypter.swift",
       "kind": "StringLiteral",
-      "offset": 2605,
+      "offset": 2338,
+      "length": 41,
+      "value": "\"Model file not found. Searched paths:\n\""
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/TFLiteDecrypter.swift",
+      "kind": "StringLiteral",
+      "offset": 2414,
+      "length": 4,
+      "value": "\"\n\""
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/TFLiteDecrypter.swift",
+      "kind": "StringLiteral",
+      "offset": 2434,
+      "length": 35,
+      "value": "\"❌ [TFLiteDecrypter] \""
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/TFLiteDecrypter.swift",
+      "kind": "StringLiteral",
+      "offset": 2468,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/TFLiteDecrypter.swift",
       "kind": "StringLiteral",
-      "offset": 3018,
+      "offset": 2605,
       "length": 5,
       "value": "\"enc\""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/TFLiteDecrypter.swift",
       "kind": "StringLiteral",
-      "offset": 4361,
-      "length": 33,
-      "value": "\"❌ Decryption Failed: \""
+      "offset": 3837,
+      "length": 51,
+      "value": "\"❌ [TFLiteDecrypter] Decryption Failed: \""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/TFLiteDecrypter.swift",
       "kind": "StringLiteral",
-      "offset": 4393,
+      "offset": 3887,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/TFLiteDecrypter.swift",
       "kind": "IntegerLiteral",
-      "offset": 4784,
+      "offset": 4182,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/TFLiteDecrypter.swift",
       "kind": "BooleanLiteral",
-      "offset": 4827,
+      "offset": 4225,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/TFLiteDecrypter.swift",
       "kind": "Array",
-      "offset": 4936,
+      "offset": 4334,
       "length": 2,
       "value": "[]"
     },
@@ -10470,686 +10510,567 @@
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "IntegerLiteral",
-      "offset": 240,
+      "offset": 142,
       "length": 3,
       "value": "112"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "IntegerLiteral",
-      "offset": 273,
+      "offset": 175,
       "length": 3,
       "value": "192"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "StringLiteral",
-      "offset": 299,
+      "offset": 201,
       "length": 14,
       "value": "\"FaceAIEngine\""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "StringLiteral",
-      "offset": 547,
+      "offset": 365,
       "length": 29,
       "value": "\"com.faceai.engine.execution\""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "StringLiteral",
-      "offset": 1002,
+      "offset": 908,
       "length": 8,
       "value": "\"FaceAI\""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "StringLiteral",
-      "offset": 1074,
+      "offset": 980,
       "length": 7,
       "value": "\"model\""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "StringLiteral",
-      "offset": 1145,
+      "offset": 1051,
       "length": 10,
       "value": "\"subModel\""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "StringLiteral",
-      "offset": 1226,
-      "length": 32,
-      "value": "\"正确 \""
+      "offset": 1165,
+      "length": 36,
+      "value": "\"✅ \""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "StringLiteral",
-      "offset": 1240,
+      "offset": 1176,
       "length": 16,
-      "value": "\" setupInterpreter\""
+      "value": "\" setupInterpreter 成功\""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "StringLiteral",
-      "offset": 1278,
-      "length": 19,
-      "value": "\"===> %@ Error: %@\""
+      "offset": 1221,
+      "length": 18,
+      "value": "\"===> %@ load: %@\""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "StringLiteral",
-      "offset": 1299,
+      "offset": 1241,
       "length": 5,
       "value": "\"UTS\""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "StringLiteral",
-      "offset": 1306,
+      "offset": 1248,
       "length": 21,
       "value": "\"setupInterpreter ok\""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "StringLiteral",
-      "offset": 1366,
+      "offset": 1318,
+      "length": 10,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
+      "kind": "StringLiteral",
+      "offset": 1327,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
+      "kind": "StringLiteral",
+      "offset": 1347,
       "length": 45,
       "value": "\"❌ \""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "StringLiteral",
-      "offset": 1377,
+      "offset": 1358,
       "length": 16,
       "value": "\" setupInterpreter error: \""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "StringLiteral",
-      "offset": 1410,
+      "offset": 1391,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "StringLiteral",
-      "offset": 1431,
+      "offset": 1412,
       "length": 19,
       "value": "\"===> %@ Error: %@\""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "StringLiteral",
-      "offset": 1452,
+      "offset": 1433,
       "length": 5,
       "value": "\"UTS\""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "StringLiteral",
-      "offset": 1459,
-      "length": 24,
-      "value": "\"setupInterpreter error\""
+      "offset": 1440,
+      "length": 34,
+      "value": "\"setupInterpreter error: \""
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
+      "kind": "StringLiteral",
+      "offset": 1473,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1676,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
+      "kind": "StringLiteral",
+      "offset": 1697,
+      "length": 62,
+      "value": "\"⚠️ \""
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
+      "kind": "StringLiteral",
+      "offset": 1711,
+      "length": 11,
+      "value": "\" interpreter 为 nil，尝试重新初始化...\""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "FloatLiteral",
-      "offset": 1712,
+      "offset": 1969,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "StringLiteral",
-      "offset": 2178,
+      "offset": 2592,
+      "length": 15,
+      "value": "\"unknown error\""
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
+      "kind": "StringLiteral",
+      "offset": 2626,
+      "length": 48,
+      "value": "\"❌ \""
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
+      "kind": "StringLiteral",
+      "offset": 2637,
+      "length": 11,
+      "value": "\" interpreter nil due to: \""
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
+      "kind": "StringLiteral",
+      "offset": 2673,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "StringLiteral",
-      "offset": 2405,
+      "offset": 2694,
+      "length": 53,
+      "value": "\"===> UTS Error: interpreter nil due to: \""
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
+      "kind": "StringLiteral",
+      "offset": 2746,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
+      "kind": "StringLiteral",
+      "offset": 2768,
+      "length": 30,
+      "value": "\"interpreter nil: \""
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
+      "kind": "StringLiteral",
+      "offset": 2797,
+      "length": 50,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
+      "kind": "StringLiteral",
+      "offset": 2942,
+      "length": 17,
+      "value": "\"interpreter nil\""
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
+      "kind": "StringLiteral",
+      "offset": 3060,
       "length": 15,
-      "value": "\"embedding nil\""
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
-      "kind": "StringLiteral",
-      "offset": 2750,
-      "length": 28,
-      "value": "\"❌ \""
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
-      "kind": "StringLiteral",
-      "offset": 2761,
-      "length": 11,
-      "value": "\" interpreter nil\""
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
-      "kind": "StringLiteral",
-      "offset": 2798,
-      "length": 19,
-      "value": "\"===> %@ Error: %@\""
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
-      "kind": "StringLiteral",
-      "offset": 2819,
-      "length": 5,
-      "value": "\"UTS\""
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
-      "kind": "StringLiteral",
-      "offset": 2826,
-      "length": 18,
-      "value": "\"interpreter nil \""
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
-      "kind": "StringLiteral",
-      "offset": 2866,
-      "length": 18,
-      "value": "\"interpreter nil \""
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
-      "kind": "StringLiteral",
-      "offset": 3046,
-      "length": 26,
-      "value": "\"❌ \""
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
-      "kind": "StringLiteral",
-      "offset": 3057,
-      "length": 9,
-      "value": "\" inputData nil\""
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
-      "kind": "StringLiteral",
-      "offset": 3092,
-      "length": 19,
-      "value": "\"===> %@ Error: %@\""
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
-      "kind": "StringLiteral",
-      "offset": 3113,
-      "length": 5,
-      "value": "\"UTS\""
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
-      "kind": "StringLiteral",
-      "offset": 3120,
-      "length": 16,
-      "value": "\"inputData nil \""
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
-      "kind": "StringLiteral",
-      "offset": 3158,
-      "length": 16,
-      "value": "\"inputData nil \""
+      "value": "\"inputData nil\""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "IntegerLiteral",
-      "offset": 3293,
+      "offset": 3163,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "IntegerLiteral",
-      "offset": 3479,
+      "offset": 3261,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "Array",
-      "offset": 3712,
+      "offset": 3435,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "StringLiteral",
-      "offset": 4037,
-      "length": 19,
-      "value": "\"===> %@ Error: %@\""
+      "offset": 3833,
+      "length": 42,
+      "value": "\"===> UTS Error: Inference error \""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "StringLiteral",
-      "offset": 4058,
-      "length": 5,
-      "value": "\"UTS\""
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
-      "kind": "StringLiteral",
-      "offset": 4065,
-      "length": 27,
-      "value": "\"Inference error \""
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
-      "kind": "StringLiteral",
-      "offset": 4090,
-      "length": 2,
-      "value": "\" \""
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
-      "kind": "StringLiteral",
-      "offset": 4113,
-      "length": 38,
-      "value": "\"❌ \""
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
-      "kind": "StringLiteral",
-      "offset": 4124,
-      "length": 9,
-      "value": "\" Inference error: \""
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
-      "kind": "StringLiteral",
-      "offset": 4150,
+      "offset": 3874,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "StringLiteral",
-      "offset": 4172,
+      "offset": 3895,
+      "length": 38,
+      "value": "\"❌ \""
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
+      "kind": "StringLiteral",
+      "offset": 3906,
+      "length": 9,
+      "value": "\" Inference error: \""
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
+      "kind": "StringLiteral",
+      "offset": 3932,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
+      "kind": "StringLiteral",
+      "offset": 3954,
       "length": 17,
       "value": "\"Inference error\""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
-      "kind": "StringLiteral",
-      "offset": 4495,
-      "length": 28,
-      "value": "\"❌ \""
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
-      "kind": "StringLiteral",
-      "offset": 4506,
-      "length": 11,
-      "value": "\" interpreter nil\""
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
-      "kind": "StringLiteral",
-      "offset": 4543,
-      "length": 19,
-      "value": "\"===> %@ Error: %@\""
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
-      "kind": "StringLiteral",
-      "offset": 4564,
-      "length": 5,
-      "value": "\"UTS\""
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
-      "kind": "StringLiteral",
-      "offset": 4571,
-      "length": 18,
-      "value": "\"interpreter nil \""
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
-      "kind": "StringLiteral",
-      "offset": 4776,
-      "length": 26,
-      "value": "\"❌ \""
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
-      "kind": "StringLiteral",
-      "offset": 4787,
-      "length": 9,
-      "value": "\" inputData nil\""
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
-      "kind": "StringLiteral",
-      "offset": 4822,
-      "length": 19,
-      "value": "\"===> %@ Error: %@\""
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
-      "kind": "StringLiteral",
-      "offset": 4843,
-      "length": 5,
-      "value": "\"UTS\""
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
-      "kind": "StringLiteral",
-      "offset": 4850,
-      "length": 16,
-      "value": "\"inputData nil \""
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "IntegerLiteral",
-      "offset": 5010,
+      "offset": 4309,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "IntegerLiteral",
-      "offset": 5196,
+      "offset": 4407,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "Array",
-      "offset": 5429,
+      "offset": 4581,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "StringLiteral",
-      "offset": 5710,
-      "length": 19,
-      "value": "\"===> %@ Error: %@\""
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
-      "kind": "StringLiteral",
-      "offset": 5731,
-      "length": 5,
-      "value": "\"UTS\""
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
-      "kind": "StringLiteral",
-      "offset": 5738,
-      "length": 27,
-      "value": "\"Inference error \""
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
-      "kind": "StringLiteral",
-      "offset": 5763,
-      "length": 2,
-      "value": "\" \""
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
-      "kind": "StringLiteral",
-      "offset": 5786,
+      "offset": 4862,
       "length": 38,
       "value": "\"❌ \""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "StringLiteral",
-      "offset": 5797,
+      "offset": 4873,
       "length": 9,
       "value": "\" Inference error: \""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "StringLiteral",
-      "offset": 5823,
+      "offset": 4899,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "IntegerLiteral",
-      "offset": 6384,
+      "offset": 5339,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "IntegerLiteral",
-      "offset": 6408,
+      "offset": 5363,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "IntegerLiteral",
-      "offset": 6688,
+      "offset": 5636,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "IntegerLiteral",
-      "offset": 6712,
+      "offset": 5660,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "IntegerLiteral",
-      "offset": 6889,
+      "offset": 5837,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "IntegerLiteral",
-      "offset": 6895,
+      "offset": 5843,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "IntegerLiteral",
-      "offset": 7082,
+      "offset": 5930,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "IntegerLiteral",
-      "offset": 7106,
+      "offset": 5954,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "IntegerLiteral",
-      "offset": 7159,
+      "offset": 5998,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "IntegerLiteral",
-      "offset": 7223,
+      "offset": 6062,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "IntegerLiteral",
-      "offset": 7287,
+      "offset": 6126,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "IntegerLiteral",
-      "offset": 7381,
+      "offset": 6175,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "IntegerLiteral",
-      "offset": 7444,
+      "offset": 6238,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "IntegerLiteral",
-      "offset": 7493,
+      "offset": 6287,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "IntegerLiteral",
-      "offset": 7497,
+      "offset": 6291,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "IntegerLiteral",
-      "offset": 7546,
+      "offset": 6340,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "IntegerLiteral",
-      "offset": 7550,
+      "offset": 6344,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "FloatLiteral",
-      "offset": 7639,
-      "length": 5,
-      "value": "127.5"
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
-      "kind": "FloatLiteral",
-      "offset": 7674,
+      "offset": 6396,
       "length": 5,
       "value": "128.0"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
-      "kind": "IntegerLiteral",
-      "offset": 7798,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
-      "kind": "IntegerLiteral",
-      "offset": 7815,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "FloatLiteral",
-      "offset": 7988,
+      "offset": 6499,
       "length": 6,
       "value": "-127.5"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "IntegerLiteral",
-      "offset": 8026,
+      "offset": 6537,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "IntegerLiteral",
-      "offset": 8053,
+      "offset": 6564,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "IntegerLiteral",
-      "offset": 8113,
+      "offset": 6624,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "IntegerLiteral",
-      "offset": 8135,
+      "offset": 6646,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "IntegerLiteral",
-      "offset": 8377,
+      "offset": 6804,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "IntegerLiteral",
-      "offset": 8422,
+      "offset": 6849,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "IntegerLiteral",
-      "offset": 8465,
+      "offset": 6892,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "IntegerLiteral",
-      "offset": 8469,
+      "offset": 6896,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "IntegerLiteral",
-      "offset": 8512,
+      "offset": 6939,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "IntegerLiteral",
-      "offset": 8516,
+      "offset": 6943,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "FloatLiteral",
-      "offset": 8921,
+      "offset": 7235,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/TFLiteModel\/FaceAISDKEngine.swift",
       "kind": "BooleanLiteral",
-      "offset": 8949,
+      "offset": 7263,
       "length": 4,
       "value": "true"
     },
