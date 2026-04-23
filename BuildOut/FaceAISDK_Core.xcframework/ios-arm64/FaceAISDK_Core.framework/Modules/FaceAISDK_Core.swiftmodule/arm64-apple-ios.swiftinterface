@@ -65,14 +65,6 @@ public class TFLiteDecrypter {
   public typealias ObjectWillChangePublisher = Combine.ObservableObjectPublisher
   @objc deinit
 }
-public struct FaceAICameraView : SwiftUI.UIViewControllerRepresentable {
-  public init(session: AVFoundation.AVCaptureSession, cameraSize: CoreFoundation.CGFloat)
-  @_Concurrency.MainActor(unsafe) public func makeUIViewController(context: FaceAISDK_Core.FaceAICameraView.Context) -> UIKit.UIViewController
-  @_Concurrency.MainActor(unsafe) public func updateUIViewController(_ uiViewController: UIKit.UIViewController, context: FaceAISDK_Core.FaceAICameraView.Context)
-  public typealias Body = Swift.Never
-  public typealias Coordinator = Swift.Void
-  public typealias UIViewControllerType = UIKit.UIViewController
-}
 public struct FaceTipsCode {
   public static let POOR_FACE_QUALITY: Swift.Int
   public static let FACE_CROP_FAILED: Swift.Int
