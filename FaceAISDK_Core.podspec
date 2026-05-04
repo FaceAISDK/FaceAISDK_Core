@@ -20,7 +20,7 @@ Pod::Spec.new do |s|
 
   # --- 依赖配置 ---
   s.dependency 'GoogleMLKit/FaceDetection', '9.0.0'
-  s.dependency 'TensorFlowLiteSwift', '~> 2.17'
+  s.dependency 'TensorFlowLiteSwift', '~> 2.21.0'
 
   # --- 框架二进制配置 (核心修复：合并数组) ---
   s.ios.vendored_frameworks = [
