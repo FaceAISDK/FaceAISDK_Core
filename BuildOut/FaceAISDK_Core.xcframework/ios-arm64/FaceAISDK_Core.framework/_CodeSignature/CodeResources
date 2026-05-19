@@ -98,7 +98,7 @@
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		bhdH2+UhUopVzZFUFf8ffwOl4B4=
+		ATTIU4RaG06zVsm64UCNJRDm7j8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -401,11 +401,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			bhdH2+UhUopVzZFUFf8ffwOl4B4=
+			ATTIU4RaG06zVsm64UCNJRDm7j8=
 			</data>
 			<key>hash2</key>
 			<data>
-			LZzBqbAo40gIIH+fJSnvdJsBcevfUByiW/BkNY8HVl0=
+			X/WCgWHu8++Oc91/c4QefWQWZYyLSo7hvXQo8kr7Sus=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
