@@ -8350,16 +8350,6 @@
         "moduleName": "FaceAISDK_Core"
       },
       {
-        "kind": "Import",
-        "name": "GTMSessionFetcher",
-        "printedName": "GTMSessionFetcher",
-        "declKind": "Import",
-        "moduleName": "FaceAISDK_Core",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
         "kind": "TypeDecl",
         "name": "FaceAISDK",
         "printedName": "FaceAISDK",

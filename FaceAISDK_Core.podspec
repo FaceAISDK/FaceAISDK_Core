@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "FaceAISDK_Core"
-  s.version      = "2026.05.20.swift632"
+  s.version      = "2026.05.21.xcode265"
   s.platform     = :ios, '15.5'
   s.summary      = "FaceAISDK人脸识别和活体检验，可离线无需网络端侧实现"
   s.homepage     = "https://github.com/FaceAISDK/FaceAISDK_Core"
@@ -21,6 +21,8 @@ Pod::Spec.new do |s|
   # --- 依赖配置 ---
   s.dependency 'GoogleMLKit/FaceDetection', '9.0.0'
   s.dependency 'TensorFlowLiteSwift', '2.17.0'
+  s.dependency 'GTMSessionFetcher'
+
   
   # --- 框架二进制配置 (核心修复：合并数组) ---
   s.ios.vendored_frameworks = [
