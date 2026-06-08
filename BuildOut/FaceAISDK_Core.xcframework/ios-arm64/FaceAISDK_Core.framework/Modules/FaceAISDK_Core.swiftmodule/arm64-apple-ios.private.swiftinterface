@@ -180,7 +180,7 @@ public struct FaceVerifyResult : Swift.Equatable {
   public var faceImage: UIKit.UIImage?
   public static func == (a: FaceAISDK_Core.FaceVerifyResult, b: FaceAISDK_Core.FaceVerifyResult) -> Swift.Bool
 }
-@_hasMissingDesignatedInitializers public class FaceImageManger {
+@_hasMissingDesignatedInitializers public class FaceImageManager {
   public static func faceImageToBase64(fileName: Swift.String, compressionQuality: CoreFoundation.CGFloat = 1.0) -> Swift.String?
   public static func saveBase64ImageToLocal(base64String: Swift.String, fileName: Swift.String = "image") -> Swift.String?
   public static func saveFaceImage(faceName: Swift.String, faceImage: UIKit.UIImage?) -> Swift.Bool
@@ -209,6 +209,18 @@ public struct FaceVerifyResult : Swift.Equatable {
     _modify
   }
   public var $croppedFaceImage: Combine.Published<UIKit.UIImage>.Publisher {
+    get
+    @available(iOS 14.0, tvOS 14.0, watchOS 7.0, macOS 11.0, *)
+    set
+  }
+  @Combine.Published @_projectedValueProperty($originFaceImage) public var originFaceImage: UIKit.UIImage {
+    get
+    @available(iOS 13.0, tvOS 13.0, watchOS 6.0, macOS 10.15, *)
+    set
+    @available(iOS 13.0, tvOS 13.0, watchOS 6.0, macOS 10.15, *)
+    _modify
+  }
+  public var $originFaceImage: Combine.Published<UIKit.UIImage>.Publisher {
     get
     @available(iOS 14.0, tvOS 14.0, watchOS 7.0, macOS 11.0, *)
     set
