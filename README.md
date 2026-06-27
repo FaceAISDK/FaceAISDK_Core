@@ -32,7 +32,6 @@ FaceAISDK_iOS SDK是设备端可完全离线不需联网实现人脸录入、活
   
   Email: FaceAISDK.Service@gmail.com   
   
-  ![FaceAISDK](/Doc/FaceAISDK.jpeg)  
   
 ## Android体验Demo APK下载如下  
   
