@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "FaceAISDK_Core"
-  s.version      = "2026.04.27"
+  s.version      = "2026.06.25"
   s.platform     = :ios, '15.5'
   s.summary      = "FaceAISDK人脸识别和活体检验，可离线无需网络端侧实现"
   s.homepage     = "https://github.com/FaceAISDK/FaceAISDK_Core"
@@ -41,7 +41,7 @@ Pod::Spec.new do |s|
     'BUILD_LIBRARY_FOR_DISTRIBUTION' => 'YES',
     'OTHER_SWIFT_FLAGS' => '-Xfrontend -enable-library-evolution',
     'SKIP_INSTALL' => 'NO',
-    'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
+    # 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
   }
 
   s.user_target_xcconfig = {
@@ -50,7 +50,7 @@ Pod::Spec.new do |s|
     # 将框架搜索路径暴露给宿主工程
     'FRAMEWORK_SEARCH_PATHS' => '$(inherited) "${PODS_TARGET_SRCROOT}/Silent/framework"',
     'BUILD_LIBRARY_FOR_DISTRIBUTION' => 'YES',
-    'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
+    # 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
   }
 
 end
