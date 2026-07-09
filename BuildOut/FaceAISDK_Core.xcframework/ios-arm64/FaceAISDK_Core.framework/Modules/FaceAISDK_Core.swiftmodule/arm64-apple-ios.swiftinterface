@@ -190,14 +190,26 @@ public struct FaceVerifyResult : Swift.Equatable {
   @objc deinit
 }
 @objc @_inheritsConvenienceInitializers public class AddFaceByCameraModel : ObjectiveC.NSObject, Foundation.ObservableObject, AVFoundation.AVCaptureVideoDataOutputSampleBufferDelegate {
-  @Combine.Published @_projectedValueProperty($alignedFaceImage) public var alignedFaceImage: UIKit.UIImage {
+  @Combine.Published @_projectedValueProperty($faceFeatureBySDKCamera) public var faceFeatureBySDKCamera: Swift.String {
     get
     @available(iOS 13.0, tvOS 13.0, watchOS 6.0, macOS 10.15, *)
     set
     @available(iOS 13.0, tvOS 13.0, watchOS 6.0, macOS 10.15, *)
     _modify
   }
-  public var $alignedFaceImage: Combine.Published<UIKit.UIImage>.Publisher {
+  public var $faceFeatureBySDKCamera: Combine.Published<Swift.String>.Publisher {
+    get
+    @available(iOS 14.0, tvOS 14.0, watchOS 7.0, macOS 11.0, *)
+    set
+  }
+  @Combine.Published @_projectedValueProperty($croppedFaceImage) public var croppedFaceImage: UIKit.UIImage {
+    get
+    @available(iOS 13.0, tvOS 13.0, watchOS 6.0, macOS 10.15, *)
+    set
+    @available(iOS 13.0, tvOS 13.0, watchOS 6.0, macOS 10.15, *)
+    _modify
+  }
+  public var $croppedFaceImage: Combine.Published<UIKit.UIImage>.Publisher {
     get
     @available(iOS 14.0, tvOS 14.0, watchOS 7.0, macOS 11.0, *)
     set
@@ -243,7 +255,6 @@ public struct FaceVerifyResult : Swift.Equatable {
   public func initAddFace()
   @objc public func captureOutput(_ output: AVFoundation.AVCaptureOutput, didOutput sampleBuffer: CoreMedia.CMSampleBuffer, from connection: AVFoundation.AVCaptureConnection)
   public func reInit()
-  public func getFaceFeature(alignedFaceImage: UIKit.UIImage) -> Swift.String
   @objc override dynamic public init()
   public typealias ObjectWillChangePublisher = Combine.ObservableObjectPublisher
   @objc deinit
