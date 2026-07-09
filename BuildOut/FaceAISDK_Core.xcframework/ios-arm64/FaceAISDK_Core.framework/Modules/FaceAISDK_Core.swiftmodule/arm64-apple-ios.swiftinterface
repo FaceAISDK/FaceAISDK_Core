@@ -103,7 +103,7 @@ public struct FaceTipsCode {
   public static let VERIFY_SUCCESS: Swift.Int
   public static let VERIFY_FAILED: Swift.Int
 }
-@objc @_inheritsConvenienceInitializers open class VerifyFaceModel : ObjectiveC.NSObject, Foundation.ObservableObject, AVFoundation.AVCaptureVideoDataOutputSampleBufferDelegate {
+@objc @_inheritsConvenienceInitializers public class VerifyFaceModel : ObjectiveC.NSObject, Foundation.ObservableObject, AVFoundation.AVCaptureVideoDataOutputSampleBufferDelegate {
   @Combine.Published @_projectedValueProperty($brightnessValue) public var brightnessValue: Swift.Double {
     get
     @available(iOS 13.0, tvOS 13.0, watchOS 6.0, macOS 10.15, *)
@@ -253,8 +253,8 @@ public struct FaceVerifyResult : Swift.Equatable {
   final public let captureSession: AVFoundation.AVCaptureSession
   public func stopAddFace()
   public func initAddFace()
-  @objc public func captureOutput(_ output: AVFoundation.AVCaptureOutput, didOutput sampleBuffer: CoreMedia.CMSampleBuffer, from connection: AVFoundation.AVCaptureConnection)
   public func reInit()
+  @objc public func captureOutput(_ output: AVFoundation.AVCaptureOutput, didOutput sampleBuffer: CoreMedia.CMSampleBuffer, from connection: AVFoundation.AVCaptureConnection)
   @objc override dynamic public init()
   public typealias ObjectWillChangePublisher = Combine.ObservableObjectPublisher
   @objc deinit

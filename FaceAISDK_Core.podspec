@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "FaceAISDK_Core"
-  s.version      = "2026.07.042"
+  s.version      = "2026.07.043"
   s.platform     = :ios, '15.5'
   s.summary      = "FaceAISDK人脸识别和活体检验，可离线无需网络端侧实现"
   s.homepage     = "https://github.com/FaceAISDK/FaceAISDK_Core"
@@ -13,7 +13,6 @@ Pod::Spec.new do |s|
   # git push origin version
   # 上传发布（调试不需要）  pod trunk push FaceAISDK_Core.podspec --skip-import-validation
   # 更新 pod install --repo-update
-  
 
   s.swift_versions = ['5.9', '6.0', '6.1', '6.2', '6.3']
   s.static_framework = true #通常建议作为静态框架
