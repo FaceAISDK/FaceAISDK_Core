@@ -1,8 +1,8 @@
 Pod::Spec.new do |s|
   s.name         = "FaceAISDK_Core"
-  s.version      = "2026.07.09"
+  s.version      = "2026.07.14"
   s.platform     = :ios, '15.5'
-  s.summary      = "FaceAISDK人脸识别和活体检验，可离线无需网络端侧实现"
+  s.summary      = "on_device Face Recognition 、 Liveness detection"
   s.homepage     = "https://github.com/FaceAISDK/FaceAISDK_Core"
   s.license      = { :type => "FaceAISDK License", :file => "LICENSE" }
   s.author       = { "FaceAISDK_Core" => "FaceAISDK.Service@gmail.com" }
