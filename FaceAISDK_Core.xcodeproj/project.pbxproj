@@ -13,7 +13,6 @@
 		7C73FDFF2DE9943A005437F4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7C73FDFE2DE9943A005437F4 /* Preview Assets.xcassets */; };
 		7C73FE082DE995A4005437F4 /* FaceAISDK_Core.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 7C73FE052DE995A4005437F4 /* FaceAISDK_Core.podspec */; };
 		7C73FE092DE995A4005437F4 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 7C73FE072DE995A4005437F4 /* LICENSE */; };
-		7C7E7CF42F6B96CD00A9BCD9 /* openmp.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7C7E7CDA2F6B96CD00A9BCD9 /* openmp.framework */; };
 		7C7E7CF52F6B96CD00A9BCD9 /* ncnn.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7C7E7CDB2F6B96CD00A9BCD9 /* ncnn.framework */; };
 		CF3FB9122E2E492900B616F0 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = CF3FB9112E2E492900B616F0 /* README.md */; };
 		CF6769A22EC79BEF00557A99 /* subModel.bundle in Resources */ = {isa = PBXBuildFile; fileRef = CF6769A02EC79BEF00557A99 /* subModel.bundle */; };
@@ -27,7 +26,6 @@
 		7C73FDFE2DE9943A005437F4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		7C73FE052DE995A4005437F4 /* FaceAISDK_Core.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = FaceAISDK_Core.podspec; sourceTree = "<group>"; };
 		7C73FE072DE995A4005437F4 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
-		7C7E7CDA2F6B96CD00A9BCD9 /* openmp.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = openmp.framework; sourceTree = "<group>"; };
 		7C7E7CDB2F6B96CD00A9BCD9 /* ncnn.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = ncnn.framework; sourceTree = "<group>"; };
 		CF3FB9112E2E492900B616F0 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		CF6769A02EC79BEF00557A99 /* subModel.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = subModel.bundle; sourceTree = "<group>"; };
@@ -40,7 +38,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				7C7E7CF52F6B96CD00A9BCD9 /* ncnn.framework in Frameworks */,
-				7C7E7CF42F6B96CD00A9BCD9 /* openmp.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -107,7 +104,6 @@
 		7C7E7CD92F6B96CD00A9BCD9 /* framework */ = {
 			isa = PBXGroup;
 			children = (
-				7C7E7CDA2F6B96CD00A9BCD9 /* openmp.framework */,
 				7C7E7CDB2F6B96CD00A9BCD9 /* ncnn.framework */,
 			);
 			path = framework;

@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "FaceAISDK_Core"
-  s.version      = "2026.07.15"
+  s.version      = "2026.07.15.beta"
   s.platform     = :ios, '15.5'
   s.summary      = "on_device Face Recognition 、 Liveness detection"
   s.homepage     = "https://github.com/FaceAISDK/FaceAISDK_Core"
@@ -25,8 +25,7 @@ Pod::Spec.new do |s|
   # --- 框架二进制配置 (核心修复：合并数组) ---
   s.ios.vendored_frameworks = [
     'BuildOut/*.xcframework',
-    'Silent/framework/ncnn.framework',  # 去掉多余的 FaceAISDK_Core前缀
-    'Silent/framework/openmp.framework'
+    'Silent/framework/ncnn.framework'
   ]
 
   # --- 资源文件 ---
@@ -46,7 +45,7 @@ Pod::Spec.new do |s|
 
   s.user_target_xcconfig = {
     # 强制宿主工程链接 ncnn 和 openmp
-    'OTHER_LDFLAGS' => '$(inherited) -lc++ -framework "ncnn" -framework "openmp"',
+    'OTHER_LDFLAGS' => '$(inherited) -lc++ -framework "ncnn" ',
     # 将框架搜索路径暴露给宿主工程
     'FRAMEWORK_SEARCH_PATHS' => '$(inherited) "${PODS_TARGET_SRCROOT}/Silent/framework"',
     'BUILD_LIBRARY_FOR_DISTRIBUTION' => 'YES',
