@@ -1,5 +1,0 @@
-framework module ncnn {
-    umbrella header "ncnn_export.h" 
-    export *
-    module * { export * }
-}

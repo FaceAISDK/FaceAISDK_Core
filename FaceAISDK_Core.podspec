@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "FaceAISDK_Core"
-  s.version      = "2026.07.15.beta2"
+  s.version      = "2026.07.16.beta"
   s.platform     = :ios, '15.5'
   s.summary      = "on_device Face Recognition 、 Liveness detection"
   s.homepage     = "https://github.com/FaceAISDK/FaceAISDK_Core"
@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
   # --- 框架二进制配置 (核心修复：合并数组) ---
   s.ios.vendored_frameworks = [
     'BuildOut/*.xcframework',
-    'Silent/framework/ncnn.framework'
+    'Silent/framework/ncnn.xcframework'
   ]
 
   # --- 资源文件 ---
@@ -36,7 +36,6 @@ Pod::Spec.new do |s|
   
   s.pod_target_xcconfig = {
     'OTHER_LDFLAGS' => '-lc++ -ObjC', # 确保链接器能找到 C++ 符号
-    'FRAMEWORK_SEARCH_PATHS' => '$(inherited) "${PODS_TARGET_SRCROOT}/Silent/framework"',
     'BUILD_LIBRARY_FOR_DISTRIBUTION' => 'YES',
     'OTHER_SWIFT_FLAGS' => '-Xfrontend -enable-library-evolution',
     'SKIP_INSTALL' => 'NO',
@@ -44,12 +43,7 @@ Pod::Spec.new do |s|
   }
 
   s.user_target_xcconfig = {
-    # 强制宿主工程链接 ncnn 和 openmp
-    'OTHER_LDFLAGS' => '$(inherited) -lc++ -framework "ncnn" ',
-    # 将框架搜索路径暴露给宿主工程
-    'FRAMEWORK_SEARCH_PATHS' => '$(inherited) "${PODS_TARGET_SRCROOT}/Silent/framework"',
-    'BUILD_LIBRARY_FOR_DISTRIBUTION' => 'YES',
-    # 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
+    'BUILD_LIBRARY_FOR_DISTRIBUTION' => 'YES'
   }
 
 end
