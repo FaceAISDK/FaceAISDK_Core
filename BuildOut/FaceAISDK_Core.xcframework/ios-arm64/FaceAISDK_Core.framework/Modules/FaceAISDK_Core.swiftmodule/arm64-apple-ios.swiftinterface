@@ -14,12 +14,12 @@ import Foundation
 import MLImage
 import MLKitFaceDetection
 import MLKitVision
+import QuartzCore
 import Swift
 import SwiftUI
 import TensorFlowLite
 import UIKit
 import Vision
-import VisionKit
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
