@@ -22,7 +22,7 @@
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/Info.plist</key>
 		<data>
-		lOJjYY3EkPToQIF5ZzcKbPNLFcU=
+		hM5UUAqkmo934KayE4BEYkrSfrs=
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/LMprec_600.emd</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Headers/FaceAISDK_Core-Swift.h</key>
 		<data>
-		YY/NVjTST6dc8qrHiiWaNYD2lqs=
+		duo0PkEeekkO0z/3yjQRO4cpgPc=
 		</data>
 		<key>Headers/FaceAISDK_Core.h</key>
 		<data>
@@ -70,7 +70,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		X6EmP5ayDBFZxKonV7MB/6pBnjg=
+		oH6oy1twU7ZtTB1M4fqLINa8ZGI=
 		</data>
 		<key>LICENSE</key>
 		<data>
@@ -78,27 +78,27 @@
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		vELtU4dGKdOgfST0SXAp+OK+9NE=
+		VJnzCRAnq3CwWt7Opug0TyX+o34=
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		1ZaTe/Fjyc9eiTZbJRUEfTjY+zk=
+		hwgXefOwXFAHhHPEJJHwzBEKv3k=
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		LdN+j4Mzr9DHFzbPeTJtf77Ju3s=
+		ItPOgcvxAqYTyw4XRaxhCWLyqBk=
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		1ZaTe/Fjyc9eiTZbJRUEfTjY+zk=
+		hwgXefOwXFAHhHPEJJHwzBEKv3k=
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		Zi1vMteoiKnTgCon13Ol/S7oPS0=
+		WjUnSXn/X/cKs4ZGGcczl4ki/Xo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		U6ArW605Jvb8csyvYaouFAlL2jE=
+		ptJLFPU53gr1Kf3ObOiMFJCbpyE=
 		</data>
 		<key>README.md</key>
 		<data>
@@ -106,7 +106,7 @@
 		</data>
 		<key>TensorFlowLite.bundle/Info.plist</key>
 		<data>
-		217+mQ0Go8bsHbUbGMFa62BIbmI=
+		jM/ID7NJxm+yJtZlRwBx2CRfKFA=
 		</data>
 		<key>TensorFlowLite.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -114,7 +114,7 @@
 		</data>
 		<key>TensorFlowLiteC.bundle/Info.plist</key>
 		<data>
-		Kg28O4rrxTxMNN2i+oa1ZtlJhiI=
+		YsKpnXxhxa6sCI8a8BX1wi43+tE=
 		</data>
 		<key>TensorFlowLiteC.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -149,10 +149,6 @@
 	<dict>
 		<key>FaceAISDK_Core.podspec</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			cY1XW4zbsOrJ7cGgIkTJQWAPxS4=
-			</data>
 			<key>hash2</key>
 			<data>
 			co9kFHzj3yDDRjOFHYKYriHGi3pA4ftZ183auj/fBXQ=
@@ -160,10 +156,6 @@
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/BCLjoy_200.emd</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			96Uw5p4tLIiDbN11Du0p0c5xqE8=
-			</data>
 			<key>hash2</key>
 			<data>
 			8A8lZEpijnOMFV9JPQcq8UPyU8v5nwi/SCnL5dT0NRw=
@@ -171,10 +163,6 @@
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/BCLlefteyeclosed_200.emd</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			KBTvwnLXsoe2PIlGUwZzMUOp5k8=
-			</data>
 			<key>hash2</key>
 			<data>
 			0xIT5PJf+LIXgeeG/YnO3lkX75s/vlC99V1IOvE27e0=
@@ -182,10 +170,6 @@
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/BCLrighteyeclosed_200.emd</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			fW6O7h6Je5DNmNrbOeCGmAixyLI=
-			</data>
 			<key>hash2</key>
 			<data>
 			Y8oL2DjlGXdImtrbgKC+AWxaoLe2kPvDiaBkWqzP5P8=
@@ -193,21 +177,13 @@
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			lOJjYY3EkPToQIF5ZzcKbPNLFcU=
-			</data>
 			<key>hash2</key>
 			<data>
-			2oqpI6FZWLLBYCsKLdIujkGl6Sgkq+/dpAbLpux/eYU=
+			WbrK5mXDKrX5QMVcrkXknEaQ0aJQOCcqFyYEYptYQUo=
 			</data>
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/LMprec_600.emd</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			trY9XrpS4DxHzs3eHljZHIJNHrI=
-			</data>
 			<key>hash2</key>
 			<data>
 			DtXIUoL5QNFKVyOmwK8F+cKr1Okww8TwvloHI203QRE=
@@ -215,10 +191,6 @@
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/MFT_fssd_accgray.pb</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			tq7fRawRQ359i/c0FEVvpQ6Oee0=
-			</data>
 			<key>hash2</key>
 			<data>
 			8K2wTXshtNmImTKmLw7/En7tsn0vhTQqkBRBU8oLgbE=
@@ -226,10 +198,6 @@
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/MFT_fssd_fastgray.pb</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			DP+qJf0czliL6znGLVx90ASNzCY=
-			</data>
 			<key>hash2</key>
 			<data>
 			CUNCXfGzUODFinvmaL4flC6sM4wZjhpPFoWco+Eif0U=
@@ -237,10 +205,6 @@
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/blazeface.tfl</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			oseYQ/EQxo7JsNpdNgo4YVLh7a4=
-			</data>
 			<key>hash2</key>
 			<data>
 			TyXMFC6WtfIbMjbSFmwuZikgaB8dI5QtJRDpjIr27Nw=
@@ -248,10 +212,6 @@
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/contours.tfl</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			PaAh9+zFw3Is4fLMn5iQsLG5M34=
-			</data>
 			<key>hash2</key>
 			<data>
 			hBYLwMSnSVF+Yvk8ssaKuP9J3lcfcOttFgJUypoHicA=
@@ -259,10 +219,6 @@
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/fssd_100_8bit_gray_v1.tflite</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			VCp0NyrYJWQnYbGaxVv0Vzy0IeA=
-			</data>
 			<key>hash2</key>
 			<data>
 			ekzwnGrkp1gUTUK/NbmiapWYfjxYQdDcORCVaYKZ2as=
@@ -270,10 +226,6 @@
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/fssd_100_8bit_v1.tflite</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			AHaxev+fV4YGoIDboAUFlxfISmY=
-			</data>
 			<key>hash2</key>
 			<data>
 			OvuTDu3I0dQENEgCgdO16M7EwwTlLTT9/IqVCDQLtxk=
@@ -281,10 +233,6 @@
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/fssd_25_8bit_gray_v1.tflite</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Rd53RFFpKHZNvbiDaE2p4XxjbY0=
-			</data>
 			<key>hash2</key>
 			<data>
 			IVEbvtJxoKkri5ORjg+I9u+70RWjbRVV8GHO4TH2qzw=
@@ -292,10 +240,6 @@
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/fssd_25_8bit_v1.tflite</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			RxtbTN3LjpFChp3tmniX3KD+dsE=
-			</data>
 			<key>hash2</key>
 			<data>
 			2pAlL0mzu5QuX4gBgKFFYfZpKW5/s+3s3quqi2u3gio=
@@ -303,21 +247,13 @@
 		</dict>
 		<key>Headers/FaceAISDK_Core-Swift.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			YY/NVjTST6dc8qrHiiWaNYD2lqs=
-			</data>
 			<key>hash2</key>
 			<data>
-			WzjqK2kEUB7D9e357tkylCHEWN3laxHKAncyJpkSvTk=
+			ew9jknItnBbQiHhJyXhHgldVYCteH0vQiQwizG5O9/0=
 			</data>
 		</dict>
 		<key>Headers/FaceAISDK_Core.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			MfnzJGmlgWx9FtMNLtEqKQ0dpBM=
-			</data>
 			<key>hash2</key>
 			<data>
 			TXSEUtp/IBk7YJpdB0MT+9ndZl09M9mGiNvHryVV5cw=
@@ -325,10 +261,6 @@
 		</dict>
 		<key>LICENSE</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			/DA9rc0ToQl2g0RrIrrssWYSb1g=
-			</data>
 			<key>hash2</key>
 			<data>
 			g+vlOqabG0f7b3j4ObB6l7+E4C9RU99WGQ9B4Pmp0ms=
@@ -336,76 +268,48 @@
 		</dict>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			vELtU4dGKdOgfST0SXAp+OK+9NE=
-			</data>
 			<key>hash2</key>
 			<data>
-			Lz5tgZZTVXX4JE2OCffYUFg1H8+QgIH7QD7DWE3FNiI=
+			20k9H3tZ1Y9W3/vY0KMNUflq2S6tX+BcQftDUjAGQ4M=
 			</data>
 		</dict>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			1ZaTe/Fjyc9eiTZbJRUEfTjY+zk=
-			</data>
 			<key>hash2</key>
 			<data>
-			siDCdbUKAUi1JWqyXtG+j/QHTx96tzZ4k8gdHB4DAKM=
+			tWLe3hCGLQAYL8ZVniWU/ggG70hWHfydNJ+wyeEtYgo=
 			</data>
 		</dict>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			LdN+j4Mzr9DHFzbPeTJtf77Ju3s=
-			</data>
 			<key>hash2</key>
 			<data>
-			LFYqeMyauJ1Ce8pp5zrH5myvmdGDA/utZHiEe0DeYqI=
+			85MAabzijQM9u5lce6Lpw68zoy0bO9VEAXh+i7UkZYo=
 			</data>
 		</dict>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			1ZaTe/Fjyc9eiTZbJRUEfTjY+zk=
-			</data>
 			<key>hash2</key>
 			<data>
-			siDCdbUKAUi1JWqyXtG+j/QHTx96tzZ4k8gdHB4DAKM=
+			tWLe3hCGLQAYL8ZVniWU/ggG70hWHfydNJ+wyeEtYgo=
 			</data>
 		</dict>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Zi1vMteoiKnTgCon13Ol/S7oPS0=
-			</data>
 			<key>hash2</key>
 			<data>
-			n0wQn9pX3jMY+oiWkns0+jVX5Zhgn0Goy1nHIguT7xw=
+			ryP9YvuWazEZqKF0Gv+Hd/UpbrHrSWfq+9nLCNSMjrg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			U6ArW605Jvb8csyvYaouFAlL2jE=
-			</data>
 			<key>hash2</key>
 			<data>
-			AuTDFqgyIew2O83jFaMKzbtvhePe11k/7DzrT1ibnaw=
+			iCLWO/Av6GS7MNt8UBR7cv9ruwBI1ljM/B2dPvYMTgc=
 			</data>
 		</dict>
 		<key>README.md</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			alDf4G+6dyKmI66odLGuiLYcApQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			ENY6gbsnKSSv3B+XzGFZ5eAdwzEwkX8hM4WESTAXtzs=
@@ -413,21 +317,13 @@
 		</dict>
 		<key>TensorFlowLite.bundle/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			217+mQ0Go8bsHbUbGMFa62BIbmI=
-			</data>
 			<key>hash2</key>
 			<data>
-			mr86JFoFZB+6NZyTDA0IJMhJWQUxV0MSNI1bF3MIgxE=
+			WfZ7OC5nVIDzYHuodI/Nh29c2TkOhNc1cS+GV4RnGQQ=
 			</data>
 		</dict>
 		<key>TensorFlowLite.bundle/PrivacyInfo.xcprivacy</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			i3YpomTpJHpRGpdt+oGaesmknBg=
-			</data>
 			<key>hash2</key>
 			<data>
 			jWXQtDoSYs/inoM5bACz25T7Eg1E0RiNknNB8UpsIjw=
@@ -435,21 +331,13 @@
 		</dict>
 		<key>TensorFlowLiteC.bundle/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Kg28O4rrxTxMNN2i+oa1ZtlJhiI=
-			</data>
 			<key>hash2</key>
 			<data>
-			qF/mcva5HOZMrgefQ4jOayNhCjbWelfeeQ+h6hZwTyM=
+			wFyyTmpoKWQJhNiizJpW/txDw4uSe53+8wkz9S13XNc=
 			</data>
 		</dict>
 		<key>TensorFlowLiteC.bundle/PrivacyInfo.xcprivacy</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			PFHYbs0V3eUFDWQyYQcwEetuqEk=
-			</data>
 			<key>hash2</key>
 			<data>
 			A7LHCDOjMaKx79Ef8WjtAqjq39Xn0fvzDuzHUJpK6kc=
@@ -457,10 +345,6 @@
 		</dict>
 		<key>subModel.bundle/FaceAI.model</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			F9XH3SjEUBOOgq1XzRJwKlCiFLk=
-			</data>
 			<key>hash2</key>
 			<data>
 			rvyfIGbfkNiOxteibyjQPLI4yTAQ1i4YSXfYWAlAdts=
@@ -468,10 +352,6 @@
 		</dict>
 		<key>subModel.bundle/config.json</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			aQYpbGn5KkRBbPy0b04gMCOTYT4=
-			</data>
 			<key>hash2</key>
 			<data>
 			QDG9v3Z/8f6vhUlVdMP0CmsCrhuAg7nx5ZhdcP271zo=
@@ -479,10 +359,6 @@
 		</dict>
 		<key>subModel.bundle/liveness_model_1.bin</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			kvouYDjVhvaLkqszTgQeFizgEsA=
-			</data>
 			<key>hash2</key>
 			<data>
 			YLpJZ1wkvDUzzNyZdJk4mVXTyPepJE7O6LzpKe6iNQk=
@@ -490,10 +366,6 @@
 		</dict>
 		<key>subModel.bundle/liveness_model_1.param</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			soCzh4HYe+qLlYCF2SXBB+qBJJM=
-			</data>
 			<key>hash2</key>
 			<data>
 			iNMgImcSa6NzOsS2BoMNEl+gCJRJFzs4szPdFdTO+NI=
@@ -501,10 +373,6 @@
 		</dict>
 		<key>subModel.bundle/liveness_model_2.bin</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			RFSl0g3CiOjUC9+fEXD7pDCvZyw=
-			</data>
 			<key>hash2</key>
 			<data>
 			AzGLkQLhYyHxcb8whgnOBw0cLXFca5ITzd5OB0ikQho=
@@ -512,10 +380,6 @@
 		</dict>
 		<key>subModel.bundle/liveness_model_2.param</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			q6NourlD1JGlg+EAy0ZoBwfMfYU=
-			</data>
 			<key>hash2</key>
 			<data>
 			v7EN7AEDbSUVd55gSwC3MR6aZ9B3eoxDl09elzXNJ7A=
