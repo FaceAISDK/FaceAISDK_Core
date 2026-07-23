@@ -6,7 +6,7 @@
 	<dict>
 		<key>FaceAISDK_Core.podspec</key>
 		<data>
-		cY1XW4zbsOrJ7cGgIkTJQWAPxS4=
+		gZoH2WivkZge2GIwyM321yeUHjc=
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/BCLjoy_200.emd</key>
 		<data>
@@ -78,7 +78,7 @@
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		VJnzCRAnq3CwWt7Opug0TyX+o34=
+		yRXdR7txWcavKIvqL8j5xqQza2A=
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -94,7 +94,7 @@
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		WjUnSXn/X/cKs4ZGGcczl4ki/Xo=
+		UbdGkypWrtRYq/vuVRGAxWb14MU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -106,7 +106,7 @@
 		</data>
 		<key>TensorFlowLite.bundle/Info.plist</key>
 		<data>
-		jM/ID7NJxm+yJtZlRwBx2CRfKFA=
+		kAJ+LCBtTHDSp9GJg8VPkzN0ggU=
 		</data>
 		<key>TensorFlowLite.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -114,11 +114,15 @@
 		</data>
 		<key>TensorFlowLiteC.bundle/Info.plist</key>
 		<data>
-		YsKpnXxhxa6sCI8a8BX1wi43+tE=
+		ZdSeyj3z/Q3Hgr+6ADXwdR+CUKg=
 		</data>
 		<key>TensorFlowLiteC.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
 		PFHYbs0V3eUFDWQyYQcwEetuqEk=
+		</data>
+		<key>package.sh</key>
+		<data>
+		MxsHQkoQuDySOHqx5G7qSVIifco=
 		</data>
 		<key>subModel.bundle/FaceAI.model</key>
 		<data>
@@ -151,7 +155,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			co9kFHzj3yDDRjOFHYKYriHGi3pA4ftZ183auj/fBXQ=
+			yv2g+9lyeCDuj4SsmeRV+pxgtbC2vU0vqhm94j+JJbY=
 			</data>
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/BCLjoy_200.emd</key>
@@ -270,7 +274,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			20k9H3tZ1Y9W3/vY0KMNUflq2S6tX+BcQftDUjAGQ4M=
+			P9m2ZV9KRPvaVtLKGm8VzfL9vzlsX1Ixojb237hsMHI=
 			</data>
 		</dict>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -298,7 +302,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ryP9YvuWazEZqKF0Gv+Hd/UpbrHrSWfq+9nLCNSMjrg=
+			DEAc2fM2Pj5FOxmtuz0d/0Ov+4fqitbnPPF6o5MyEC4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -319,7 +323,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WfZ7OC5nVIDzYHuodI/Nh29c2TkOhNc1cS+GV4RnGQQ=
+			VWEC2Q9Lbt4Htu93TT+8ewvkhL10ZBiEkOFbAcKZcsA=
 			</data>
 		</dict>
 		<key>TensorFlowLite.bundle/PrivacyInfo.xcprivacy</key>
@@ -333,7 +337,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wFyyTmpoKWQJhNiizJpW/txDw4uSe53+8wkz9S13XNc=
+			/tqNpnEmq2+u8X4oCngfoVHl9D8gX7fGF4Ix2iVupGw=
 			</data>
 		</dict>
 		<key>TensorFlowLiteC.bundle/PrivacyInfo.xcprivacy</key>
@@ -341,6 +345,13 @@
 			<key>hash2</key>
 			<data>
 			A7LHCDOjMaKx79Ef8WjtAqjq39Xn0fvzDuzHUJpK6kc=
+			</data>
+		</dict>
+		<key>package.sh</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			U1RpkzU7k6qNuFPSGvmR6F7g2rnZjjOx0O02Lf/uAmQ=
 			</data>
 		</dict>
 		<key>subModel.bundle/FaceAI.model</key>
