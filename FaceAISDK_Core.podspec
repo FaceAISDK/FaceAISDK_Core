@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "FaceAISDK_Core"
-  s.version      = "2026.07.19"
+  s.version      = "2026.07.20.beta1"
   s.platform     = :ios, '15.5'
   s.summary      = "on_device Face Recognition 、 Liveness detection"
   s.homepage     = "https://github.com/FaceAISDK/FaceAISDK_Core"
@@ -14,8 +14,8 @@ Pod::Spec.new do |s|
   # 上传发布（调试不需要）  pod trunk push FaceAISDK_Core.podspec --skip-import-validation
   # 更新 pod install --repo-update
 
-  s.swift_versions = ['5.9', '6.3']
-  s.static_framework = true #通常建议作为静态框架
+  s.swift_versions = ['5.9', '6.0', '6.1', '6.2', '6.3']
+  s.static_framework = true  #通常建议作为静态框架
 
   # --- 依赖配置 ---
   s.dependency 'GoogleMLKit/FaceDetection', '9.0.0'
@@ -35,9 +35,11 @@ Pod::Spec.new do |s|
   s.libraries = 'c++' # 链接 C++ 标准库
   
   s.pod_target_xcconfig = {
-    'OTHER_LDFLAGS' => '-lc++ -ObjC',
+    'OTHER_LDFLAGS' => '-lc++ -ObjC', # 确保链接器能找到 C++ 符号
     'BUILD_LIBRARY_FOR_DISTRIBUTION' => 'YES',
-    'SKIP_INSTALL' => 'NO'
+    'OTHER_SWIFT_FLAGS' => '-Xfrontend -enable-library-evolution',
+    'SKIP_INSTALL' => 'NO',
+    # 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
   }
 
   s.user_target_xcconfig = {
