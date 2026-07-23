@@ -11762,1301 +11762,1301 @@
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "FloatLiteral",
       "offset": 750,
-      "length": 3,
-      "value": "0.8"
+      "length": 4,
+      "value": "0.75"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "FloatLiteral",
-      "offset": 802,
+      "offset": 803,
       "length": 4,
       "value": "0.85"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 852,
+      "offset": 853,
       "length": 3,
       "value": "112"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "FloatLiteral",
-      "offset": 912,
+      "offset": 920,
       "length": 3,
-      "value": "5.2"
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "FloatLiteral",
-      "offset": 1027,
-      "length": 3,
-      "value": "4.5"
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "FloatLiteral",
-      "offset": 1115,
-      "length": 5,
-      "value": "360.0"
+      "value": "4.0"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 1237,
+      "offset": 1068,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "StringLiteral",
-      "offset": 1468,
+      "offset": 1299,
       "length": 17,
       "value": "\"FACE_THE_CAMERA\""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "StringLiteral",
-      "offset": 1617,
+      "offset": 1448,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 1759,
+      "offset": 1590,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "FloatLiteral",
-      "offset": 1802,
+      "offset": 1633,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "Array",
-      "offset": 1850,
+      "offset": 1681,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "FloatLiteral",
-      "offset": 2086,
+      "offset": 1917,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 2130,
+      "offset": 1961,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 2165,
+      "offset": 1996,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 2207,
+      "offset": 2038,
       "length": 4,
       "value": "-999"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 2272,
+      "offset": 2103,
       "length": 4,
       "value": "-999"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "StringLiteral",
-      "offset": 2571,
+      "offset": 2402,
       "length": 21,
       "value": "\"FaceAI.SessionQueue\""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 2639,
+      "offset": 2470,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 2680,
+      "offset": 2511,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "FloatLiteral",
-      "offset": 2725,
+      "offset": 2556,
       "length": 4,
       "value": "0.00"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 2963,
+      "offset": 2794,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 3044,
+      "offset": 2875,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 3081,
+      "offset": 2912,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "FloatLiteral",
-      "offset": 3124,
+      "offset": 2955,
       "length": 4,
       "value": "-1.0"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 3166,
+      "offset": 2997,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 3211,
+      "offset": 3042,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "Array",
-      "offset": 3347,
+      "offset": 3178,
       "length": 15,
       "value": "[1, 2, 3, 4, 5]"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "Array",
-      "offset": 3396,
+      "offset": 3227,
       "length": 6,
       "value": "[1, 3]"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 3437,
+      "offset": 3268,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 3471,
+      "offset": 3302,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 3508,
+      "offset": 3339,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 3546,
+      "offset": 3377,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 3634,
+      "offset": 3465,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 3679,
+      "offset": 3510,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 3870,
+      "offset": 3701,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 3912,
+      "offset": 3743,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 4059,
+      "offset": 3890,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 4104,
+      "offset": 3935,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 4286,
+      "offset": 4117,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "FloatLiteral",
-      "offset": 4501,
+      "offset": 4332,
       "length": 4,
       "value": "0.83"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 4557,
+      "offset": 4388,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 4611,
+      "offset": 4442,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "StringLiteral",
-      "offset": 4673,
+      "offset": 4504,
       "length": 11,
       "value": "\"1,2,3,4,5\""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 4745,
+      "offset": 4576,
       "length": 1,
       "value": "6"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 4805,
+      "offset": 4636,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "FloatLiteral",
-      "offset": 5046,
+      "offset": 4877,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 5671,
+      "offset": 5493,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 5728,
+      "offset": 5550,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 5753,
+      "offset": 5575,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 5801,
+      "offset": 5623,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 5826,
+      "offset": 5648,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "Array",
-      "offset": 6340,
+      "offset": 6162,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "StringLiteral",
-      "offset": 6391,
+      "offset": 6213,
       "length": 3,
       "value": "\",\""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 6554,
+      "offset": 6376,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 6579,
+      "offset": 6401,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 6599,
+      "offset": 6421,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 6637,
+      "offset": 6459,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 6657,
+      "offset": 6479,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 6707,
+      "offset": 6529,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 6728,
+      "offset": 6550,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 6760,
+      "offset": 6582,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 6781,
+      "offset": 6603,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 6786,
+      "offset": 6608,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 6858,
+      "offset": 6680,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 6897,
+      "offset": 6719,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 6924,
+      "offset": 6746,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 6963,
+      "offset": 6785,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 6993,
+      "offset": 6815,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 7085,
+      "offset": 6907,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 7113,
+      "offset": 6935,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 7146,
+      "offset": 6968,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 7176,
+      "offset": 6998,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "FloatLiteral",
-      "offset": 7206,
+      "offset": 7028,
       "length": 3,
       "value": "0.2"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 7232,
+      "offset": 7054,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 7257,
+      "offset": 7079,
       "length": 4,
       "value": "-999"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 7290,
+      "offset": 7112,
       "length": 4,
       "value": "-999"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 7357,
+      "offset": 7143,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 7385,
+      "offset": 7171,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 7635,
+      "offset": 7373,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 7666,
+      "offset": 7404,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "FloatLiteral",
-      "offset": 7805,
+      "offset": 7543,
       "length": 4,
       "value": "-1.0"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 7839,
+      "offset": 7577,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "StringLiteral",
-      "offset": 7917,
+      "offset": 7655,
       "length": 20,
       "value": "\"请正对摄像头\""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "StringLiteral",
-      "offset": 8012,
+      "offset": 7750,
       "length": 14,
       "value": "\"清空提示\""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "StringLiteral",
-      "offset": 8714,
+      "offset": 8452,
       "length": 47,
       "value": "\"Failed to get capture device or create input.\""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 9491,
+      "offset": 9229,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "StringLiteral",
-      "offset": 9560,
+      "offset": 9298,
       "length": 27,
       "value": "\"FaceAI.VideoFrameAnalysis\""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 10333,
-      "length": 3,
-      "value": "600"
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 11335,
-      "length": 3,
-      "value": "123"
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 11458,
-      "length": 1,
-      "value": "2"
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 11628,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 12095,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "StringLiteral",
-      "offset": 12626,
-      "length": 20,
-      "value": "\"未检测到人脸\""
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 12688,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 12787,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 12896,
-      "length": 4,
-      "value": "1000"
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 12953,
-      "length": 3,
-      "value": "234"
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "StringLiteral",
-      "offset": 13045,
-      "length": 17,
-      "value": "\"请靠近一点\""
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "StringLiteral",
-      "offset": 13201,
-      "length": 14,
-      "value": "\"清空提示\""
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "StringLiteral",
-      "offset": 14120,
-      "length": 41,
-      "value": "\"✅ CurrentID (\""
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "StringLiteral",
-      "offset": 14148,
-      "length": 1,
-      "value": "\") Registered\""
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 14452,
-      "length": 2,
-      "value": "27"
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 14470,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 14487,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "StringLiteral",
-      "offset": 14765,
-      "length": 21,
-      "value": "\"SDK Version Too Old\""
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 15150,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 16439,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 16458,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "FloatLiteral",
-      "offset": 16497,
-      "length": 3,
-      "value": "0.5"
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "FloatLiteral",
-      "offset": 16505,
-      "length": 3,
-      "value": "0.5"
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "FloatLiteral",
-      "offset": 17316,
-      "length": 3,
-      "value": "1.0"
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "FloatLiteral",
-      "offset": 17469,
-      "length": 3,
-      "value": "0.0"
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "FloatLiteral",
-      "offset": 17478,
-      "length": 3,
-      "value": "1.0"
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "FloatLiteral",
-      "offset": 17513,
-      "length": 3,
-      "value": "0.0"
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "FloatLiteral",
-      "offset": 17522,
-      "length": 3,
-      "value": "1.0"
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 17873,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 18055,
-      "length": 2,
-      "value": "16"
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 18169,
-      "length": 2,
-      "value": "16"
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 18991,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 19026,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "StringLiteral",
-      "offset": 19633,
-      "length": 53,
-      "value": "\"✅ 当前帧静默活体分数： (\""
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "StringLiteral",
-      "offset": 19683,
-      "length": 1,
-      "value": "\") \""
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "FloatLiteral",
-      "offset": 19721,
-      "length": 5,
-      "value": "0.123"
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 19955,
-      "length": 1,
-      "value": "7"
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 20127,
-      "length": 1,
-      "value": "4"
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "FloatLiteral",
-      "offset": 20216,
-      "length": 5,
-      "value": "0.345"
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 20565,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "StringLiteral",
-      "offset": 20674,
-      "length": 57,
-      "value": "\"😊 加权静默活体分数： (\""
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "StringLiteral",
-      "offset": 20728,
-      "length": 1,
-      "value": "\") \""
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 21257,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 21279,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 21320,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 21348,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 22613,
-      "length": 4,
-      "value": "1000"
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "StringLiteral",
-      "offset": 22705,
-      "length": 26,
-      "value": "\"动作活体检验超时\""
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 23185,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 23244,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 23320,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "StringLiteral",
-      "offset": 23405,
-      "length": 20,
-      "value": "\"请正对摄像头\""
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 23472,
-      "length": 4,
-      "value": "4095"
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 23856,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "StringLiteral",
-      "offset": 24012,
-      "length": 14,
-      "value": "\"请张张嘴\""
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "StringLiteral",
-      "offset": 24447,
-      "length": 11,
-      "value": "\"请微笑\""
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "StringLiteral",
-      "offset": 24806,
-      "length": 11,
-      "value": "\"请眨眼\""
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "StringLiteral",
-      "offset": 25325,
-      "length": 11,
-      "value": "\"请摇头\""
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "FloatLiteral",
-      "offset": 25445,
-      "length": 3,
-      "value": "5.0"
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "StringLiteral",
-      "offset": 25854,
-      "length": 11,
-      "value": "\"请点头\""
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "FloatLiteral",
-      "offset": 25974,
-      "length": 3,
-      "value": "3.5"
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "StringLiteral",
-      "offset": 26686,
-      "length": 41,
-      "value": "\"即将炫彩活体，请靠近摄像头\""
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 26798,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 26858,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "StringLiteral",
-      "offset": 27523,
-      "length": 20,
-      "value": "\"炫彩活体失败\""
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "StringLiteral",
-      "offset": 28188,
-      "length": 20,
-      "value": "\"请正对摄像头\""
-    },
-    {
-      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 28323,
+      "offset": 10071,
       "length": 3,
       "value": "700"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 28354,
+      "offset": 11073,
+      "length": 3,
+      "value": "123"
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 11196,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11366,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11833,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "StringLiteral",
+      "offset": 12302,
+      "length": 20,
+      "value": "\"未检测到人脸\""
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 12364,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 12463,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 12581,
       "length": 4,
       "value": "1000"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 28705,
+      "offset": 12638,
+      "length": 3,
+      "value": "234"
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "StringLiteral",
+      "offset": 12730,
+      "length": 17,
+      "value": "\"请靠近一点\""
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "StringLiteral",
+      "offset": 12886,
+      "length": 14,
+      "value": "\"清空提示\""
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "StringLiteral",
+      "offset": 13818,
+      "length": 41,
+      "value": "\"✅ CurrentID (\""
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "StringLiteral",
+      "offset": 13846,
+      "length": 1,
+      "value": "\") Registered\""
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 14038,
+      "length": 2,
+      "value": "27"
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 14056,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 29170,
+      "offset": 14073,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "StringLiteral",
+      "offset": 14351,
+      "length": 21,
+      "value": "\"SDK Version Too Old\""
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 14736,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 16140,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 16159,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "FloatLiteral",
+      "offset": 16198,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "FloatLiteral",
+      "offset": 16206,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "FloatLiteral",
+      "offset": 17017,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "FloatLiteral",
+      "offset": 17170,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "FloatLiteral",
+      "offset": 17179,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "FloatLiteral",
+      "offset": 17214,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "FloatLiteral",
+      "offset": 17223,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 17493,
+      "length": 2,
+      "value": "18"
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 17607,
+      "length": 2,
+      "value": "18"
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 18208,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 18243,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "FloatLiteral",
+      "offset": 18944,
+      "length": 5,
+      "value": "0.123"
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 19178,
+      "length": 1,
+      "value": "7"
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 19340,
+      "length": 4,
+      "value": "1000"
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 19397,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "StringLiteral",
+      "offset": 19489,
+      "length": 17,
+      "value": "\"请靠近一点\""
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "StringLiteral",
+      "offset": 19618,
+      "length": 14,
+      "value": "\"清空提示\""
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 19823,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "FloatLiteral",
+      "offset": 19912,
+      "length": 5,
+      "value": "0.345"
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 20261,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 20955,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 20977,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 21018,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 21046,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 22311,
+      "length": 4,
+      "value": "1000"
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "StringLiteral",
+      "offset": 22403,
+      "length": 26,
+      "value": "\"动作活体检验超时\""
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 22883,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 22942,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 23018,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "StringLiteral",
+      "offset": 23103,
+      "length": 20,
+      "value": "\"请正对摄像头\""
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 23170,
+      "length": 4,
+      "value": "4095"
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 23554,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "StringLiteral",
+      "offset": 23710,
+      "length": 14,
+      "value": "\"请张张嘴\""
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "StringLiteral",
+      "offset": 24145,
+      "length": 11,
+      "value": "\"请微笑\""
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "StringLiteral",
+      "offset": 24504,
+      "length": 11,
+      "value": "\"请眨眼\""
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "StringLiteral",
+      "offset": 25023,
+      "length": 11,
+      "value": "\"请摇头\""
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "FloatLiteral",
+      "offset": 25143,
+      "length": 3,
+      "value": "5.0"
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "StringLiteral",
+      "offset": 25552,
+      "length": 11,
+      "value": "\"请点头\""
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "FloatLiteral",
+      "offset": 25672,
+      "length": 3,
+      "value": "3.5"
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 26279,
+      "length": 3,
+      "value": "333"
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "StringLiteral",
+      "offset": 26364,
+      "length": 41,
+      "value": "\"即将炫彩活体，请靠近摄像头\""
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 26476,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 26536,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "StringLiteral",
+      "offset": 27201,
+      "length": 20,
+      "value": "\"炫彩活体失败\""
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "StringLiteral",
+      "offset": 27866,
+      "length": 20,
+      "value": "\"请正对摄像头\""
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 28001,
+      "length": 3,
+      "value": "700"
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 28032,
+      "length": 4,
+      "value": "1000"
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 28383,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 28848,
       "length": 3,
       "value": "333"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 30113,
+      "offset": 29791,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 30133,
+      "length": 3,
+      "value": "800"
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "StringLiteral",
-      "offset": 30435,
+      "offset": 30229,
       "length": 20,
       "value": "\"活体检测完成\""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 30743,
+      "offset": 30487,
       "length": 4,
-      "value": "2000"
+      "value": "2500"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "StringLiteral",
-      "offset": 30846,
+      "offset": 30590,
       "length": 26,
       "value": "\"静默活体检测失败\""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 31246,
+      "offset": 30990,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 31308,
+      "length": 3,
+      "value": "800"
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "StringLiteral",
-      "offset": 31635,
+      "offset": 31394,
       "length": 20,
       "value": "\"人脸识别成功\""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 31882,
+      "offset": 31641,
       "length": 4,
-      "value": "2000"
+      "value": "2500"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "StringLiteral",
-      "offset": 32258,
+      "offset": 32017,
       "length": 26,
       "value": "\"静默活体检测失败\""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "FloatLiteral",
-      "offset": 32654,
+      "offset": 32413,
       "length": 5,
       "value": "-11.0"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "FloatLiteral",
-      "offset": 32674,
+      "offset": 32433,
       "length": 4,
       "value": "12.0"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "FloatLiteral",
-      "offset": 32691,
+      "offset": 32450,
       "length": 4,
       "value": "12.0"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "FloatLiteral",
-      "offset": 32711,
+      "offset": 32470,
       "length": 5,
       "value": "-12.0"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "FloatLiteral",
-      "offset": 32729,
+      "offset": 32488,
       "length": 4,
       "value": "-8.0"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "FloatLiteral",
-      "offset": 32746,
+      "offset": 32505,
       "length": 3,
       "value": "8.0"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "FloatLiteral",
-      "offset": 32772,
+      "offset": 32531,
       "length": 3,
       "value": "0.1"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "StringLiteral",
-      "offset": 33042,
+      "offset": 32801,
       "length": 17,
       "value": "\"不要闭眼睛\""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 33080,
+      "offset": 32839,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "StringLiteral",
-      "offset": 33222,
+      "offset": 32981,
       "length": 20,
       "value": "\"向右摆正头部\""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 33263,
+      "offset": 33022,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "StringLiteral",
-      "offset": 33405,
+      "offset": 33164,
       "length": 20,
       "value": "\"向左摆正头部\""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 33446,
+      "offset": 33205,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "StringLiteral",
-      "offset": 33625,
+      "offset": 33384,
       "length": 14,
       "value": "\"不要歪头\""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 33660,
+      "offset": 33419,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "StringLiteral",
-      "offset": 33802,
+      "offset": 33561,
       "length": 20,
       "value": "\"向上摆正头部\""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 33843,
+      "offset": 33602,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "StringLiteral",
-      "offset": 33985,
+      "offset": 33744,
       "length": 20,
       "value": "\"向下摆正头部\""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 34026,
+      "offset": 33785,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceAISDKOldMac\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 34068,
+      "offset": 33827,
       "length": 4,
       "value": "true"
     },
