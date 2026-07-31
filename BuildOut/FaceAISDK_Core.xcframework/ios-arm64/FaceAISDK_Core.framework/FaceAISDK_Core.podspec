@@ -42,8 +42,4 @@ Pod::Spec.new do |s|
     # 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
   }
 
-  s.user_target_xcconfig = {
-    'BUILD_LIBRARY_FOR_DISTRIBUTION' => 'YES'
-  }
-
 end

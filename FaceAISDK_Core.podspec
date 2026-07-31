@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "FaceAISDK_Core"
-  s.version      = "2026.07.30.beta1"
+  s.version      = "2026.07.30.beta2"
   s.platform     = :ios, '15.5'
   s.summary      = "on_device Face Recognition , Liveness detection. Refactor code 20270811"
   s.homepage     = "https://github.com/FaceAISDK/FaceAISDK_Core"
