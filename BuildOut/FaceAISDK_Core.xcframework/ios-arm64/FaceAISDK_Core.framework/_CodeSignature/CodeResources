@@ -78,7 +78,7 @@
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		6i7FuppTsPatS9S+9jvmGd5b2Ok=
+		yKkK7QfekUAfDXI2JcwtBFvUIfY=
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -94,7 +94,7 @@
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		dpUrmwsHOLY//VhWGUaKkZNiqn0=
+		lvG5XAv5xxbgDKumtJI2kAjSRaw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -128,25 +128,25 @@
 		<data>
 		F9XH3SjEUBOOgq1XzRJwKlCiFLk=
 		</data>
-		<key>subModel.bundle/config.json</key>
+		<key>subModel.bundle/config.tflite</key>
 		<data>
-		aQYpbGn5KkRBbPy0b04gMCOTYT4=
+		iBd+/Tw8X60xExbxNnwMDgIQXng=
 		</data>
-		<key>subModel.bundle/liveness_model_1.bin</key>
+		<key>subModel.bundle/detect_1.tflite</key>
 		<data>
-		kvouYDjVhvaLkqszTgQeFizgEsA=
+		URd9LJSesrbSFljCFO6Az7bAoso=
 		</data>
-		<key>subModel.bundle/liveness_model_1.param</key>
+		<key>subModel.bundle/detect_1_p.tflite</key>
 		<data>
-		soCzh4HYe+qLlYCF2SXBB+qBJJM=
+		6rn0T7Y/rGCrZq56uosVs9J50X4=
 		</data>
-		<key>subModel.bundle/liveness_model_2.bin</key>
+		<key>subModel.bundle/detect_2.tflite</key>
 		<data>
-		RFSl0g3CiOjUC9+fEXD7pDCvZyw=
+		SMjd6e11ge5JY+En4y7ihvmeR5w=
 		</data>
-		<key>subModel.bundle/liveness_model_2.param</key>
+		<key>subModel.bundle/detect_2_p.tflite</key>
 		<data>
-		q6NourlD1JGlg+EAy0ZoBwfMfYU=
+		CL7OXJa4nQu+GqtF/3rPU7/xRNg=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -342,11 +342,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			6i7FuppTsPatS9S+9jvmGd5b2Ok=
+			yKkK7QfekUAfDXI2JcwtBFvUIfY=
 			</data>
 			<key>hash2</key>
 			<data>
-			HriM6Y5i4TGg6yOUR/Vf19Q5k/k6ZxqKPVEEZoBJIqg=
+			P2r9NLKCSd5qnGyIxNwbwveEaxhHPuWALExNWmi3jOY=
 			</data>
 		</dict>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -386,11 +386,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			dpUrmwsHOLY//VhWGUaKkZNiqn0=
+			lvG5XAv5xxbgDKumtJI2kAjSRaw=
 			</data>
 			<key>hash2</key>
 			<data>
-			PyawPMvx3ZiQpx5AU2//XQ7TETCCQ0PjrKBvCaYh5Ho=
+			2mKFaJru+rLBoWsGEJ6y3dOec6Z7d+93qbNMtvimBHo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -481,59 +481,59 @@
 			rvyfIGbfkNiOxteibyjQPLI4yTAQ1i4YSXfYWAlAdts=
 			</data>
 		</dict>
-		<key>subModel.bundle/config.json</key>
+		<key>subModel.bundle/config.tflite</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			aQYpbGn5KkRBbPy0b04gMCOTYT4=
+			iBd+/Tw8X60xExbxNnwMDgIQXng=
 			</data>
 			<key>hash2</key>
 			<data>
-			QDG9v3Z/8f6vhUlVdMP0CmsCrhuAg7nx5ZhdcP271zo=
+			4snRMeUeUoPNW6AtYNOdQLa/Nh+y9aZLF1E/whaJy0s=
 			</data>
 		</dict>
-		<key>subModel.bundle/liveness_model_1.bin</key>
+		<key>subModel.bundle/detect_1.tflite</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			kvouYDjVhvaLkqszTgQeFizgEsA=
+			URd9LJSesrbSFljCFO6Az7bAoso=
 			</data>
 			<key>hash2</key>
 			<data>
-			YLpJZ1wkvDUzzNyZdJk4mVXTyPepJE7O6LzpKe6iNQk=
+			PTh0ffliwVKzgJaDB9up/kgal7tFuirobJ4MoaXdxwI=
 			</data>
 		</dict>
-		<key>subModel.bundle/liveness_model_1.param</key>
+		<key>subModel.bundle/detect_1_p.tflite</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			soCzh4HYe+qLlYCF2SXBB+qBJJM=
+			6rn0T7Y/rGCrZq56uosVs9J50X4=
 			</data>
 			<key>hash2</key>
 			<data>
-			iNMgImcSa6NzOsS2BoMNEl+gCJRJFzs4szPdFdTO+NI=
+			53cpQ/If106RxYTtdFXcF0yU5haCzdLESa6OzBfVLf0=
 			</data>
 		</dict>
-		<key>subModel.bundle/liveness_model_2.bin</key>
+		<key>subModel.bundle/detect_2.tflite</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			RFSl0g3CiOjUC9+fEXD7pDCvZyw=
+			SMjd6e11ge5JY+En4y7ihvmeR5w=
 			</data>
 			<key>hash2</key>
 			<data>
-			AzGLkQLhYyHxcb8whgnOBw0cLXFca5ITzd5OB0ikQho=
+			Z0rsFnfMMpvHVnNphqDgHKExWAMoJRkJIBCGRVhRo0k=
 			</data>
 		</dict>
-		<key>subModel.bundle/liveness_model_2.param</key>
+		<key>subModel.bundle/detect_2_p.tflite</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			q6NourlD1JGlg+EAy0ZoBwfMfYU=
+			CL7OXJa4nQu+GqtF/3rPU7/xRNg=
 			</data>
 			<key>hash2</key>
 			<data>
-			v7EN7AEDbSUVd55gSwC3MR6aZ9B3eoxDl09elzXNJ7A=
+			LsP1hhF8aHY4JWPmcUQVuCsB1c5d41wZ6KVUkbW6+SQ=
 			</data>
 		</dict>
 	</dict>
