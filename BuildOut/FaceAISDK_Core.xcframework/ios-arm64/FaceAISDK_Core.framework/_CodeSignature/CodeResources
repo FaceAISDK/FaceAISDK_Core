@@ -78,7 +78,7 @@
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		eGZzmRzP5wc3uKxIZPb5PphRJwo=
+		x6AxEddS0URZk2dvk8Kd0p2hCsE=
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -342,11 +342,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			eGZzmRzP5wc3uKxIZPb5PphRJwo=
+			x6AxEddS0URZk2dvk8Kd0p2hCsE=
 			</data>
 			<key>hash2</key>
 			<data>
-			MnOfYO8oqHydtyvatkIw14121mR1ZOZxLfmO0wdQlsk=
+			EP5ZraEwy7fmIoS7RykyvYVrR1qripCylW9E6DO1c04=
 			</data>
 		</dict>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
