@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "FaceAISDK_Core"
-  s.version      = "2026.07.31.XJ"
+  s.version      = "2026.07.31.nccn"
   s.platform     = :ios, '15.5'
   s.summary      = "on_device Face Recognition , Liveness detection. Refactor code 20270811"
   s.homepage     = "https://github.com/FaceAISDK/FaceAISDK_Core"
@@ -23,9 +23,9 @@ Pod::Spec.new do |s|
 
   
   # --- 框架二进制配置 (核心修复：合并数组) ---
+  # 删除 'Silent/framework/ncnn.xcframework'
   s.ios.vendored_frameworks = [
-    'BuildOut/*.xcframework',
-    'Silent/framework/ncnn.xcframework'
+    'BuildOut/*.xcframework'
   ]
 
   # --- 资源文件 ---
