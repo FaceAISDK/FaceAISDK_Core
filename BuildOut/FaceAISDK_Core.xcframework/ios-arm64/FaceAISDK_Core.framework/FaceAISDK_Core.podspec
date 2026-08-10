@@ -24,8 +24,7 @@ Pod::Spec.new do |s|
   
   # --- 框架二进制配置 (核心修复：合并数组) ---
   s.ios.vendored_frameworks = [
-    'BuildOut/*.xcframework',
-    'Silent/framework/ncnn.xcframework'
+    'BuildOut/*.xcframework'
   ]
 
   # --- 资源文件 ---
