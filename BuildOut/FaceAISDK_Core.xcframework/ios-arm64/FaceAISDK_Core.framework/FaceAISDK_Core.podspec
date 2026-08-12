@@ -1,8 +1,8 @@
 Pod::Spec.new do |s|
   s.name         = "FaceAISDK_Core"
-  s.version      = "2026.07.20.debug"
+  s.version      = "2026.08.11.test"
   s.platform     = :ios, '15.5'
-  s.summary      = "on_device Face Recognition 、 Liveness detection"
+  s.summary      = "on_device Face Recognition , Liveness detection. Refactor code 20270811"
   s.homepage     = "https://github.com/FaceAISDK/FaceAISDK_Core"
   s.license      = { :type => "FaceAISDK License", :file => "LICENSE" }
   s.author       = { "FaceAISDK_Core" => "FaceAISDK.Service@gmail.com" }
@@ -23,6 +23,7 @@ Pod::Spec.new do |s|
 
   
   # --- 框架二进制配置 (核心修复：合并数组) ---
+  # 删除 'Silent/framework/ncnn.xcframework'
   s.ios.vendored_frameworks = [
     'BuildOut/*.xcframework'
   ]
@@ -39,6 +40,10 @@ Pod::Spec.new do |s|
     'OTHER_SWIFT_FLAGS' => '-Xfrontend -enable-library-evolution',
     'SKIP_INSTALL' => 'NO',
     # 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
+  }
+
+  s.user_target_xcconfig = {
+    'BUILD_LIBRARY_FOR_DISTRIBUTION' => 'YES'
   }
 
 end

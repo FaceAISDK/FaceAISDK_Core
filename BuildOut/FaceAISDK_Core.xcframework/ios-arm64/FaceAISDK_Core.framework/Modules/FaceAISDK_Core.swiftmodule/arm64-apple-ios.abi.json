@@ -12617,7 +12617,7 @@
       "kind": "IntegerLiteral",
       "offset": 13423,
       "length": 3,
-      "value": "222"
+      "value": "210"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceSDKiOS_private\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
@@ -12799,7 +12799,7 @@
       "kind": "IntegerLiteral",
       "offset": 20512,
       "length": 3,
-      "value": "255"
+      "value": "234"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceSDKiOS_private\/FaceAISDK_Core\/FaceAISDK_Core\/FaceVerify\/VerifyFaceModel.swift",
