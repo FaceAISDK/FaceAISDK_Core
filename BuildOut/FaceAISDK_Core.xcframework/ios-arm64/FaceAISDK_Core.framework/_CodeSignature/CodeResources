@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>AI Agent Access Policy.markdown</key>
+		<data>
+		pK+6KUeKQKJ5PIydeI6ahXDAjj8=
+		</data>
 		<key>FaceAISDK_Core.podspec</key>
 		<data>
 		lAXn/bVStok6xtsuHDjQWbbSOhE=
@@ -78,7 +82,7 @@
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		EUhH1CG3CjcJF/xfZnbsSIStOP4=
+		qo7TKsBtoyewhS/FZM/TQPCSqZs=
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -86,7 +90,7 @@
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		3c7MNojfeLiPqW8FAJSpDPtViU4=
+		mS4ZRv3FPAS7O8hsuV0qKi5vtFM=
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
@@ -94,7 +98,7 @@
 		</data>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		hrqCrMG3fCY1sj+jkQxkdyU6/10=
+		h2nVU70YTd+fQ3lslo8bPQGuFqw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -151,6 +155,17 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>AI Agent Access Policy.markdown</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			pK+6KUeKQKJ5PIydeI6ahXDAjj8=
+			</data>
+			<key>hash2</key>
+			<data>
+			cSLIc3ve8GPnZMIxl3ivPUbfbF36zZ/wtwCT2qpbXR4=
+			</data>
+		</dict>
 		<key>FaceAISDK_Core.podspec</key>
 		<dict>
 			<key>hash</key>
@@ -342,11 +357,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			EUhH1CG3CjcJF/xfZnbsSIStOP4=
+			qo7TKsBtoyewhS/FZM/TQPCSqZs=
 			</data>
 			<key>hash2</key>
 			<data>
-			UC9gU1EdrPck0YEJ4rz3RCUQW3mZW2zI1WuZ/yacMkE=
+			Q6cdHEPXOSnYijXoGSiQ1xCT7ZkiPyx6G7RkU7+g6W0=
 			</data>
 		</dict>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -364,11 +379,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3c7MNojfeLiPqW8FAJSpDPtViU4=
+			mS4ZRv3FPAS7O8hsuV0qKi5vtFM=
 			</data>
 			<key>hash2</key>
 			<data>
-			zuA6tDx6Mn+tA1tLOHywHtp+PWswebTOGrdN4hz1/LE=
+			ZCotsG3SrDZslEUSVaCnyIfLjzm65pvcu4RL/9G8hYc=
 			</data>
 		</dict>
 		<key>Modules/FaceAISDK_Core.swiftmodule/arm64-apple-ios.swiftinterface</key>
@@ -386,11 +401,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			hrqCrMG3fCY1sj+jkQxkdyU6/10=
+			h2nVU70YTd+fQ3lslo8bPQGuFqw=
 			</data>
 			<key>hash2</key>
 			<data>
-			LS+LnPUCuWpnTVFp1r7vWfGu5pGmMAVgDQp7o/TBXnU=
+			sLwyLSH0vfqZNFCtqKfShxt61j3oDVqmW3AUl7bES1o=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
