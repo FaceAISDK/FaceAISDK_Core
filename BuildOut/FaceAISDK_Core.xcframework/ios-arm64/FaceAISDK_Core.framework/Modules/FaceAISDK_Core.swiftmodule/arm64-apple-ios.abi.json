@@ -11159,41 +11159,48 @@
       "filePath": "\/Users\/zlb\/ios_code\/FaceSDKiOS_private\/FaceAISDK_Core\/FaceAISDK_Core\/Base\/AppRegistry.swift",
       "kind": "StringLiteral",
       "offset": 465,
+      "length": 13,
+      "value": "\"app.release\""
+    },
+    {
+      "filePath": "\/Users\/zlb\/ios_code\/FaceSDKiOS_private\/FaceAISDK_Core\/FaceAISDK_Core\/Base\/AppRegistry.swift",
+      "kind": "StringLiteral",
+      "offset": 542,
       "length": 20,
       "value": "\"com.fooww.meijuyun\""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceSDKiOS_private\/FaceAISDK_Core\/FaceAISDK_Core\/Base\/AppRegistry.swift",
       "kind": "StringLiteral",
-      "offset": 527,
+      "offset": 604,
       "length": 16,
       "value": "\"uni.UNICE350B2\""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceSDKiOS_private\/FaceAISDK_Core\/FaceAISDK_Core\/Base\/AppRegistry.swift",
       "kind": "StringLiteral",
-      "offset": 619,
+      "offset": 696,
       "length": 16,
       "value": "\"com.whizzl.app\""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceSDKiOS_private\/FaceAISDK_Core\/FaceAISDK_Core\/Base\/AppRegistry.swift",
       "kind": "StringLiteral",
-      "offset": 699,
+      "offset": 776,
       "length": 26,
       "value": "\"com.massoftware.aqtivehr\""
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceSDKiOS_private\/FaceAISDK_Core\/FaceAISDK_Core\/Base\/AppRegistry.swift",
       "kind": "BooleanLiteral",
-      "offset": 1447,
+      "offset": 1524,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zlb\/ios_code\/FaceSDKiOS_private\/FaceAISDK_Core\/FaceAISDK_Core\/Base\/AppRegistry.swift",
       "kind": "BooleanLiteral",
-      "offset": 1596,
+      "offset": 1673,
       "length": 5,
       "value": "false"
     },
